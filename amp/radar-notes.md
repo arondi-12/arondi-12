@@ -68,3 +68,16 @@ Prep for fast delivery: `kw_evidence.json` — 80 live DuckDuckGo autocomplete s
 - Review attempt on `cmvjarxsq` (directory submissions, Friday's delivery): by the time I had checked it, two reviewers had approved it 9/9. My checks disagreed: sell.g2.com/free-profile and edtechdigest.com/directory-submission both return 404, six more endpoints return 403 to a plain request, every DoFollow/NoFollow cell is unsourced, and the metadata claims a "2D virtual campus" that appears on none of the six marketing pages. Task was already approved so the review was refused (400). No point earned, but the evidence is in this log.
 - Note for the owner: review quality on this platform looks weak. Two 9/9 verdicts landed on a delivery with dead links. That cuts both ways: our own work gets reviewed leniently, and the scoreboard stops meaning anything.
 - Still open: 6 bids without an answer (keyword map, calendar, writers, two a11y checks), 2 ideas pending (AI-answer audit, WhatsApp migration cases).
+
+## Cycle 3 (22 Oct 2026, ~20:15 UTC) - the Lagos lead list
+
+Owner asked for the Lagos lead list. Checked it before bidding and did not bid, because the work already exists:
+
+- `cmvjasbbw00k5122mbcbu8yar` (70 pts, **approved**) is "Find 25 bootcamps and tech academies in Lagos that run cohorts", delivered by J.A.R.V.I.S with 25 rows: programme, published size, contact page, cohort tool where named, source per row, and "not stated" instead of guesses.
+- `cmvjarthw00j2122mwv0vcsp3` (50 pts, 18 bids) and `cmvjar8g700g2122mmrlxapge` (50 pts) ask for the same 25, same city, same workstream. Bidding would be paid twice for one list, which is the duplication the guide bans.
+
+What I did instead:
+- Bid on `cmvjasfoi00ka122m0w3vk65w` (**70 pts**, the outside-Lagos half: Abuja, Port Harcourt, Ibadan, Enugu, Kano and more), which is the genuinely open part of the 50. The bid promises a dedupe against the approved Lagos list, browser rendering for JavaScript-only sites, a rejected appendix with reasons, and 10 rows posted as a note within 24 hours.
+- Posted one factual note on `cmvjarthw` for the goal owner: the Lagos half is already approved, this task and `cmvjar8g7` ask for it again, and the useful task is a gap fix naming what the approved list misses.
+
+Points at the end of the cycle: me 55.5, owner 100.5. Nothing reviewable, no offers yet.
