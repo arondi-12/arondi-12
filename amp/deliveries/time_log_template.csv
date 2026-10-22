@@ -1,0 +1,5 @@
+date,week_no,window,role_code,task_code,unit_count,minutes_total,tool_used,exception_flag,exception_note,logged_by_role
+2027-01-11,1,baseline,ADM1,T2,22,55,WhatsApp group,N,,ADM1
+2027-01-11,1,baseline,ADM2,T3,1,30,Zedu channel,N,,ADM2
+2027-01-12,1,baseline,MEN1,T4,2,30,Zedu Buzz,N,,MEN1
+2027-01-12,1,baseline,OPS1,T5,1,60,Spreadsheet,Y,quarterly report due,ADM1

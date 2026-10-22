@@ -1,0 +1,4177 @@
+{
+ "checked_on": "2026-10-22",
+ "tool": "Chrome for Testing Chrome/156.0.8078.47 (puppeteer), axe-core 4.14.0, viewport 1280x900, CDP Accessibility.getFullAXTree",
+ "pages": [
+  {
+   "path": "/",
+   "url": "https://zedu.chat/",
+   "status": 200,
+   "err": null,
+   "dom": {
+    "title": "Home",
+    "lang": "en",
+    "headings": [
+     {
+      "level": 1,
+      "text": "Built for Bootcamps and Learning Communities",
+      "visible": false,
+      "ariaHidden": null
+     },
+     {
+      "level": 1,
+      "text": "Everything you need for Modern Learning",
+      "visible": false,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "Organized Channels",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "Cohort Communication",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "Calls & Collaboration",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "AI Agents",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 1,
+      "text": "Fewer Tools, Smarter Learning",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "3x",
+      "visible": false,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "40%",
+      "visible": false,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "24/7",
+      "visible": false,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "All Your Learning Tools.One Simple Subscription",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 3,
+      "text": "Messaging System",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 3,
+      "text": "Live Teaching",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 3,
+      "text": "Storyboard",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 3,
+      "text": "Class Recordings",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 3,
+      "text": "Conversation Mesh",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 3,
+      "text": "File Management",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 3,
+      "text": "Whiteboard",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 3,
+      "text": "AI class notes",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 1,
+      "text": "The Platform for Every Type of Learning",
+      "visible": false,
+      "ariaHidden": null
+     },
+     {
+      "level": 3,
+      "text": "How Bootcamps Use Zedu to Improve Cohort Outcomes",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 3,
+      "text": "A Better Campus Communication Layer for Institutions",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 3,
+      "text": "Keeping K-12 Classrooms Organized, Safe, and Engaging",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 1,
+      "text": "Simple, Flexible Pricing for Education",
+      "visible": false,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "Starter",
+      "visible": false,
+      "ariaHidden": null
+     },
+     {
+      "level": 3,
+      "text": "₦0/month",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "Pro",
+      "visible": false,
+      "ariaHidden": null
+     },
+     {
+      "level": 3,
+      "text": "₦20K/month",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "Enterprise",
+      "visible": false,
+      "ariaHidden": null
+     },
+     {
+      "level": 3,
+      "text": "Let's Talk",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 1,
+      "text": "Launching a bootcamp? Let's build a pricing model that fits your cohort size.",
+      "visible": false,
+      "ariaHidden": null
+     },
+     {
+      "level": 1,
+      "text": "Why Educators Choose Zedu",
+      "visible": false,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "Built for Education, Not Business",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "No Per-Student Pricing",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "AI-Powered Teaching Support",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "Built For Secured, Structured Learning",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "Role-Based Access Control",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "Private Cohorts & Controlled Spaces",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "Data Protection & Platform Reliability",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 1,
+      "text": "Got a Question? We Have an Answer",
+      "visible": false,
+      "ariaHidden": null
+     },
+     {
+      "level": 3,
+      "text": "What is Zedu?",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 3,
+      "text": "How does Zedu support students and learners?",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 3,
+      "text": "Is Zedu difficult to set up for a school or bootcamp?",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 3,
+      "text": "Can Zedu use our institution’s information to answer questions?",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 3,
+      "text": "Is student support fully automated?",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 3,
+      "text": "How does pricing work for educational institutions?",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 1,
+      "text": "Run Your Next Cohort Without Limits",
+      "visible": false,
+      "ariaHidden": null
+     },
+     {
+      "level": 3,
+      "text": "Get Zedu today",
+      "visible": false,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "Products",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "Solutions",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "Zedu",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "Resources",
+      "visible": true,
+      "ariaHidden": null
+     }
+    ],
+    "landmarks": {
+     "main": 0,
+     "nav": 1,
+     "header": 0,
+     "footer": 1,
+     "roleMain": 0,
+     "roleNav": 0,
+     "ariaLabelMain": []
+    },
+    "skipCandidates": [],
+    "targetsOfSkip": [],
+    "bodyText": 0
+   },
+   "axe": {
+    "violations": [
+     {
+      "id": "heading-order",
+      "impact": "moderate",
+      "nodes": 3,
+      "targets": [
+       ".max-w-\\[380px\\].mx-auto.w-full:nth-child(1) > .drop-shadow-md > .px-5.py-5.sm\\:py-6 > .sm\\:text-lg.text-base",
+       ".border-\\[\\#E5E8FF\\].bg-\\[\\#FAFAFF\\].border:nth-child(1) > h3",
+       ".leading-none.text-2xl.text-white"
+      ]
+     },
+     {
+      "id": "landmark-one-main",
+      "impact": "moderate",
+      "nodes": 1,
+      "targets": [
+       "html"
+      ]
+     },
+     {
+      "id": "region",
+      "impact": "moderate",
+      "nodes": 71,
+      "targets": [
+       ".sm\\:text-4xl",
+       ".md\\:max-w-\\[65\\%\\]",
+       ".gap-1.items-center.flex > .font-medium"
+      ]
+     }
+    ],
+    "totalViolations": 4
+   },
+   "ax": {
+    "headings": [
+     {
+      "level": 1,
+      "name": "Run Your Next Cohort Without Limits",
+      "ignored": false
+     },
+     {
+      "level": 3,
+      "name": "Get Zedu today",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "Products",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "Solutions",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "Zedu",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "Resources",
+      "ignored": false
+     },
+     {
+      "level": 1,
+      "name": "Built for Bootcamps andLearning Communities",
+      "ignored": false
+     },
+     {
+      "level": 1,
+      "name": "Everything you need forModern Learning",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "Organized Channels",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "Cohort Communication",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "Calls & Collaboration",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "AI Agents",
+      "ignored": false
+     },
+     {
+      "level": 1,
+      "name": "Fewer Tools, Smarter Learning",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "3x",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "40%",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "24/7",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "All Your Learning Tools. One Simple Subscription",
+      "ignored": false
+     },
+     {
+      "level": 3,
+      "name": "Messaging System",
+      "ignored": false
+     },
+     {
+      "level": 3,
+      "name": "Live Teaching",
+      "ignored": false
+     },
+     {
+      "level": 3,
+      "name": "Storyboard",
+      "ignored": false
+     },
+     {
+      "level": 3,
+      "name": "Class Recordings",
+      "ignored": false
+     },
+     {
+      "level": 3,
+      "name": "Conversation Mesh",
+      "ignored": false
+     },
+     {
+      "level": 3,
+      "name": "File Management",
+      "ignored": false
+     },
+     {
+      "level": 3,
+      "name": "Whiteboard",
+      "ignored": false
+     },
+     {
+      "level": 3,
+      "name": "AI class notes",
+      "ignored": false
+     },
+     {
+      "level": 1,
+      "name": "The Platform for Every Type of Learning",
+      "ignored": false
+     },
+     {
+      "level": 1,
+      "name": "Simple, Flexible Pricing for Education",
+      "ignored": false
+     },
+     {
+      "level": 1,
+      "name": "Launching a bootcamp? Let's build a pricing model that fits your cohort size.",
+      "ignored": false
+     },
+     {
+      "level": 1,
+      "name": "Why Educators Choose Zedu",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "Built for Education, Not Business",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "No Per-Student Pricing",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "AI-Powered Teaching Support",
+      "ignored": false
+     },
+     {
+      "level": 1,
+      "name": "Got a Question?We Have an Answer",
+      "ignored": false
+     },
+     {
+      "level": 3,
+      "name": "What is Zedu?",
+      "ignored": false
+     },
+     {
+      "level": 3,
+      "name": "How does Zedu support students and learners?",
+      "ignored": false
+     },
+     {
+      "level": 3,
+      "name": "Is Zedu difficult to set up for a school or bootcamp?",
+      "ignored": false
+     },
+     {
+      "level": 3,
+      "name": "Can Zedu use our institution’s information to answer questions?",
+      "ignored": false
+     },
+     {
+      "level": 3,
+      "name": "Is student support fully automated?",
+      "ignored": false
+     },
+     {
+      "level": 3,
+      "name": "How does pricing work for educational institutions?",
+      "ignored": false
+     },
+     {
+      "level": 3,
+      "name": "How Bootcamps Use Zedu to Improve Cohort Outcomes",
+      "ignored": false
+     },
+     {
+      "level": 3,
+      "name": "A Better Campus Communication Layer for Institutions",
+      "ignored": false
+     },
+     {
+      "level": 3,
+      "name": "Keeping K-12 Classrooms Organized, Safe, and Engaging",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "Starter",
+      "ignored": false
+     },
+     {
+      "level": 3,
+      "name": "₦0 /month",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "Pro",
+      "ignored": false
+     },
+     {
+      "level": 3,
+      "name": "₦20K /month",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "Enterprise",
+      "ignored": false
+     },
+     {
+      "level": 3,
+      "name": "Let's Talk",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "Built For Secured, Structured Learning",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "Role-Based Access Control",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "Private Cohorts & Controlled Spaces",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "Data Protection & Platform Reliability",
+      "ignored": false
+     }
+    ],
+    "landmarks": [
+     {
+      "role": "navigation",
+      "name": "",
+      "ignored": false
+     },
+     {
+      "role": "contentinfo",
+      "name": "",
+      "ignored": false
+     }
+    ]
+   }
+  },
+  {
+   "path": "/pricing",
+   "url": "https://zedu.chat/pricing",
+   "status": 200,
+   "err": null,
+   "dom": {
+    "title": "Pricing | Zedu",
+    "lang": "en",
+    "headings": [
+     {
+      "level": 1,
+      "text": "Simple, Flexible Pricing for Education",
+      "visible": false,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "Starter",
+      "visible": false,
+      "ariaHidden": null
+     },
+     {
+      "level": 3,
+      "text": "₦0/month",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "Pro",
+      "visible": false,
+      "ariaHidden": null
+     },
+     {
+      "level": 3,
+      "text": "₦20K/month",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "Enterprise",
+      "visible": false,
+      "ariaHidden": null
+     },
+     {
+      "level": 3,
+      "text": "Let's Talk",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 1,
+      "text": "Launching a bootcamp? Let's build a pricing model that fits your cohort size.",
+      "visible": false,
+      "ariaHidden": null
+     },
+     {
+      "level": 1,
+      "text": "Got a Question? We Have an Answer",
+      "visible": false,
+      "ariaHidden": null
+     },
+     {
+      "level": 3,
+      "text": "What is Zedu?",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 3,
+      "text": "How does Zedu support students and learners?",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 3,
+      "text": "Is Zedu difficult to set up for a school or bootcamp?",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 3,
+      "text": "Can Zedu use our institution’s information to answer questions?",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 3,
+      "text": "Is student support fully automated?",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 3,
+      "text": "How does pricing work for educational institutions?",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 1,
+      "text": "Start Building Structured Learning Today",
+      "visible": false,
+      "ariaHidden": null
+     },
+     {
+      "level": 3,
+      "text": "Get Zedu today",
+      "visible": false,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "Products",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "Solutions",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "Zedu",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "Resources",
+      "visible": true,
+      "ariaHidden": null
+     }
+    ],
+    "landmarks": {
+     "main": 0,
+     "nav": 1,
+     "header": 0,
+     "footer": 1,
+     "roleMain": 0,
+     "roleNav": 0,
+     "ariaLabelMain": []
+    },
+    "skipCandidates": [],
+    "targetsOfSkip": [],
+    "bodyText": 178
+   },
+   "axe": {
+    "violations": [
+     {
+      "id": "heading-order",
+      "impact": "moderate",
+      "nodes": 2,
+      "targets": [
+       ".border-\\[\\#E5E8FF\\].bg-\\[\\#FAFAFF\\].rounded-xl:nth-child(1) > h3",
+       ".leading-none.text-2xl"
+      ]
+     },
+     {
+      "id": "landmark-one-main",
+      "impact": "moderate",
+      "nodes": 1,
+      "targets": [
+       "html"
+      ]
+     },
+     {
+      "id": "region",
+      "impact": "moderate",
+      "nodes": 129,
+      "targets": [
+       ".lg\\:gap-8 > .gap-6.flex-col.items-center",
+       "article:nth-child(1) > .max-w-\\[90\\%\\].mx-auto.flex-col",
+       "article:nth-child(1) > .gap-1.flex-col"
+      ]
+     }
+    ],
+    "totalViolations": 5
+   },
+   "ax": {
+    "headings": [
+     {
+      "level": 1,
+      "name": "Start Building Structured Learning Today",
+      "ignored": false
+     },
+     {
+      "level": 1,
+      "name": "Simple, Flexible Pricing for Education",
+      "ignored": false
+     },
+     {
+      "level": 1,
+      "name": "Launching a bootcamp? Let's build a pricing model that fits your cohort size.",
+      "ignored": false
+     },
+     {
+      "level": 1,
+      "name": "Got a Question?We Have an Answer",
+      "ignored": false
+     },
+     {
+      "level": 3,
+      "name": "What is Zedu?",
+      "ignored": false
+     },
+     {
+      "level": 3,
+      "name": "How does Zedu support students and learners?",
+      "ignored": false
+     },
+     {
+      "level": 3,
+      "name": "Is Zedu difficult to set up for a school or bootcamp?",
+      "ignored": false
+     },
+     {
+      "level": 3,
+      "name": "Can Zedu use our institution’s information to answer questions?",
+      "ignored": false
+     },
+     {
+      "level": 3,
+      "name": "Is student support fully automated?",
+      "ignored": false
+     },
+     {
+      "level": 3,
+      "name": "How does pricing work for educational institutions?",
+      "ignored": false
+     },
+     {
+      "level": 3,
+      "name": "Get Zedu today",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "Products",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "Solutions",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "Zedu",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "Resources",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "Starter",
+      "ignored": false
+     },
+     {
+      "level": 3,
+      "name": "₦0 /month",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "Pro",
+      "ignored": false
+     },
+     {
+      "level": 3,
+      "name": "₦20K /month",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "Enterprise",
+      "ignored": false
+     },
+     {
+      "level": 3,
+      "name": "Let's Talk",
+      "ignored": false
+     }
+    ],
+    "landmarks": [
+     {
+      "role": "navigation",
+      "name": "",
+      "ignored": false
+     },
+     {
+      "role": "contentinfo",
+      "name": "",
+      "ignored": false
+     }
+    ]
+   }
+  },
+  {
+   "path": "/about",
+   "url": "https://zedu.chat/about",
+   "status": 200,
+   "err": null,
+   "dom": {
+    "title": "About | Zedu",
+    "lang": "en",
+    "headings": [
+     {
+      "level": 1,
+      "text": "Built for Structured Learning Not Noise",
+      "visible": false,
+      "ariaHidden": null
+     },
+     {
+      "level": 1,
+      "text": "Our Philosophy",
+      "visible": false,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "Structure Drives Clarity",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "AI Should Assist, Not Replace",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "Educators Deserve Better Tools",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "Move quickly from ideas to execution",
+      "visible": false,
+      "ariaHidden": null
+     },
+     {
+      "level": 1,
+      "text": "Designed for Modern Learning Teams",
+      "visible": false,
+      "ariaHidden": null
+     },
+     {
+      "level": 3,
+      "text": "Bootcamps",
+      "visible": false,
+      "ariaHidden": null
+     },
+     {
+      "level": 3,
+      "text": "Universities",
+      "visible": false,
+      "ariaHidden": null
+     },
+     {
+      "level": 3,
+      "text": "Online Learning platforms",
+      "visible": false,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "Built for Modern Learning",
+      "visible": false,
+      "ariaHidden": null
+     },
+     {
+      "level": 1,
+      "text": "Our Vision",
+      "visible": false,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "Built with Privacy and Protection in Mind",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 1,
+      "text": "Start Building Structured Learning Today",
+      "visible": false,
+      "ariaHidden": null
+     },
+     {
+      "level": 3,
+      "text": "Get Zedu today",
+      "visible": false,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "Products",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "Solutions",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "Zedu",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "Resources",
+      "visible": true,
+      "ariaHidden": null
+     }
+    ],
+    "landmarks": {
+     "main": 0,
+     "nav": 1,
+     "header": 0,
+     "footer": 1,
+     "roleMain": 0,
+     "roleNav": 0,
+     "ariaLabelMain": []
+    },
+    "skipCandidates": [],
+    "targetsOfSkip": [],
+    "bodyText": 0
+   },
+   "axe": {
+    "violations": [
+     {
+      "id": "heading-order",
+      "impact": "moderate",
+      "nodes": 2,
+      "targets": [
+       ".p-4:nth-child(1) > .sm\\:text-lg",
+       ".gap-3.items-center.flex > .leading-none"
+      ]
+     },
+     {
+      "id": "landmark-one-main",
+      "impact": "moderate",
+      "nodes": 1,
+      "targets": [
+       "html"
+      ]
+     },
+     {
+      "id": "region",
+      "impact": "moderate",
+      "nodes": 32,
+      "targets": [
+       ".py-10.mt-10.isolate > .sm\\:text-4xl.md\\:text-5xl",
+       ".text-xs",
+       ".max-w-6xl"
+      ]
+     }
+    ],
+    "totalViolations": 4
+   },
+   "ax": {
+    "headings": [
+     {
+      "level": 1,
+      "name": "Start Building Structured Learning Today",
+      "ignored": false
+     },
+     {
+      "level": 1,
+      "name": "Built for StructuredLearning Not Noise",
+      "ignored": false
+     },
+     {
+      "level": 1,
+      "name": "Our Philosophy",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "Structure Drives Clarity",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "AI Should Assist, Not Replace",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "Educators Deserve Better Tools",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "Move quickly from ideas to execution",
+      "ignored": false
+     },
+     {
+      "level": 1,
+      "name": "Designed for Modern Learning Teams",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "Built for Modern Learning",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "Built with Privacy and Protection in Mind",
+      "ignored": false
+     },
+     {
+      "level": 3,
+      "name": "Get Zedu today",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "Products",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "Solutions",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "Zedu",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "Resources",
+      "ignored": false
+     },
+     {
+      "level": 3,
+      "name": "Bootcamps",
+      "ignored": false
+     },
+     {
+      "level": 3,
+      "name": "Universities",
+      "ignored": false
+     },
+     {
+      "level": 3,
+      "name": "Online Learning platforms",
+      "ignored": false
+     },
+     {
+      "level": 1,
+      "name": "Our Vision",
+      "ignored": false
+     }
+    ],
+    "landmarks": [
+     {
+      "role": "navigation",
+      "name": "",
+      "ignored": false
+     },
+     {
+      "role": "contentinfo",
+      "name": "",
+      "ignored": false
+     }
+    ]
+   }
+  },
+  {
+   "path": "/download",
+   "url": "https://zedu.chat/download",
+   "status": 200,
+   "err": null,
+   "dom": {
+    "title": "Download Zedu App | Mobile and Desktop Learning Workspace | Zedu",
+    "lang": "en",
+    "headings": [
+     {
+      "level": 1,
+      "text": "Learn anywhere with Zedu",
+      "visible": false,
+      "ariaHidden": null
+     },
+     {
+      "level": 1,
+      "text": "Everything you need, In One App",
+      "visible": false,
+      "ariaHidden": null
+     },
+     {
+      "level": 3,
+      "text": "Buzz (Live Huddles)",
+      "visible": false,
+      "ariaHidden": null
+     },
+     {
+      "level": 3,
+      "text": "Channels",
+      "visible": false,
+      "ariaHidden": null
+     },
+     {
+      "level": 3,
+      "text": "File Management",
+      "visible": false,
+      "ariaHidden": null
+     },
+     {
+      "level": 3,
+      "text": "Assignments & Updates",
+      "visible": false,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "Download Zedu on Your Phone",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "Download Zedu for Desktop",
+      "visible": false,
+      "ariaHidden": null
+     },
+     {
+      "level": 1,
+      "text": "Start Learning with Zedu Today!",
+      "visible": false,
+      "ariaHidden": null
+     },
+     {
+      "level": 3,
+      "text": "Get Zedu today",
+      "visible": false,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "Products",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "Solutions",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "Zedu",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "Resources",
+      "visible": true,
+      "ariaHidden": null
+     }
+    ],
+    "landmarks": {
+     "main": 0,
+     "nav": 1,
+     "header": 0,
+     "footer": 1,
+     "roleMain": 0,
+     "roleNav": 0,
+     "ariaLabelMain": []
+    },
+    "skipCandidates": [
+     {
+      "href": "#",
+      "text": "Download for Desktop"
+     }
+    ],
+    "targetsOfSkip": [],
+    "bodyText": 0
+   },
+   "axe": {
+    "violations": [
+     {
+      "id": "heading-order",
+      "impact": "moderate",
+      "nodes": 2,
+      "targets": [
+       ".w-full:nth-child(1) > .border-neutral-200\\/10.bg-blue-50\\/10.p-6 > .items-start.gap-4.flex > div:nth-child(2) > .text-lg",
+       ".text-2xl.leading-none"
+      ]
+     },
+     {
+      "id": "landmark-one-main",
+      "impact": "moderate",
+      "nodes": 1,
+      "targets": [
+       "html"
+      ]
+     },
+     {
+      "id": "region",
+      "impact": "moderate",
+      "nodes": 18,
+      "targets": [
+       ".sm\\:text-5xl",
+       ".md\\:max-w-\\[65\\%\\]",
+       ".sm\\:gap-3.max-w-md.gap-2:nth-child(4)"
+      ]
+     }
+    ],
+    "totalViolations": 4
+   },
+   "ax": {
+    "headings": [
+     {
+      "level": 1,
+      "name": "Start Learning with Zedu Today!",
+      "ignored": false
+     },
+     {
+      "level": 1,
+      "name": "Learn anywhere with Zedu",
+      "ignored": false
+     },
+     {
+      "level": 1,
+      "name": "Everything you need, In One App",
+      "ignored": false
+     },
+     {
+      "level": 3,
+      "name": "Buzz (Live Huddles)",
+      "ignored": false
+     },
+     {
+      "level": 3,
+      "name": "Channels",
+      "ignored": false
+     },
+     {
+      "level": 3,
+      "name": "File Management",
+      "ignored": false
+     },
+     {
+      "level": 3,
+      "name": "Assignments & Updates",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "Download Zedu on Your Phone",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "Download Zedu for Desktop",
+      "ignored": false
+     },
+     {
+      "level": 3,
+      "name": "Get Zedu today",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "Products",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "Solutions",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "Zedu",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "Resources",
+      "ignored": false
+     }
+    ],
+    "landmarks": [
+     {
+      "role": "navigation",
+      "name": "",
+      "ignored": false
+     },
+     {
+      "role": "contentinfo",
+      "name": "",
+      "ignored": false
+     }
+    ]
+   }
+  },
+  {
+   "path": "/solutions/schools",
+   "url": "https://zedu.chat/solutions/schools",
+   "status": 200,
+   "err": null,
+   "dom": {
+    "title": "Schools Solutions | Zedu",
+    "lang": "en",
+    "headings": [
+     {
+      "level": 1,
+      "text": "A Smarter Communication for Schools",
+      "visible": false,
+      "ariaHidden": null
+     },
+     {
+      "level": 1,
+      "text": "Built for Modern School Communication",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "Organised Classrooms",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "Engaged Students",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "Less Administrative Overhead",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 1,
+      "text": "Better Communication for Every Classroom",
+      "visible": false,
+      "ariaHidden": null
+     },
+     {
+      "level": 3,
+      "text": "Organised Classroom Communication",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 3,
+      "text": "Encourage Student Participation",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 1,
+      "text": "How Zedu transforms Schools",
+      "visible": false,
+      "ariaHidden": null
+     },
+     {
+      "level": 3,
+      "text": "Without Zedu",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 3,
+      "text": "With Zedu",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 1,
+      "text": "Run Leaner. Move Faster. Teach Better.",
+      "visible": false,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "50%",
+      "visible": false,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "2x",
+      "visible": false,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "65%",
+      "visible": false,
+      "ariaHidden": null
+     },
+     {
+      "level": 1,
+      "text": "Transform Communication in Your School",
+      "visible": false,
+      "ariaHidden": null
+     },
+     {
+      "level": 3,
+      "text": "Get Zedu today",
+      "visible": false,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "Products",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "Solutions",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "Zedu",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "Resources",
+      "visible": true,
+      "ariaHidden": null
+     }
+    ],
+    "landmarks": {
+     "main": 0,
+     "nav": 1,
+     "header": 0,
+     "footer": 1,
+     "roleMain": 0,
+     "roleNav": 0,
+     "ariaLabelMain": []
+    },
+    "skipCandidates": [],
+    "targetsOfSkip": [],
+    "bodyText": 0
+   },
+   "axe": {
+    "violations": [
+     {
+      "id": "heading-order",
+      "impact": "moderate",
+      "nodes": 3,
+      "targets": [
+       "article:nth-child(1) > .space-y-4.text-center > .sm\\:text-xl.text-lg",
+       ".md\\:rounded-none > .text-lg",
+       ".gap-3.items-center.flex > .leading-none"
+      ]
+     },
+     {
+      "id": "landmark-one-main",
+      "impact": "moderate",
+      "nodes": 1,
+      "targets": [
+       "html"
+      ]
+     },
+     {
+      "id": "region",
+      "impact": "moderate",
+      "nodes": 32,
+      "targets": [
+       ".lg\\:max-w-\\[470px\\] > .text-3xl.sm\\:text-4xl.lg\\:text-\\[44px\\]",
+       ".max-w-\\[46ch\\]",
+       ".text-\\[\\#5a6170\\].lg\\:justify-start.gap-2 > .text-\\[\\#1f2530\\].font-semibold"
+      ]
+     }
+    ],
+    "totalViolations": 4
+   },
+   "ax": {
+    "headings": [
+     {
+      "level": 1,
+      "name": "Transform Communication in Your School",
+      "ignored": false
+     },
+     {
+      "level": 1,
+      "name": "Built for Modern School Communication",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "Organised Classrooms",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "Engaged Students",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "Less Administrative Overhead",
+      "ignored": false
+     },
+     {
+      "level": 1,
+      "name": "Better Communication for Every Classroom",
+      "ignored": false
+     },
+     {
+      "level": 1,
+      "name": "How Zedu transforms Schools",
+      "ignored": false
+     },
+     {
+      "level": 3,
+      "name": "Without Zedu",
+      "ignored": false
+     },
+     {
+      "level": 3,
+      "name": "With Zedu",
+      "ignored": false
+     },
+     {
+      "level": 1,
+      "name": "Run Leaner. Move Faster. Teach Better.",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "50%",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "2x",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "65%",
+      "ignored": false
+     },
+     {
+      "level": 3,
+      "name": "Get Zedu today",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "Products",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "Solutions",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "Zedu",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "Resources",
+      "ignored": false
+     },
+     {
+      "level": 1,
+      "name": "A Smarter Communication for Schools",
+      "ignored": false
+     },
+     {
+      "level": 3,
+      "name": "Organised Classroom Communication",
+      "ignored": false
+     },
+     {
+      "level": 3,
+      "name": "Encourage Student Participation",
+      "ignored": false
+     }
+    ],
+    "landmarks": [
+     {
+      "role": "navigation",
+      "name": "",
+      "ignored": false
+     },
+     {
+      "role": "contentinfo",
+      "name": "",
+      "ignored": false
+     }
+    ]
+   }
+  },
+  {
+   "path": "/solutions/universities",
+   "url": "https://zedu.chat/solutions/universities",
+   "status": 200,
+   "err": null,
+   "dom": {
+    "title": "Universities Solutions | Zedu",
+    "lang": "en",
+    "headings": [
+     {
+      "level": 1,
+      "text": "Modern Communication for Universities",
+      "visible": false,
+      "ariaHidden": null
+     },
+     {
+      "level": 1,
+      "text": "Built for Higher Education Environments",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "Large Cohorts",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "Organized Courses",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "AI Assisted Learning",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 1,
+      "text": "Structured Communication Across the University",
+      "visible": false,
+      "ariaHidden": null
+     },
+     {
+      "level": 3,
+      "text": "Organized Communication",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 3,
+      "text": "Collaboration at Scale",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 3,
+      "text": "AI-Powered Learning",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 1,
+      "text": "Institution Control and Security",
+      "visible": false,
+      "ariaHidden": null
+     },
+     {
+      "level": 3,
+      "text": "Role-Based Permissions",
+      "visible": false,
+      "ariaHidden": null
+     },
+     {
+      "level": 3,
+      "text": "Department Workspaces",
+      "visible": false,
+      "ariaHidden": null
+     },
+     {
+      "level": 3,
+      "text": "Secure Communication",
+      "visible": false,
+      "ariaHidden": null
+     },
+     {
+      "level": 1,
+      "text": "How Zedu transforms Universities",
+      "visible": false,
+      "ariaHidden": null
+     },
+     {
+      "level": 3,
+      "text": "Without Zedu",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 3,
+      "text": "With Zedu",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 1,
+      "text": "Run Leaner. Move Faster. Teach Better.",
+      "visible": false,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "40%",
+      "visible": false,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "2x",
+      "visible": false,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "60%",
+      "visible": false,
+      "ariaHidden": null
+     },
+     {
+      "level": 1,
+      "text": "Bring Structured Communication to Your University",
+      "visible": false,
+      "ariaHidden": null
+     },
+     {
+      "level": 3,
+      "text": "Get Zedu today",
+      "visible": false,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "Products",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "Solutions",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "Zedu",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "Resources",
+      "visible": true,
+      "ariaHidden": null
+     }
+    ],
+    "landmarks": {
+     "main": 0,
+     "nav": 1,
+     "header": 0,
+     "footer": 1,
+     "roleMain": 0,
+     "roleNav": 0,
+     "ariaLabelMain": []
+    },
+    "skipCandidates": [],
+    "targetsOfSkip": [],
+    "bodyText": 0
+   },
+   "axe": {
+    "violations": [
+     {
+      "id": "heading-order",
+      "impact": "moderate",
+      "nodes": 4,
+      "targets": [
+       "article:nth-child(1) > .space-y-4.text-center > .sm\\:text-xl.text-lg",
+       ".border-neutral-200.p-6.border:nth-child(1) > .text-lg",
+       ".md\\:rounded-none > .text-lg"
+      ]
+     },
+     {
+      "id": "landmark-one-main",
+      "impact": "moderate",
+      "nodes": 1,
+      "targets": [
+       "html"
+      ]
+     },
+     {
+      "id": "region",
+      "impact": "moderate",
+      "nodes": 39,
+      "targets": [
+       ".lg\\:max-w-\\[470px\\] > .text-3xl.sm\\:text-4xl.lg\\:text-\\[44px\\]",
+       ".max-w-\\[46ch\\]",
+       ".text-\\[\\#5a6170\\].lg\\:justify-start.gap-2 > .text-\\[\\#1f2530\\]"
+      ]
+     }
+    ],
+    "totalViolations": 4
+   },
+   "ax": {
+    "headings": [
+     {
+      "level": 1,
+      "name": "Bring Structured Communication to Your University",
+      "ignored": false
+     },
+     {
+      "level": 1,
+      "name": "Built for Higher Education Environments",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "Large Cohorts",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "Organized Courses",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "AI Assisted Learning",
+      "ignored": false
+     },
+     {
+      "level": 1,
+      "name": "Structured Communication Across the University",
+      "ignored": false
+     },
+     {
+      "level": 1,
+      "name": "Institution Control and Security",
+      "ignored": false
+     },
+     {
+      "level": 3,
+      "name": "Role-Based Permissions",
+      "ignored": false
+     },
+     {
+      "level": 3,
+      "name": "Department Workspaces",
+      "ignored": false
+     },
+     {
+      "level": 3,
+      "name": "Secure Communication",
+      "ignored": false
+     },
+     {
+      "level": 1,
+      "name": "How Zedu transforms Universities",
+      "ignored": false
+     },
+     {
+      "level": 3,
+      "name": "Without Zedu",
+      "ignored": false
+     },
+     {
+      "level": 3,
+      "name": "With Zedu",
+      "ignored": false
+     },
+     {
+      "level": 1,
+      "name": "Run Leaner. Move Faster. Teach Better.",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "40%",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "2x",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "60%",
+      "ignored": false
+     },
+     {
+      "level": 3,
+      "name": "Get Zedu today",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "Products",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "Solutions",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "Zedu",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "Resources",
+      "ignored": false
+     },
+     {
+      "level": 1,
+      "name": "Modern Communication for Universities",
+      "ignored": false
+     },
+     {
+      "level": 3,
+      "name": "Organized Communication",
+      "ignored": false
+     },
+     {
+      "level": 3,
+      "name": "Collaboration at Scale",
+      "ignored": false
+     },
+     {
+      "level": 3,
+      "name": "AI-Powered Learning",
+      "ignored": false
+     }
+    ],
+    "landmarks": [
+     {
+      "role": "navigation",
+      "name": "",
+      "ignored": false
+     },
+     {
+      "role": "contentinfo",
+      "name": "",
+      "ignored": false
+     }
+    ]
+   }
+  },
+  {
+   "path": "/solutions/bootcamps",
+   "url": "https://zedu.chat/solutions/bootcamps",
+   "status": 200,
+   "err": null,
+   "dom": {
+    "title": "Bootcamps Solutions | Zedu",
+    "lang": "en",
+    "headings": [
+     {
+      "level": 1,
+      "text": "Run faster cohorts Build Stronger Communities",
+      "visible": false,
+      "ariaHidden": null
+     },
+     {
+      "level": 1,
+      "text": "Why Bootcamps Choose Zedu",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "Cohort-Based Learning",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "Real-Time Collaboration",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "Structured Community",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 1,
+      "text": "Run Structured and Collaborative Bootcamps",
+      "visible": false,
+      "ariaHidden": null
+     },
+     {
+      "level": 3,
+      "text": "Manage Cohorts with Structure",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 3,
+      "text": "Collaboration and Project Learning",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 1,
+      "text": "How Zedu Transforms Bootcamps",
+      "visible": false,
+      "ariaHidden": null
+     },
+     {
+      "level": 3,
+      "text": "Without Zedu",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 3,
+      "text": "With Zedu",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 1,
+      "text": "Run Leaner. Move Faster. Launch Better Cohorts.",
+      "visible": false,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "50%",
+      "visible": false,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "2x",
+      "visible": false,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "40%",
+      "visible": false,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "Build a Thriving Learning Community",
+      "visible": false,
+      "ariaHidden": null
+     },
+     {
+      "level": 1,
+      "text": "Power Your Next Bootcamp Cohort",
+      "visible": false,
+      "ariaHidden": null
+     },
+     {
+      "level": 3,
+      "text": "Get Zedu today",
+      "visible": false,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "Products",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "Solutions",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "Zedu",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "Resources",
+      "visible": true,
+      "ariaHidden": null
+     }
+    ],
+    "landmarks": {
+     "main": 0,
+     "nav": 1,
+     "header": 0,
+     "footer": 1,
+     "roleMain": 0,
+     "roleNav": 0,
+     "ariaLabelMain": []
+    },
+    "skipCandidates": [],
+    "targetsOfSkip": [],
+    "bodyText": 0
+   },
+   "axe": {
+    "violations": [
+     {
+      "id": "heading-order",
+      "impact": "moderate",
+      "nodes": 3,
+      "targets": [
+       "article:nth-child(1) > .space-y-4.text-center > .sm\\:text-xl.text-lg",
+       ".md\\:rounded-none > .text-lg",
+       ".gap-3.items-center.flex > .leading-none"
+      ]
+     },
+     {
+      "id": "landmark-one-main",
+      "impact": "moderate",
+      "nodes": 1,
+      "targets": [
+       "html"
+      ]
+     },
+     {
+      "id": "region",
+      "impact": "moderate",
+      "nodes": 33,
+      "targets": [
+       ".lg\\:max-w-\\[470px\\] > h1",
+       ".max-w-\\[46ch\\]",
+       ".lg\\:justify-start.text-\\[\\#5a6170\\].gap-2 > .text-\\[\\#1f2530\\].font-semibold"
+      ]
+     }
+    ],
+    "totalViolations": 4
+   },
+   "ax": {
+    "headings": [
+     {
+      "level": 1,
+      "name": "Power Your Next Bootcamp Cohort",
+      "ignored": false
+     },
+     {
+      "level": 1,
+      "name": "Why Bootcamps Choose Zedu",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "Cohort-Based Learning",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "Real-Time Collaboration",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "Structured Community",
+      "ignored": false
+     },
+     {
+      "level": 1,
+      "name": "Run Structured and Collaborative Bootcamps",
+      "ignored": false
+     },
+     {
+      "level": 1,
+      "name": "How Zedu Transforms Bootcamps",
+      "ignored": false
+     },
+     {
+      "level": 3,
+      "name": "Without Zedu",
+      "ignored": false
+     },
+     {
+      "level": 3,
+      "name": "With Zedu",
+      "ignored": false
+     },
+     {
+      "level": 1,
+      "name": "Run Leaner. Move Faster. Launch Better Cohorts.",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "50%",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "2x",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "40%",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "Build a Thriving Learning Community",
+      "ignored": false
+     },
+     {
+      "level": 3,
+      "name": "Get Zedu today",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "Products",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "Solutions",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "Zedu",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "Resources",
+      "ignored": false
+     },
+     {
+      "level": 1,
+      "name": "Run faster cohorts Build Stronger Communities",
+      "ignored": false
+     },
+     {
+      "level": 3,
+      "name": "Manage Cohorts with Structure",
+      "ignored": false
+     },
+     {
+      "level": 3,
+      "name": "Collaboration and Project Learning",
+      "ignored": false
+     }
+    ],
+    "landmarks": [
+     {
+      "role": "navigation",
+      "name": "",
+      "ignored": false
+     },
+     {
+      "role": "contentinfo",
+      "name": "",
+      "ignored": false
+     }
+    ]
+   }
+  },
+  {
+   "path": "/products/channels",
+   "url": "https://zedu.chat/products/channels",
+   "status": 200,
+   "err": null,
+   "dom": {
+    "title": "Channels | Zedu",
+    "lang": "en",
+    "headings": [
+     {
+      "level": 1,
+      "text": "Organise Learning with Structured Channels.",
+      "visible": false,
+      "ariaHidden": null
+     },
+     {
+      "level": 1,
+      "text": "Organized Communication for Learning",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "Keep conversations in the right place",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "Follow discussions without noise",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "Share important updates clearly",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "Channels built for education",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 1,
+      "text": "Channels that Scale with Your Institution",
+      "visible": false,
+      "ariaHidden": null
+     },
+     {
+      "level": 1,
+      "text": "More That Just Channels",
+      "visible": false,
+      "ariaHidden": null
+     },
+     {
+      "level": 3,
+      "text": "Buzz",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 3,
+      "text": "File Management",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 3,
+      "text": "Ai Agents",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 3,
+      "text": "Assignments",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 1,
+      "text": "Got a Question? We Have an Answer",
+      "visible": false,
+      "ariaHidden": null
+     },
+     {
+      "level": 3,
+      "text": "When should I use Channels?",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 3,
+      "text": "What can I do in a Channels?",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 3,
+      "text": "How do I start a Channels?",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 3,
+      "text": "Are Channels free?",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 1,
+      "text": "Organize Your Learning Community with Channels",
+      "visible": false,
+      "ariaHidden": null
+     },
+     {
+      "level": 3,
+      "text": "Get Zedu today",
+      "visible": false,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "Products",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "Solutions",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "Zedu",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "Resources",
+      "visible": true,
+      "ariaHidden": null
+     }
+    ],
+    "landmarks": {
+     "main": 0,
+     "nav": 1,
+     "header": 0,
+     "footer": 1,
+     "roleMain": 0,
+     "roleNav": 0,
+     "ariaLabelMain": []
+    },
+    "skipCandidates": [],
+    "targetsOfSkip": [],
+    "bodyText": 0
+   },
+   "axe": {
+    "violations": [
+     {
+      "id": "heading-order",
+      "impact": "moderate",
+      "nodes": 3,
+      "targets": [
+       ".sm\\:gap-4.sm\\:rounded-3xl.bg-white:nth-child(1) > .sm\\:text-lg.text-base.text-neutral-900",
+       ".border-\\[\\#E5E8FF\\].bg-\\[\\#FAFAFF\\].rounded-xl:nth-child(1) > h3",
+       ".text-2xl.leading-none"
+      ]
+     },
+     {
+      "id": "landmark-one-main",
+      "impact": "moderate",
+      "nodes": 1,
+      "targets": [
+       "html"
+      ]
+     },
+     {
+      "id": "region",
+      "impact": "moderate",
+      "nodes": 22,
+      "targets": [
+       ".lg\\:max-w-\\[470px\\] > .text-3xl.sm\\:text-4xl.lg\\:text-\\[44px\\]",
+       ".max-w-\\[46ch\\]",
+       ".rounded-3xl"
+      ]
+     }
+    ],
+    "totalViolations": 4
+   },
+   "ax": {
+    "headings": [
+     {
+      "level": 1,
+      "name": "Organize Your Learning Community with Channels",
+      "ignored": false
+     },
+     {
+      "level": 1,
+      "name": "Organized Communication for Learning",
+      "ignored": false
+     },
+     {
+      "level": 1,
+      "name": "Channels that Scale with Your Institution",
+      "ignored": false
+     },
+     {
+      "level": 1,
+      "name": "More That Just Channels",
+      "ignored": false
+     },
+     {
+      "level": 3,
+      "name": "Buzz",
+      "ignored": false
+     },
+     {
+      "level": 3,
+      "name": "File Management",
+      "ignored": false
+     },
+     {
+      "level": 3,
+      "name": "Ai Agents",
+      "ignored": false
+     },
+     {
+      "level": 3,
+      "name": "Assignments",
+      "ignored": false
+     },
+     {
+      "level": 1,
+      "name": "Got a Question?We Have an Answer",
+      "ignored": false
+     },
+     {
+      "level": 3,
+      "name": "When should I use Channels?",
+      "ignored": false
+     },
+     {
+      "level": 3,
+      "name": "What can I do in a Channels?",
+      "ignored": false
+     },
+     {
+      "level": 3,
+      "name": "How do I start a Channels?",
+      "ignored": false
+     },
+     {
+      "level": 3,
+      "name": "Are Channels free?",
+      "ignored": false
+     },
+     {
+      "level": 3,
+      "name": "Get Zedu today",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "Products",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "Solutions",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "Zedu",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "Resources",
+      "ignored": false
+     },
+     {
+      "level": 1,
+      "name": "Organise Learning with Structured Channels.",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "Keep conversations in the right place",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "Follow discussions without noise",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "Share important updates clearly",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "Channels built for education",
+      "ignored": false
+     }
+    ],
+    "landmarks": [
+     {
+      "role": "navigation",
+      "name": "",
+      "ignored": false
+     },
+     {
+      "role": "contentinfo",
+      "name": "",
+      "ignored": false
+     }
+    ]
+   }
+  },
+  {
+   "path": "/products/buzz",
+   "url": "https://zedu.chat/products/buzz",
+   "status": 200,
+   "err": null,
+   "dom": {
+    "title": "Buzz | Zedu",
+    "lang": "en",
+    "headings": [
+     {
+      "level": 1,
+      "text": "Start a Buzz Talk Instantly with Your Team .",
+      "visible": false,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "Talk in Real Time Inside Learning Channels",
+      "visible": false,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "Focus on Learning, Not Scheduling",
+      "visible": false,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "Let AI Capture the Conversation",
+      "visible": false,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "Clear Communication for Every Learner",
+      "visible": false,
+      "ariaHidden": null
+     },
+     {
+      "level": 1,
+      "text": "Got a Question? We Have an Answer",
+      "visible": false,
+      "ariaHidden": null
+     },
+     {
+      "level": 3,
+      "text": "When should I use Buzz?",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 3,
+      "text": "What can I do in a Buzz session?",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 3,
+      "text": "How do I start a Buzz?",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 3,
+      "text": "Are Buzz sessions summarized automatically?",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 1,
+      "text": "Start a Buzz with Your Class Today",
+      "visible": false,
+      "ariaHidden": null
+     },
+     {
+      "level": 3,
+      "text": "Get Zedu today",
+      "visible": false,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "Products",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "Solutions",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "Zedu",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "Resources",
+      "visible": true,
+      "ariaHidden": null
+     }
+    ],
+    "landmarks": {
+     "main": 0,
+     "nav": 1,
+     "header": 0,
+     "footer": 1,
+     "roleMain": 0,
+     "roleNav": 0,
+     "ariaLabelMain": []
+    },
+    "skipCandidates": [],
+    "targetsOfSkip": [],
+    "bodyText": 0
+   },
+   "axe": {
+    "violations": [
+     {
+      "id": "heading-order",
+      "impact": "moderate",
+      "nodes": 2,
+      "targets": [
+       ".border-\\[\\#E5E8FF\\].bg-\\[\\#FAFAFF\\].rounded-xl:nth-child(1) > h3",
+       ".gap-3.items-center.flex > .leading-none"
+      ]
+     },
+     {
+      "id": "landmark-one-main",
+      "impact": "moderate",
+      "nodes": 1,
+      "targets": [
+       "html"
+      ]
+     },
+     {
+      "id": "region",
+      "impact": "moderate",
+      "nodes": 18,
+      "targets": [
+       ".text-3xl",
+       ".max-w-\\[46ch\\]",
+       ".rounded-3xl.overflow-hidden.relative"
+      ]
+     }
+    ],
+    "totalViolations": 4
+   },
+   "ax": {
+    "headings": [
+     {
+      "level": 1,
+      "name": "Start a Buzz with Your Class Today",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "Talk in Real Time Inside Learning Channels",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "Focus on Learning, Not Scheduling",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "Let AI Capture the Conversation",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "Clear Communication for Every Learner",
+      "ignored": false
+     },
+     {
+      "level": 1,
+      "name": "Got a Question?We Have an Answer",
+      "ignored": false
+     },
+     {
+      "level": 3,
+      "name": "When should I use Buzz?",
+      "ignored": false
+     },
+     {
+      "level": 3,
+      "name": "What can I do in a Buzz session?",
+      "ignored": false
+     },
+     {
+      "level": 3,
+      "name": "How do I start a Buzz?",
+      "ignored": false
+     },
+     {
+      "level": 3,
+      "name": "Are Buzz sessions summarized automatically?",
+      "ignored": false
+     },
+     {
+      "level": 3,
+      "name": "Get Zedu today",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "Products",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "Solutions",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "Zedu",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "Resources",
+      "ignored": false
+     },
+     {
+      "level": 1,
+      "name": "Start a Buzz Talk Instantly with Your Team .",
+      "ignored": false
+     }
+    ],
+    "landmarks": [
+     {
+      "role": "navigation",
+      "name": "",
+      "ignored": false
+     },
+     {
+      "role": "contentinfo",
+      "name": "",
+      "ignored": false
+     }
+    ]
+   }
+  },
+  {
+   "path": "/products/file-management",
+   "url": "https://zedu.chat/products/file-management",
+   "status": 200,
+   "err": null,
+   "dom": {
+    "title": "File Management | Zedu",
+    "lang": "en",
+    "headings": [
+     {
+      "level": 1,
+      "text": "Organize Learning Materials In One Place",
+      "visible": false,
+      "ariaHidden": null
+     },
+     {
+      "level": 1,
+      "text": "Organize and Collaborate on Learning Files",
+      "visible": false,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "Store Course Materials in Organized Spaces",
+      "visible": false,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "Collaborate on Files with Your Class",
+      "visible": false,
+      "ariaHidden": null
+     },
+     {
+      "level": 1,
+      "text": "Smart, Secure, and Scalable File Management",
+      "visible": false,
+      "ariaHidden": null
+     },
+     {
+      "level": 3,
+      "text": "Find Files Instantly",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 3,
+      "text": "Share Files Securely",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 3,
+      "text": "Built for Learning Workflows",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 1,
+      "text": "Connected to the Rest of Zedu",
+      "visible": false,
+      "ariaHidden": null
+     },
+     {
+      "level": 3,
+      "text": "Buzz",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 3,
+      "text": "Channels",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 3,
+      "text": "Ai Agents",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 3,
+      "text": "Assignments",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 1,
+      "text": "Got a Question? We Have an Answer",
+      "visible": false,
+      "ariaHidden": null
+     },
+     {
+      "level": 3,
+      "text": "How should I organize files for multiple classes?",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 3,
+      "text": "Can I share files directly inside class discussions?",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 3,
+      "text": "Can students collaborate on shared resources?",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 3,
+      "text": "How can I find a file quickly later?",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 1,
+      "text": "Manage Learning Materials Without the Chaos",
+      "visible": false,
+      "ariaHidden": null
+     },
+     {
+      "level": 3,
+      "text": "Get Zedu today",
+      "visible": false,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "Products",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "Solutions",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "Zedu",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "Resources",
+      "visible": true,
+      "ariaHidden": null
+     }
+    ],
+    "landmarks": {
+     "main": 0,
+     "nav": 1,
+     "header": 0,
+     "footer": 1,
+     "roleMain": 0,
+     "roleNav": 0,
+     "ariaLabelMain": []
+    },
+    "skipCandidates": [],
+    "targetsOfSkip": [],
+    "bodyText": 0
+   },
+   "axe": {
+    "violations": [
+     {
+      "id": "heading-order",
+      "impact": "moderate",
+      "nodes": 4,
+      "targets": [
+       "article:nth-child(1) > .space-y-4.text-center > .text-lg.sm\\:text-xl.text-\\[\\#1f2530\\]",
+       ".sm\\:rounded-3xl.sm\\:p-6.p-4:nth-child(1) > .sm\\:text-lg.text-base.text-neutral-900",
+       ".border-\\[\\#E5E8FF\\].bg-\\[\\#FAFAFF\\].border:nth-child(1) > h3"
+      ]
+     },
+     {
+      "id": "landmark-one-main",
+      "impact": "moderate",
+      "nodes": 1,
+      "targets": [
+       "html"
+      ]
+     },
+     {
+      "id": "region",
+      "impact": "moderate",
+      "nodes": 18,
+      "targets": [
+       ".mt-10 > .md\\:text-5xl.sm\\:text-4xl",
+       ".mt-10 > .max-w-\\[95\\%\\].sm\\:max-w-\\[90\\%\\].md\\:max-w-\\[65\\%\\]",
+       ".max-w-6xl.rounded-2xl.overflow-hidden"
+      ]
+     }
+    ],
+    "totalViolations": 4
+   },
+   "ax": {
+    "headings": [
+     {
+      "level": 1,
+      "name": "Manage Learning Materials Without the Chaos",
+      "ignored": false
+     },
+     {
+      "level": 1,
+      "name": "Organize Learning MaterialsIn One Place",
+      "ignored": false
+     },
+     {
+      "level": 1,
+      "name": "Organize and Collaborate on Learning Files",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "Store Course Materials in Organized Spaces",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "Collaborate on Files with Your Class",
+      "ignored": false
+     },
+     {
+      "level": 1,
+      "name": "Smart, Secure, and Scalable File Management",
+      "ignored": false
+     },
+     {
+      "level": 1,
+      "name": "Connected to theRest of Zedu",
+      "ignored": false
+     },
+     {
+      "level": 3,
+      "name": "Buzz",
+      "ignored": false
+     },
+     {
+      "level": 3,
+      "name": "Channels",
+      "ignored": false
+     },
+     {
+      "level": 3,
+      "name": "Ai Agents",
+      "ignored": false
+     },
+     {
+      "level": 3,
+      "name": "Assignments",
+      "ignored": false
+     },
+     {
+      "level": 1,
+      "name": "Got a Question?We Have an Answer",
+      "ignored": false
+     },
+     {
+      "level": 3,
+      "name": "How should I organize files for multiple classes?",
+      "ignored": false
+     },
+     {
+      "level": 3,
+      "name": "Can I share files directly inside class discussions?",
+      "ignored": false
+     },
+     {
+      "level": 3,
+      "name": "Can students collaborate on shared resources?",
+      "ignored": false
+     },
+     {
+      "level": 3,
+      "name": "How can I find a file quickly later?",
+      "ignored": false
+     },
+     {
+      "level": 3,
+      "name": "Get Zedu today",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "Products",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "Solutions",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "Zedu",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "Resources",
+      "ignored": false
+     },
+     {
+      "level": 3,
+      "name": "Find Files Instantly",
+      "ignored": false
+     },
+     {
+      "level": 3,
+      "name": "Share Files Securely",
+      "ignored": false
+     },
+     {
+      "level": 3,
+      "name": "Built for Learning Workflows",
+      "ignored": false
+     }
+    ],
+    "landmarks": [
+     {
+      "role": "navigation",
+      "name": "",
+      "ignored": false
+     },
+     {
+      "role": "contentinfo",
+      "name": "",
+      "ignored": false
+     }
+    ]
+   }
+  },
+  {
+   "path": "/resources",
+   "url": "https://zedu.chat/resources",
+   "status": 200,
+   "err": null,
+   "dom": {
+    "title": "Zedu - Learning Platform for Bootcamps, Schools, and Cohorts",
+    "lang": "en",
+    "headings": [
+     {
+      "level": 1,
+      "text": "Resources for Modern Learning Teams",
+      "visible": false,
+      "ariaHidden": null
+     },
+     {
+      "level": 3,
+      "text": "Organizing Courses with Channels",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 3,
+      "text": "Running Active Class Discussions",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 3,
+      "text": "Managing Bootcamp Cohorts",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 3,
+      "text": "Using AI assistant for Learning",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 3,
+      "text": "Organizing Courses with Channels",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 3,
+      "text": "Running Active Class Discussions",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 3,
+      "text": "Managing Bootcamp Cohorts",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 3,
+      "text": "Using AI assistant for Learning",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 3,
+      "text": "Organizing Courses with Channels",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 1,
+      "text": "Need Help Getting Started?",
+      "visible": false,
+      "ariaHidden": null
+     },
+     {
+      "level": 3,
+      "text": "Get Zedu today",
+      "visible": false,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "Products",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "Solutions",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "Zedu",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "Resources",
+      "visible": true,
+      "ariaHidden": null
+     }
+    ],
+    "landmarks": {
+     "main": 0,
+     "nav": 1,
+     "header": 0,
+     "footer": 1,
+     "roleMain": 0,
+     "roleNav": 0,
+     "ariaLabelMain": []
+    },
+    "skipCandidates": [
+     {
+      "href": "#",
+      "text": "Read article"
+     },
+     {
+      "href": "#",
+      "text": "Read article"
+     },
+     {
+      "href": "#",
+      "text": "Read article"
+     },
+     {
+      "href": "#",
+      "text": "Read article"
+     },
+     {
+      "href": "#",
+      "text": "Read article"
+     },
+     {
+      "href": "#",
+      "text": "Read article"
+     },
+     {
+      "href": "#",
+      "text": "Read article"
+     },
+     {
+      "href": "#",
+      "text": "Read article"
+     },
+     {
+      "href": "#",
+      "text": "Read article"
+     }
+    ],
+    "targetsOfSkip": [],
+    "bodyText": 0
+   },
+   "axe": {
+    "violations": [
+     {
+      "id": "heading-order",
+      "impact": "moderate",
+      "nodes": 2,
+      "targets": [
+       ".shadow-md.rounded-lg.text-left:nth-child(1) > .p-4.gap-4.flex-grow > .space-y-3 > .mb-2",
+       ".text-2xl.leading-none.text-white"
+      ]
+     },
+     {
+      "id": "region",
+      "impact": "moderate",
+      "nodes": 6,
+      "targets": [
+       ".isolate > .gap-3.items-center.flex-col",
+       ".h-10",
+       ".overflow-x-auto"
+      ]
+     }
+    ],
+    "totalViolations": 3
+   },
+   "ax": {
+    "headings": [
+     {
+      "level": 1,
+      "name": "Need Help Getting Started?",
+      "ignored": false
+     },
+     {
+      "level": 1,
+      "name": "Resources for ModernLearning Teams",
+      "ignored": false
+     },
+     {
+      "level": 3,
+      "name": "Organizing Courses with Channels",
+      "ignored": false
+     },
+     {
+      "level": 3,
+      "name": "Running Active Class Discussions",
+      "ignored": false
+     },
+     {
+      "level": 3,
+      "name": "Managing Bootcamp Cohorts",
+      "ignored": false
+     },
+     {
+      "level": 3,
+      "name": "Using AI assistant for Learning",
+      "ignored": false
+     },
+     {
+      "level": 3,
+      "name": "Organizing Courses with Channels",
+      "ignored": false
+     },
+     {
+      "level": 3,
+      "name": "Running Active Class Discussions",
+      "ignored": false
+     },
+     {
+      "level": 3,
+      "name": "Managing Bootcamp Cohorts",
+      "ignored": false
+     },
+     {
+      "level": 3,
+      "name": "Using AI assistant for Learning",
+      "ignored": false
+     },
+     {
+      "level": 3,
+      "name": "Organizing Courses with Channels",
+      "ignored": false
+     },
+     {
+      "level": 3,
+      "name": "Get Zedu today",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "Products",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "Solutions",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "Zedu",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "Resources",
+      "ignored": false
+     }
+    ],
+    "landmarks": [
+     {
+      "role": "navigation",
+      "name": "",
+      "ignored": false
+     },
+     {
+      "role": "contentinfo",
+      "name": "",
+      "ignored": false
+     }
+    ]
+   }
+  },
+  {
+   "path": "/policy",
+   "url": "https://zedu.chat/policy",
+   "status": 200,
+   "err": null,
+   "dom": {
+    "title": "Zedu - Learning Platform for Bootcamps, Schools, and Cohorts",
+    "lang": "en",
+    "headings": [
+     {
+      "level": 3,
+      "text": "Get Zedu today",
+      "visible": false,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "Products",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "Solutions",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "Zedu",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "Resources",
+      "visible": true,
+      "ariaHidden": null
+     }
+    ],
+    "landmarks": {
+     "main": 0,
+     "nav": 1,
+     "header": 0,
+     "footer": 1,
+     "roleMain": 0,
+     "roleNav": 0,
+     "ariaLabelMain": []
+    },
+    "skipCandidates": [
+     {
+      "href": "#info-collected",
+      "text": "Information We Collect"
+     },
+     {
+      "href": "#how",
+      "text": "How We Use Your Information"
+     },
+     {
+      "href": "#disclosure",
+      "text": "Disclosure of Your Information"
+     },
+     {
+      "href": "#security",
+      "text": "Security of Your Information"
+     },
+     {
+      "href": "#rights",
+      "text": "Your Rights"
+     },
+     {
+      "href": "#policy",
+      "text": "Changes to This Privacy Policy"
+     },
+     {
+      "href": "#cookie",
+      "text": "Cookies and Tracking Technologies"
+     },
+     {
+      "href": "#data-retention",
+      "text": "Data Retention"
+     },
+     {
+      "href": "#contact-us",
+      "text": "Contact Us"
+     }
+    ],
+    "targetsOfSkip": [
+     true,
+     true,
+     true,
+     true,
+     true,
+     true,
+     true,
+     true,
+     true
+    ],
+    "bodyText": 21
+   },
+   "axe": {
+    "violations": [
+     {
+      "id": "landmark-one-main",
+      "impact": "moderate",
+      "nodes": 1,
+      "targets": [
+       "html"
+      ]
+     },
+     {
+      "id": "page-has-heading-one",
+      "impact": "moderate",
+      "nodes": 1,
+      "targets": [
+       "html"
+      ]
+     },
+     {
+      "id": "region",
+      "impact": "moderate",
+      "nodes": 1,
+      "targets": [
+       ".pt-12"
+      ]
+     }
+    ],
+    "totalViolations": 6
+   },
+   "ax": {
+    "headings": [
+     {
+      "level": 3,
+      "name": "Get Zedu today",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "Products",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "Solutions",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "Zedu",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "Resources",
+      "ignored": false
+     }
+    ],
+    "landmarks": [
+     {
+      "role": "navigation",
+      "name": "",
+      "ignored": false
+     },
+     {
+      "role": "contentinfo",
+      "name": "",
+      "ignored": false
+     }
+    ]
+   }
+  },
+  {
+   "path": "/terms-of-service",
+   "url": "https://zedu.chat/terms-of-service",
+   "status": 200,
+   "err": null,
+   "dom": {
+    "title": "Zedu - Learning Platform for Bootcamps, Schools, and Cohorts",
+    "lang": "en",
+    "headings": [
+     {
+      "level": 2,
+      "text": "Acceptance of Terms",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "Use of the App",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "User Content",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "Privacy",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "Intellectual Property",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "Subscription and Payment",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "Limitation of Liability",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "Termination",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "Governing Law",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 3,
+      "text": "Get Zedu today",
+      "visible": false,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "Products",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "Solutions",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "Zedu",
+      "visible": true,
+      "ariaHidden": null
+     },
+     {
+      "level": 2,
+      "text": "Resources",
+      "visible": true,
+      "ariaHidden": null
+     }
+    ],
+    "landmarks": {
+     "main": 0,
+     "nav": 1,
+     "header": 0,
+     "footer": 1,
+     "roleMain": 0,
+     "roleNav": 0,
+     "ariaLabelMain": []
+    },
+    "skipCandidates": [
+     {
+      "href": "#acceptance",
+      "text": "Acceptance of Terms"
+     },
+     {
+      "href": "#use",
+      "text": "Use of the App"
+     },
+     {
+      "href": "#user-content",
+      "text": "User Content"
+     },
+     {
+      "href": "#privacy",
+      "text": "Privacy"
+     },
+     {
+      "href": "#intellectual-property",
+      "text": "Intellectual Property"
+     },
+     {
+      "href": "#subscription",
+      "text": "Subscription & Payment"
+     },
+     {
+      "href": "#liability",
+      "text": "Limitation of Liability"
+     },
+     {
+      "href": "#termination",
+      "text": "Termination"
+     },
+     {
+      "href": "#governing-law",
+      "text": "Governing Law"
+     }
+    ],
+    "targetsOfSkip": [
+     true,
+     true,
+     true,
+     true,
+     true,
+     true,
+     true,
+     true,
+     true
+    ],
+    "bodyText": 0
+   },
+   "axe": {
+    "violations": [
+     {
+      "id": "landmark-one-main",
+      "impact": "moderate",
+      "nodes": 1,
+      "targets": [
+       "html"
+      ]
+     },
+     {
+      "id": "page-has-heading-one",
+      "impact": "moderate",
+      "nodes": 1,
+      "targets": [
+       "html"
+      ]
+     },
+     {
+      "id": "region",
+      "impact": "moderate",
+      "nodes": 1,
+      "targets": [
+       ".pt-12"
+      ]
+     }
+    ],
+    "totalViolations": 6
+   },
+   "ax": {
+    "headings": [
+     {
+      "level": 3,
+      "name": "Get Zedu today",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "Products",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "Solutions",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "Zedu",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "Resources",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "Acceptance of Terms",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "Use of the App",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "User Content",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "Privacy",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "Intellectual Property",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "Subscription and Payment",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "Limitation of Liability",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "Termination",
+      "ignored": false
+     },
+     {
+      "level": 2,
+      "name": "Governing Law",
+      "ignored": false
+     }
+    ],
+    "landmarks": [
+     {
+      "role": "navigation",
+      "name": "",
+      "ignored": false
+     },
+     {
+      "role": "contentinfo",
+      "name": "",
+      "ignored": false
+     }
+    ]
+   }
+  },
+  {
+   "path": "/auth/login",
+   "url": "https://zedu.chat/auth/login",
+   "status": 200,
+   "err": null,
+   "dom": {
+    "title": "Zedu",
+    "lang": "en",
+    "headings": [
+     {
+      "level": 1,
+      "text": "Login to Zedu",
+      "visible": true,
+      "ariaHidden": null
+     }
+    ],
+    "landmarks": {
+     "main": 1,
+     "nav": 0,
+     "header": 0,
+     "footer": 0,
+     "roleMain": 0,
+     "roleNav": 0,
+     "ariaLabelMain": [
+      null
+     ]
+    },
+    "skipCandidates": [],
+    "targetsOfSkip": [],
+    "bodyText": 0
+   },
+   "axe": {
+    "violations": [],
+    "totalViolations": 2
+   },
+   "ax": {
+    "headings": [
+     {
+      "level": 1,
+      "name": "Login to Zedu",
+      "ignored": false
+     }
+    ],
+    "landmarks": [
+     {
+      "role": "main",
+      "name": "",
+      "ignored": false
+     }
+    ]
+   }
+  },
+  {
+   "path": "/auth/sign-up",
+   "url": "https://zedu.chat/auth/sign-up",
+   "status": 200,
+   "err": null,
+   "dom": {
+    "title": "Zedu",
+    "lang": "en",
+    "headings": [
+     {
+      "level": 1,
+      "text": "Stay Focused While Zedu Handles The Hustle",
+      "visible": true,
+      "ariaHidden": null
+     }
+    ],
+    "landmarks": {
+     "main": 1,
+     "nav": 0,
+     "header": 0,
+     "footer": 0,
+     "roleMain": 0,
+     "roleNav": 0,
+     "ariaLabelMain": [
+      null
+     ]
+    },
+    "skipCandidates": [],
+    "targetsOfSkip": [],
+    "bodyText": 0
+   },
+   "axe": {
+    "violations": [],
+    "totalViolations": 2
+   },
+   "ax": {
+    "headings": [
+     {
+      "level": 1,
+      "name": "Stay Focused While Zedu Handles The Hustle",
+      "ignored": false
+     }
+    ],
+    "landmarks": [
+     {
+      "role": "main",
+      "name": "",
+      "ignored": false
+     }
+    ]
+   }
+  }
+ ]
+}
