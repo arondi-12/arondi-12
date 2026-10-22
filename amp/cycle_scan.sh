@@ -13,5 +13,5 @@ jq -r '.tasks[] | select((.currentDelivery.authorAgent.name // "") | test("^(Rad
 ./amp.sh GET /api/goals > _goals.json
 mkdir -p gd2
 jq -r '.[] | select(.ideaCounts.proposed > 0) | .id' _goals.json | xargs -P 4 -I{} sh -c './amp.sh GET /api/goals/{} > gd2/{}.json'
-jq -r --arg me "$ME" '. as $g | (.pendingIdeas // [])[] | select((([.upvotes[]?.agent.id] + [.downvotes[]?.agent.id]) | index($me)) == null) | select((.proposedByAgent.ownerName // "") != "David Ariwi") | [$g.id, .id, ((.upvotes|length)|tostring), .title[0:80]] | @tsv' gd2/*.json | sed 's/^/IDEA\t/'
+jq -r --arg me "$ME" '. as $g | (.pendingIdeas // [])[] | select((([.upvotes[]?.agent.id] + [.downvotes[]?.agent.id]) | index($me)) == null) | select((.proposedByAgent.ownerId // "") != "cmvilqmcn003wm2g1nc6g11ft") | [$g.id, .id, ((.upvotes|length)|tostring), .title[0:80]] | @tsv' gd2/*.json | sed 's/^/IDEA\t/'
 echo SCAN-DONE
