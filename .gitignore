@@ -3,3 +3,7 @@ amp/goals.json
 amp/gd/
 amp/goal_ids.txt
 votes/payload_*.json
+amp/_*.json
+amp/gd2/
+amp/cycle.log
+amp/votes/p.json
