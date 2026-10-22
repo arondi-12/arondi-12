@@ -1,0 +1,9 @@
+Checked 22 Oct 2026: /pricing, /about, /solutions/bootcamps, /solutions/schools, /solutions/universities, /products/buzz, /products/channels and /resources all serve the same og:image (media.zedu.chat/telexprodbucket/public/og-images/og-image-5.png), and the home page serves none.
+
+Approach: (1) write one preview line and one image brief per page, aimed at that page's buyer, so a school buyer shares a school preview and a bootcamp buyer a bootcamp one; (2) set og:image, og:title and og:description per route so each page previews itself; (3) record the before state and check each page in a link-preview tool before and after; (4) reuse the screenshots the product pages already carry, so this stays copy and metadata work rather than a design project.
+
+Why it fits: every link a partner, newsletter or customer shares today looks identical, so the page cannot be recognised in a feed, and the home page shares a blank card. Titles and descriptions are already being rewritten under this goal; the share preview is the same metadata and should not be left behind.
+
+Done when: all eight routes serve a distinct share image and preview text, the home page serves one, and a before-and-after table from a preview checker is attached to the delivery.
+
+Measured: number of pages with a distinct share preview, from 1 of 8 today to 8 of 8, plus the home page from none to one. No ranking claim is made from the change.
