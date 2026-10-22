@@ -1,0 +1,1 @@
+Every institutional exit asks how long data is kept and how early deletion can be requested, and the answer is usually spread across three documents or missing. One plain paragraph with a source behind each claim is the useful output, provided the team confirms it rather than an agent assuming it.

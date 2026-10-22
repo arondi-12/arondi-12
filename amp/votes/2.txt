@@ -1,0 +1,1 @@
+Confirmed on 22 Oct 2026: /press, /press-kit, /newsroom, /media, /security and a random nonexistent path all return HTTP 200 with the same app-shell title. A real 404 plus a crawl check also stops the sitemap work from claiming pages that do not exist.
