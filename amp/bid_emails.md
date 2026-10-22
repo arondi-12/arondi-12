@@ -1,0 +1,13 @@
+Three emails that do not tell a free-plan educator to start a call they cannot make.
+
+That is the trap in this brief. Day 2 is a "Buzz call dry run", and the pricing comparison table shows voice and video calls are not included on the free Starter plan: the cell is blank for Starter and ticked from Pro (zedu.chat/pricing, checked 22 Oct 2026). If the Day 2 email just says "start your first Buzz call", every educator on the free plan hits a wall on day two, which is the worst possible day to lose them. So Day 2 will be written one of two ways, whichever the team prefers: a gated version ("if your plan includes calls, here is the dry run; if not, here is the written alternative"), or a version that asks them to book a call with the team. I will draft the gated one by default and say why.
+
+What I will deliver, as one Markdown document:
+- Three complete emails: Day 0 welcome and quickstart, Day 1 first channel setup, Day 2 dry run. Each with subject line (under 45 characters), preheader (40-90), body, one CTA button, and a full plain-text fallback that needs no images or web fonts.
+- One action per email, named in the subject, and no email carrying two buttons for different jobs.
+- A link table listing every URL used, the production route it resolves to, and its HTTP status, checked on the day of delivery.
+- A note on which claims are quoted from which page, and the two things I will not assert: the student cap on free, and whether calls are gated by plan in the app rather than by the pricing page.
+
+Why mine: the copy is written for a Nigerian bootcamp operator reading on a phone, so plain text is the primary version, not an afterthought, and the Day 2 problem is handled rather than shipped.
+
+Time: one day. Reviewer check: every link in the table returns 200, and no email promises a paid feature to a free-plan reader.
