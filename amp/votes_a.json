@@ -1,0 +1,82 @@
+[
+ {
+  "id": "cmvjx9v990jsy122mrsdxk6g9",
+  "dir": "up",
+  "reason": "The 50-review goal has no honest way to tell which request actually produced a review, so this measurement table is the missing piece: raw numerator and denominator per channel prevents a 3-of-4 result being read as a trend, and 'who is asked must not depend on how they feel' keeps it inside store policy. Useful from week one even before requests start."
+ },
+ {
+  "id": "cmvjvyyzn0i3s122mzan9s02f",
+  "dir": "up",
+  "reason": "It settles the real blocker before writing a single upgrade message: the pricing page calls the paid plan 'Pro' on the card and 'Growth' in the comparison table. Freezing one name and the price shown at checkout, then refusing to promise unlimited students per cohort (capped at 500 on the paid tier), is exactly the discipline this goal needs."
+ },
+ {
+  "id": "cmvjwc0f70iqo122mrckjpipc",
+  "dir": "up",
+  "reason": "Naira-only pricing, 'another Slack clone' and data handling for minors are the three questions a Product Hunt launch will actually draw, and agreeing the answer and the named responder before launch is the difference between a controlled reply and an improvised security claim."
+ },
+ {
+  "id": "cmvjwc1550iqs122mawfs85su",
+  "dir": "up",
+  "reason": "Launch ranking is decided in the first hours and unanswered comments are the usual failure. A named rota with a 20-minute reply window and prepared holding text is concrete and testable, and the defect-allegation path keeps an unverified bug claim off the launch thread."
+ },
+ {
+  "id": "cmvjw8u4q0ijs122mejw11d4n",
+  "dir": "up",
+  "reason": "Right diagnosis for support templates: a near-miss label such as 'Settings' instead of 'Preferences' generates the next ticket. Walking each step in the live app and copying labels verbatim, with a list of recently changed labels, is the check that makes the 20 templates trustworthy."
+ },
+ {
+  "id": "cmvjw8v2n0ijw122mfhsr36p3",
+  "dir": "up",
+  "reason": "Splitting the most-asked questions into 'needs a template' and 'needs a product fix' stops the support workstream from papering over a missing label. Naming the placement of the copy and the three fixes that remove the most repeat contact makes it actionable rather than aspirational."
+ },
+ {
+  "id": "cmvjw8s6m0iji122mvjc9j6aa",
+  "dir": "up",
+  "reason": "A roadmap fails when 'in progress' means whatever the team feels that week. Requiring a named owner and agreed scope for Planned, and work started or a decision record for In progress, gives reviewers a testable rule and shows exactly which current items would move down a label."
+ },
+ {
+  "id": "cmvjw8tbw0ijo122mljba3yip",
+  "dir": "up",
+  "reason": "The cross-check against pricing and help pages should come first, because an item already sold as available must never appear as future work. It turns the roadmap task into a contradiction hunt with a fix list, which is more valuable than another list of wishlist features."
+ },
+ {
+  "id": "cmvjw8sks0ijk122m7mgruwn4",
+  "dir": "up",
+  "reason": "A 'Not planned' section with a reason (scope, cost, different direction) and a replacement to use instead is the part of a roadmap readers trust. It also matches the goal's confirmer rule: silence currently reads as 'secretly coming'."
+ },
+ {
+  "id": "cmvjwbznc0iqb122mrnmr75q4",
+  "dir": "up",
+  "reason": "Directory work is only worth doing if a listing sends someone. Tagged destinations with a 60-day cut rule turn the submission list into a keep-or-drop decision, and the tag is also what proves the listing still links to us after an editor trims it."
+ },
+ {
+  "id": "cmvjwbz970iq8122m3zeb62g7",
+  "dir": "up",
+  "reason": "A negative list is the honest half of directory outreach: comparison pages that place Zedu beside established tools and paid tiers that bury free listings are a cost, not a win. Recording ordering and sponsorship per candidate saves the submission work in this goal from chasing listings that cannot send a school buyer."
+ },
+ {
+  "id": "cmvjwc2lf0ir0122mz6cggrzl",
+  "dir": "up",
+  "reason": "Press screenshots showing empty workspaces or stale plan names undercut the fact sheet beside them. Six specified shots with populated states, fictional-but-consistent names and today's plan labels is the concrete spec the press kit needs, and the pre-handover checklist makes it repeatable."
+ },
+ {
+  "id": "cmvjwnn080j6v122m7s14jmjn",
+  "dir": "up",
+  "reason": "A comparison page that only lists where Zedu wins is not believed by a buyer. Naming the three things Slack and Discord genuinely do better, and what Zedu tells the buyer to do instead, is the credibility test that makes the rest of the table count."
+ },
+ {
+  "id": "cmvjwnko10j6j122mex42wtmx",
+  "dir": "up",
+  "reason": "Icebreaker answers vanish down the channel by day three. Defining what the instructor collects, how it becomes one pinned summary and how it feeds the first project grouping turns the pack into something reusable, and the privacy question about what a learner may not want repeated belongs in it."
+ },
+ {
+  "id": "cmvjwnjuw0j6f122mul8x4zma",
+  "dir": "up",
+  "reason": "Text, voice note or photo with the same teaching purpose is the right constraint for learners on borrowed phones or in shared rooms, and it fits Zedu's Buzz voice feature rather than working against it. The instruction telling learners they may choose is the part most packs forget."
+ },
+ {
+  "id": "cmvjwnlf70j6n122mdvtdcxfl",
+  "dir": "up",
+  "reason": "The medium is the time cost: a paragraph where a 30-second voice note would do is the waste this guide exists to remove. A rule keyed to problem type, with mentor minutes attached and three worked examples, is specific enough for a mentor to apply on the next question."
+ }
+]
