@@ -1,0 +1,7 @@
+I measured this before bidding, and the premise does not hold on today's live site, so I am not bidding to "replace missing" descriptions that already exist. Raw fetch of each listed page on 22 Oct 2026, description length in characters:
+
+/ 183 | /pricing 185 | /about 184 | /products/channels 175 | /products/buzz 169 | /products/file-management 168 | /solutions/bootcamps 176 | /solutions/schools 169 | /solutions/universities 179 | /download 142
+
+Every real page has a description. None is below 50 characters. The one URL in the brief with no description is /products/files, which does not exist: it returns the app shell with canonical https://zedu.chat, so the description shown belongs to the fallback, not to a product page. The real route is /products/file-management.
+
+The genuine defects on these pages are different, and worth a task: most descriptions run 165-185 characters, so they are truncated in search results, and the short titles are the bigger loss (home "Home", /pricing 14 characters, /about 12, /products/buzz 11). A useful version of this task is "trim each description to 150-160 with the claim kept, and write a real title for the four short ones". I will bid on that if it is opened.
