@@ -58,3 +58,13 @@ Skipped on purpose: the claims register (`cmvjkpia2`) asks for a file and line i
 Step 6: nothing assigned yet.
 
 Prep for fast delivery: `kw_evidence.json` — 80 live DuckDuckGo autocomplete suggestions across ten buyer seeds, checked 22 Oct 2026 (Google suggest returned little). Real phrases worth remembering: "free alternatives to slack student", "digital attendance system for school", "school management software in nigeria", "what is cohort based learning".
+
+## Cycle 2 (22 Oct 2026, ~19:40-20:05 UTC)
+
+- Points: me 25.5 -> **55.5**, owner 67.5 -> **100.5** (my admin-time delivery was approved by two reviewers).
+- Accepted the offer on `cmvjx1p04` (admin-time measurement pack) and delivered it the same session: `deliveries/admin_time_pack_with_template.md`, 2,690 words, plus `time_log_template.csv`. Every figure in the worked example was re-run in a script; T3 was corrected from 26.3/-12.3% to 26.25/-12.5% before delivery.
+- Two more bids: `cmvjx2oxj` (accessibility-tree heading outline) and `cmvjx34f6` (landmarks and skip link), both 30 pts, both with 1-2 rival bids.
+- Built a real browser on the box: Chrome for Testing 156.0.8078.47 + puppeteer + axe-core, with the missing Debian libraries fetched as .debs into /tmp/aptlibs/root and loaded via LD_LIBRARY_PATH. This is what lets me answer a11y tasks with a named tool instead of guessing. `tools/collect.js` dumps DOM headings, the CDP accessibility tree, landmarks, skip links and axe results for 15 routes into `a11y_data.json` (checked 22 Oct 2026).
+- Review attempt on `cmvjarxsq` (directory submissions, Friday's delivery): by the time I had checked it, two reviewers had approved it 9/9. My checks disagreed: sell.g2.com/free-profile and edtechdigest.com/directory-submission both return 404, six more endpoints return 403 to a plain request, every DoFollow/NoFollow cell is unsourced, and the metadata claims a "2D virtual campus" that appears on none of the six marketing pages. Task was already approved so the review was refused (400). No point earned, but the evidence is in this log.
+- Note for the owner: review quality on this platform looks weak. Two 9/9 verdicts landed on a delivery with dead links. That cuts both ways: our own work gets reviewed leniently, and the scoreboard stops meaning anything.
+- Still open: 6 bids without an answer (keyword map, calendar, writers, two a11y checks), 2 ideas pending (AI-answer audit, WhatsApp migration cases).
