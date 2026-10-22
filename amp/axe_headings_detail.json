@@ -1,0 +1,112 @@
+{
+ "/": [
+  {
+   "id": "heading-order",
+   "impact": "moderate",
+   "nodes": [
+    {
+     "target": ".max-w-\\[380px\\].mx-auto.w-full:nth-child(1) > .drop-shadow-md > .px-5.py-5.sm\\:py-6 > .sm\\:text-lg.text-base",
+     "html": "<h3 class=\"text-base font-semibold text-neutral-900 sm:text-lg\">How Bootcamps Use Zedu to Improve Cohort Outcomes</h3>",
+     "summary": "Fix any of the following: Heading order invalid"
+    },
+    {
+     "target": ".border-\\[\\#E5E8FF\\].bg-\\[\\#FAFAFF\\].border:nth-child(1) > h3",
+     "html": "<h3 data-orientation=\"vertical\" data-state=\"closed\" class=\"flex\">",
+     "summary": "Fix any of the following: Heading order invalid"
+    },
+    {
+     "target": ".leading-none.text-2xl.text-white",
+     "html": "<h3 class=\"text-2xl font-semibold leading-none text-white\">Get Zedu today</h3>",
+     "summary": "Fix any of the following: Heading order invalid"
+    }
+   ]
+  }
+ ],
+ "/pricing": [
+  {
+   "id": "heading-order",
+   "impact": "moderate",
+   "nodes": [
+    {
+     "target": ".border-\\[\\#E5E8FF\\].bg-\\[\\#FAFAFF\\].rounded-xl:nth-child(1) > h3",
+     "html": "<h3 data-orientation=\"vertical\" data-state=\"closed\" class=\"flex\">",
+     "summary": "Fix any of the following: Heading order invalid"
+    },
+    {
+     "target": ".leading-none.text-2xl",
+     "html": "<h3 class=\"text-2xl font-semibold leading-none text-white\">Get Zedu today</h3>",
+     "summary": "Fix any of the following: Heading order invalid"
+    }
+   ]
+  }
+ ],
+ "/about": [
+  {
+   "id": "heading-order",
+   "impact": "moderate",
+   "nodes": [
+    {
+     "target": ".p-4:nth-child(1) > .sm\\:text-lg",
+     "html": "<h3 class=\"text-base font-semibold text-neutral-900 sm:text-lg\">Bootcamps</h3>",
+     "summary": "Fix any of the following: Heading order invalid"
+    },
+    {
+     "target": ".gap-3.items-center.flex > .leading-none",
+     "html": "<h3 class=\"text-2xl font-semibold leading-none text-white\">Get Zedu today</h3>",
+     "summary": "Fix any of the following: Heading order invalid"
+    }
+   ]
+  }
+ ],
+ "/solutions/universities": [
+  {
+   "id": "heading-order",
+   "impact": "moderate",
+   "nodes": [
+    {
+     "target": "article:nth-child(1) > .space-y-4.text-center > .sm\\:text-xl.text-lg",
+     "html": "<h3 class=\"text-lg font-semibold text-[#1f2530] sm:text-xl\">Organized Communication</h3>",
+     "summary": "Fix any of the following: Heading order invalid"
+    },
+    {
+     "target": ".border-neutral-200.p-6.border:nth-child(1) > .text-lg",
+     "html": "<h3 class=\"text-lg font-semibold text-[#1f2530]\">Role-Based Permissions</h3>",
+     "summary": "Fix any of the following: Heading order invalid"
+    },
+    {
+     "target": ".md\\:rounded-none > .text-lg",
+     "html": "<h3 class=\"text-lg font-semibold\">Without Zedu</h3>",
+     "summary": "Fix any of the following: Heading order invalid"
+    },
+    {
+     "target": ".leading-none.text-2xl",
+     "html": "<h3 class=\"text-2xl font-semibold leading-none text-white\">Get Zedu today</h3>",
+     "summary": "Fix any of the following: Heading order invalid"
+    }
+   ]
+  }
+ ],
+ "/products/channels": [
+  {
+   "id": "heading-order",
+   "impact": "moderate",
+   "nodes": [
+    {
+     "target": ".sm\\:gap-4.sm\\:rounded-3xl.bg-white:nth-child(1) > .sm\\:text-lg.text-base.text-neutral-900",
+     "html": "<h3 class=\"text-base font-semibold text-neutral-900 sm:text-lg\">Buzz</h3>",
+     "summary": "Fix any of the following: Heading order invalid"
+    },
+    {
+     "target": ".border-\\[\\#E5E8FF\\].bg-\\[\\#FAFAFF\\].rounded-xl:nth-child(1) > h3",
+     "html": "<h3 data-orientation=\"vertical\" data-state=\"closed\" class=\"flex\">",
+     "summary": "Fix any of the following: Heading order invalid"
+    },
+    {
+     "target": ".text-2xl.leading-none",
+     "html": "<h3 class=\"text-2xl font-semibold leading-none text-white\">Get Zedu today</h3>",
+     "summary": "Fix any of the following: Heading order invalid"
+    }
+   ]
+  }
+ ]
+}

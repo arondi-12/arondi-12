@@ -1,0 +1,1443 @@
+{
+ "checked_on": "2026-10-22",
+ "tool": "Chrome for Testing Chrome/156.0.8078.47 via puppeteer 25.16.0; accessibility tree from CDP Accessibility.getFullAXTree; axe-core 4.14.0; viewport 1280x900",
+ "pages": [
+  {
+   "path": "/",
+   "status": 200,
+   "title": "Home",
+   "lang": "en",
+   "headings": [
+    {
+     "level": 1,
+     "text": "Built for Bootcamps and Learning Communities",
+     "visible": false
+    },
+    {
+     "level": 1,
+     "text": "Everything you need for Modern Learning",
+     "visible": false
+    },
+    {
+     "level": 2,
+     "text": "Organized Channels",
+     "visible": true
+    },
+    {
+     "level": 2,
+     "text": "Cohort Communication",
+     "visible": true
+    },
+    {
+     "level": 2,
+     "text": "Calls & Collaboration",
+     "visible": true
+    },
+    {
+     "level": 2,
+     "text": "AI Agents",
+     "visible": true
+    },
+    {
+     "level": 1,
+     "text": "Fewer Tools, Smarter Learning",
+     "visible": true
+    },
+    {
+     "level": 2,
+     "text": "3x",
+     "visible": false
+    },
+    {
+     "level": 2,
+     "text": "40%",
+     "visible": false
+    },
+    {
+     "level": 2,
+     "text": "24/7",
+     "visible": false
+    },
+    {
+     "level": 2,
+     "text": "All Your Learning Tools.One Simple Subscription",
+     "visible": true
+    },
+    {
+     "level": 3,
+     "text": "Messaging System",
+     "visible": true
+    },
+    {
+     "level": 3,
+     "text": "Live Teaching",
+     "visible": true
+    },
+    {
+     "level": 3,
+     "text": "Storyboard",
+     "visible": true
+    },
+    {
+     "level": 3,
+     "text": "Class Recordings",
+     "visible": true
+    },
+    {
+     "level": 3,
+     "text": "Conversation Mesh",
+     "visible": true
+    },
+    {
+     "level": 3,
+     "text": "File Management",
+     "visible": true
+    },
+    {
+     "level": 3,
+     "text": "Whiteboard",
+     "visible": true
+    },
+    {
+     "level": 3,
+     "text": "AI class notes",
+     "visible": true
+    },
+    {
+     "level": 1,
+     "text": "The Platform for Every Type of Learning",
+     "visible": false
+    },
+    {
+     "level": 3,
+     "text": "How Bootcamps Use Zedu to Improve Cohort Outcomes",
+     "visible": true
+    },
+    {
+     "level": 3,
+     "text": "A Better Campus Communication Layer for Institutions",
+     "visible": true
+    },
+    {
+     "level": 3,
+     "text": "Keeping K-12 Classrooms Organized, Safe, and Engaging",
+     "visible": true
+    },
+    {
+     "level": 1,
+     "text": "Simple, Flexible Pricing for Education",
+     "visible": false
+    },
+    {
+     "level": 2,
+     "text": "Starter",
+     "visible": false
+    },
+    {
+     "level": 3,
+     "text": "₦0/month",
+     "visible": true
+    },
+    {
+     "level": 2,
+     "text": "Pro",
+     "visible": false
+    },
+    {
+     "level": 3,
+     "text": "₦20K/month",
+     "visible": true
+    },
+    {
+     "level": 2,
+     "text": "Enterprise",
+     "visible": false
+    },
+    {
+     "level": 3,
+     "text": "Let's Talk",
+     "visible": true
+    },
+    {
+     "level": 1,
+     "text": "Launching a bootcamp? Let's build a pricing model that fits your cohort size.",
+     "visible": false
+    },
+    {
+     "level": 1,
+     "text": "Why Educators Choose Zedu",
+     "visible": false
+    },
+    {
+     "level": 2,
+     "text": "Built for Education, Not Business",
+     "visible": true
+    },
+    {
+     "level": 2,
+     "text": "No Per-Student Pricing",
+     "visible": true
+    },
+    {
+     "level": 2,
+     "text": "AI-Powered Teaching Support",
+     "visible": true
+    },
+    {
+     "level": 2,
+     "text": "Built For Secured, Structured Learning",
+     "visible": true
+    },
+    {
+     "level": 2,
+     "text": "Role-Based Access Control",
+     "visible": true
+    },
+    {
+     "level": 2,
+     "text": "Private Cohorts & Controlled Spaces",
+     "visible": true
+    },
+    {
+     "level": 2,
+     "text": "Data Protection & Platform Reliability",
+     "visible": true
+    },
+    {
+     "level": 1,
+     "text": "Got a Question? We Have an Answer",
+     "visible": false
+    },
+    {
+     "level": 3,
+     "text": "What is Zedu?",
+     "visible": true
+    },
+    {
+     "level": 3,
+     "text": "How does Zedu support students and learners?",
+     "visible": true
+    },
+    {
+     "level": 3,
+     "text": "Is Zedu difficult to set up for a school or bootcamp?",
+     "visible": true
+    },
+    {
+     "level": 3,
+     "text": "Can Zedu use our institution’s information to answer questions?",
+     "visible": true
+    },
+    {
+     "level": 3,
+     "text": "Is student support fully automated?",
+     "visible": true
+    },
+    {
+     "level": 3,
+     "text": "How does pricing work for educational institutions?",
+     "visible": true
+    },
+    {
+     "level": 1,
+     "text": "Run Your Next Cohort Without Limits",
+     "visible": false
+    },
+    {
+     "level": 3,
+     "text": "Get Zedu today",
+     "visible": false
+    },
+    {
+     "level": 2,
+     "text": "Products",
+     "visible": true
+    },
+    {
+     "level": 2,
+     "text": "Solutions",
+     "visible": true
+    },
+    {
+     "level": 2,
+     "text": "Zedu",
+     "visible": true
+    },
+    {
+     "level": 2,
+     "text": "Resources",
+     "visible": true
+    }
+   ],
+   "noHeadingSections": [],
+   "mainCount": 0,
+   "axHeads": [
+    {
+     "level": 1,
+     "name": "Run Your Next Cohort Without Limits"
+    },
+    {
+     "level": 3,
+     "name": "Get Zedu today"
+    },
+    {
+     "level": 2,
+     "name": "Products"
+    },
+    {
+     "level": 2,
+     "name": "Solutions"
+    },
+    {
+     "level": 2,
+     "name": "Zedu"
+    },
+    {
+     "level": 2,
+     "name": "Resources"
+    },
+    {
+     "level": 1,
+     "name": "Built for Bootcamps andLearning Communities"
+    },
+    {
+     "level": 1,
+     "name": "Everything you need forModern Learning"
+    },
+    {
+     "level": 2,
+     "name": "Organized Channels"
+    },
+    {
+     "level": 2,
+     "name": "Cohort Communication"
+    },
+    {
+     "level": 2,
+     "name": "Calls & Collaboration"
+    },
+    {
+     "level": 2,
+     "name": "AI Agents"
+    },
+    {
+     "level": 1,
+     "name": "Fewer Tools, Smarter Learning"
+    },
+    {
+     "level": 2,
+     "name": "3x"
+    },
+    {
+     "level": 2,
+     "name": "40%"
+    },
+    {
+     "level": 2,
+     "name": "24/7"
+    },
+    {
+     "level": 2,
+     "name": "All Your Learning Tools. One Simple Subscription"
+    },
+    {
+     "level": 3,
+     "name": "Messaging System"
+    },
+    {
+     "level": 3,
+     "name": "Live Teaching"
+    },
+    {
+     "level": 3,
+     "name": "Storyboard"
+    },
+    {
+     "level": 3,
+     "name": "Class Recordings"
+    },
+    {
+     "level": 3,
+     "name": "Conversation Mesh"
+    },
+    {
+     "level": 3,
+     "name": "File Management"
+    },
+    {
+     "level": 3,
+     "name": "Whiteboard"
+    },
+    {
+     "level": 3,
+     "name": "AI class notes"
+    },
+    {
+     "level": 1,
+     "name": "The Platform for Every Type of Learning"
+    },
+    {
+     "level": 1,
+     "name": "Simple, Flexible Pricing for Education"
+    },
+    {
+     "level": 1,
+     "name": "Launching a bootcamp? Let's build a pricing model that fits your cohort size."
+    },
+    {
+     "level": 1,
+     "name": "Why Educators Choose Zedu"
+    },
+    {
+     "level": 2,
+     "name": "Built for Education, Not Business"
+    },
+    {
+     "level": 2,
+     "name": "No Per-Student Pricing"
+    },
+    {
+     "level": 2,
+     "name": "AI-Powered Teaching Support"
+    },
+    {
+     "level": 1,
+     "name": "Got a Question?We Have an Answer"
+    },
+    {
+     "level": 3,
+     "name": "What is Zedu?"
+    },
+    {
+     "level": 3,
+     "name": "How does Zedu support students and learners?"
+    },
+    {
+     "level": 3,
+     "name": "Is Zedu difficult to set up for a school or bootcamp?"
+    },
+    {
+     "level": 3,
+     "name": "Can Zedu use our institution’s information to answer questions?"
+    },
+    {
+     "level": 3,
+     "name": "Is student support fully automated?"
+    },
+    {
+     "level": 3,
+     "name": "How does pricing work for educational institutions?"
+    },
+    {
+     "level": 3,
+     "name": "How Bootcamps Use Zedu to Improve Cohort Outcomes"
+    },
+    {
+     "level": 3,
+     "name": "A Better Campus Communication Layer for Institutions"
+    },
+    {
+     "level": 3,
+     "name": "Keeping K-12 Classrooms Organized, Safe, and Engaging"
+    },
+    {
+     "level": 2,
+     "name": "Starter"
+    },
+    {
+     "level": 3,
+     "name": "₦0 /month"
+    },
+    {
+     "level": 2,
+     "name": "Pro"
+    },
+    {
+     "level": 3,
+     "name": "₦20K /month"
+    },
+    {
+     "level": 2,
+     "name": "Enterprise"
+    },
+    {
+     "level": 3,
+     "name": "Let's Talk"
+    },
+    {
+     "level": 2,
+     "name": "Built For Secured, Structured Learning"
+    },
+    {
+     "level": 2,
+     "name": "Role-Based Access Control"
+    },
+    {
+     "level": 2,
+     "name": "Private Cohorts & Controlled Spaces"
+    },
+    {
+     "level": 2,
+     "name": "Data Protection & Platform Reliability"
+    }
+   ],
+   "axe": [
+    {
+     "id": "heading-order",
+     "impact": "moderate",
+     "nodes": 3,
+     "sample": [
+      ".max-w-\\[380px\\].mx-auto.w-full:nth-child(1) > .drop-shadow-md > .px-5.py-5.sm\\:py-6 > .sm\\:text-lg.text-base",
+      ".border-\\[\\#E5E8FF\\].bg-\\[\\#FAFAFF\\].border:nth-child(1) > h3",
+      ".leading-none.text-2xl.text-white"
+     ]
+    },
+    {
+     "id": "region",
+     "impact": "moderate",
+     "nodes": 71,
+     "sample": [
+      ".sm\\:text-4xl",
+      ".md\\:max-w-\\[65\\%\\]",
+      ".gap-1.items-center.flex > .font-medium"
+     ]
+    }
+   ]
+  },
+  {
+   "path": "/pricing",
+   "status": 200,
+   "title": "Pricing | Zedu",
+   "lang": "en",
+   "headings": [
+    {
+     "level": 1,
+     "text": "Simple, Flexible Pricing for Education",
+     "visible": false
+    },
+    {
+     "level": 2,
+     "text": "Starter",
+     "visible": false
+    },
+    {
+     "level": 3,
+     "text": "₦0/month",
+     "visible": true
+    },
+    {
+     "level": 2,
+     "text": "Pro",
+     "visible": false
+    },
+    {
+     "level": 3,
+     "text": "₦20K/month",
+     "visible": true
+    },
+    {
+     "level": 2,
+     "text": "Enterprise",
+     "visible": false
+    },
+    {
+     "level": 3,
+     "text": "Let's Talk",
+     "visible": true
+    },
+    {
+     "level": 1,
+     "text": "Launching a bootcamp? Let's build a pricing model that fits your cohort size.",
+     "visible": false
+    },
+    {
+     "level": 1,
+     "text": "Got a Question? We Have an Answer",
+     "visible": false
+    },
+    {
+     "level": 3,
+     "text": "What is Zedu?",
+     "visible": true
+    },
+    {
+     "level": 3,
+     "text": "How does Zedu support students and learners?",
+     "visible": true
+    },
+    {
+     "level": 3,
+     "text": "Is Zedu difficult to set up for a school or bootcamp?",
+     "visible": true
+    },
+    {
+     "level": 3,
+     "text": "Can Zedu use our institution’s information to answer questions?",
+     "visible": true
+    },
+    {
+     "level": 3,
+     "text": "Is student support fully automated?",
+     "visible": true
+    },
+    {
+     "level": 3,
+     "text": "How does pricing work for educational institutions?",
+     "visible": true
+    },
+    {
+     "level": 1,
+     "text": "Start Building Structured Learning Today",
+     "visible": false
+    },
+    {
+     "level": 3,
+     "text": "Get Zedu today",
+     "visible": false
+    },
+    {
+     "level": 2,
+     "text": "Products",
+     "visible": true
+    },
+    {
+     "level": 2,
+     "text": "Solutions",
+     "visible": true
+    },
+    {
+     "level": 2,
+     "text": "Zedu",
+     "visible": true
+    },
+    {
+     "level": 2,
+     "text": "Resources",
+     "visible": true
+    }
+   ],
+   "noHeadingSections": [],
+   "mainCount": 0,
+   "axHeads": [
+    {
+     "level": 1,
+     "name": "Start Building Structured Learning Today"
+    },
+    {
+     "level": 1,
+     "name": "Simple, Flexible Pricing for Education"
+    },
+    {
+     "level": 1,
+     "name": "Launching a bootcamp? Let's build a pricing model that fits your cohort size."
+    },
+    {
+     "level": 1,
+     "name": "Got a Question?We Have an Answer"
+    },
+    {
+     "level": 3,
+     "name": "What is Zedu?"
+    },
+    {
+     "level": 3,
+     "name": "How does Zedu support students and learners?"
+    },
+    {
+     "level": 3,
+     "name": "Is Zedu difficult to set up for a school or bootcamp?"
+    },
+    {
+     "level": 3,
+     "name": "Can Zedu use our institution’s information to answer questions?"
+    },
+    {
+     "level": 3,
+     "name": "Is student support fully automated?"
+    },
+    {
+     "level": 3,
+     "name": "How does pricing work for educational institutions?"
+    },
+    {
+     "level": 3,
+     "name": "Get Zedu today"
+    },
+    {
+     "level": 2,
+     "name": "Products"
+    },
+    {
+     "level": 2,
+     "name": "Solutions"
+    },
+    {
+     "level": 2,
+     "name": "Zedu"
+    },
+    {
+     "level": 2,
+     "name": "Resources"
+    },
+    {
+     "level": 2,
+     "name": "Starter"
+    },
+    {
+     "level": 3,
+     "name": "₦0 /month"
+    },
+    {
+     "level": 2,
+     "name": "Pro"
+    },
+    {
+     "level": 3,
+     "name": "₦20K /month"
+    },
+    {
+     "level": 2,
+     "name": "Enterprise"
+    },
+    {
+     "level": 3,
+     "name": "Let's Talk"
+    }
+   ],
+   "axe": [
+    {
+     "id": "heading-order",
+     "impact": "moderate",
+     "nodes": 2,
+     "sample": [
+      ".border-\\[\\#E5E8FF\\].bg-\\[\\#FAFAFF\\].rounded-xl:nth-child(1) > h3",
+      ".leading-none.text-2xl"
+     ]
+    },
+    {
+     "id": "region",
+     "impact": "moderate",
+     "nodes": 129,
+     "sample": [
+      ".lg\\:gap-8 > .gap-6.flex-col.items-center",
+      "article:nth-child(1) > .max-w-\\[90\\%\\].mx-auto.flex-col",
+      "article:nth-child(1) > .gap-1.flex-col"
+     ]
+    }
+   ]
+  },
+  {
+   "path": "/about",
+   "status": 200,
+   "title": "About | Zedu",
+   "lang": "en",
+   "headings": [
+    {
+     "level": 1,
+     "text": "Built for Structured Learning Not Noise",
+     "visible": false
+    },
+    {
+     "level": 1,
+     "text": "Our Philosophy",
+     "visible": false
+    },
+    {
+     "level": 2,
+     "text": "Structure Drives Clarity",
+     "visible": true
+    },
+    {
+     "level": 2,
+     "text": "AI Should Assist, Not Replace",
+     "visible": true
+    },
+    {
+     "level": 2,
+     "text": "Educators Deserve Better Tools",
+     "visible": true
+    },
+    {
+     "level": 2,
+     "text": "Move quickly from ideas to execution",
+     "visible": false
+    },
+    {
+     "level": 1,
+     "text": "Designed for Modern Learning Teams",
+     "visible": false
+    },
+    {
+     "level": 3,
+     "text": "Bootcamps",
+     "visible": false
+    },
+    {
+     "level": 3,
+     "text": "Universities",
+     "visible": false
+    },
+    {
+     "level": 3,
+     "text": "Online Learning platforms",
+     "visible": false
+    },
+    {
+     "level": 2,
+     "text": "Built for Modern Learning",
+     "visible": false
+    },
+    {
+     "level": 1,
+     "text": "Our Vision",
+     "visible": false
+    },
+    {
+     "level": 2,
+     "text": "Built with Privacy and Protection in Mind",
+     "visible": true
+    },
+    {
+     "level": 1,
+     "text": "Start Building Structured Learning Today",
+     "visible": false
+    },
+    {
+     "level": 3,
+     "text": "Get Zedu today",
+     "visible": false
+    },
+    {
+     "level": 2,
+     "text": "Products",
+     "visible": true
+    },
+    {
+     "level": 2,
+     "text": "Solutions",
+     "visible": true
+    },
+    {
+     "level": 2,
+     "text": "Zedu",
+     "visible": true
+    },
+    {
+     "level": 2,
+     "text": "Resources",
+     "visible": true
+    }
+   ],
+   "noHeadingSections": [],
+   "mainCount": 0,
+   "axHeads": [
+    {
+     "level": 1,
+     "name": "Start Building Structured Learning Today"
+    },
+    {
+     "level": 1,
+     "name": "Built for StructuredLearning Not Noise"
+    },
+    {
+     "level": 1,
+     "name": "Our Philosophy"
+    },
+    {
+     "level": 2,
+     "name": "Structure Drives Clarity"
+    },
+    {
+     "level": 2,
+     "name": "AI Should Assist, Not Replace"
+    },
+    {
+     "level": 2,
+     "name": "Educators Deserve Better Tools"
+    },
+    {
+     "level": 2,
+     "name": "Move quickly from ideas to execution"
+    },
+    {
+     "level": 1,
+     "name": "Designed for Modern Learning Teams"
+    },
+    {
+     "level": 2,
+     "name": "Built for Modern Learning"
+    },
+    {
+     "level": 2,
+     "name": "Built with Privacy and Protection in Mind"
+    },
+    {
+     "level": 3,
+     "name": "Get Zedu today"
+    },
+    {
+     "level": 2,
+     "name": "Products"
+    },
+    {
+     "level": 2,
+     "name": "Solutions"
+    },
+    {
+     "level": 2,
+     "name": "Zedu"
+    },
+    {
+     "level": 2,
+     "name": "Resources"
+    },
+    {
+     "level": 3,
+     "name": "Bootcamps"
+    },
+    {
+     "level": 3,
+     "name": "Universities"
+    },
+    {
+     "level": 3,
+     "name": "Online Learning platforms"
+    },
+    {
+     "level": 1,
+     "name": "Our Vision"
+    }
+   ],
+   "axe": [
+    {
+     "id": "heading-order",
+     "impact": "moderate",
+     "nodes": 2,
+     "sample": [
+      ".p-4:nth-child(1) > .sm\\:text-lg",
+      ".gap-3.items-center.flex > .leading-none"
+     ]
+    },
+    {
+     "id": "region",
+     "impact": "moderate",
+     "nodes": 32,
+     "sample": [
+      ".py-10.mt-10.isolate > .sm\\:text-4xl.md\\:text-5xl",
+      ".text-xs",
+      ".max-w-6xl"
+     ]
+    }
+   ]
+  },
+  {
+   "path": "/solutions/universities",
+   "status": 200,
+   "title": "Universities Solutions | Zedu",
+   "lang": "en",
+   "headings": [
+    {
+     "level": 1,
+     "text": "Modern Communication for Universities",
+     "visible": false
+    },
+    {
+     "level": 1,
+     "text": "Built for Higher Education Environments",
+     "visible": true
+    },
+    {
+     "level": 2,
+     "text": "Large Cohorts",
+     "visible": true
+    },
+    {
+     "level": 2,
+     "text": "Organized Courses",
+     "visible": true
+    },
+    {
+     "level": 2,
+     "text": "AI Assisted Learning",
+     "visible": true
+    },
+    {
+     "level": 1,
+     "text": "Structured Communication Across the University",
+     "visible": false
+    },
+    {
+     "level": 3,
+     "text": "Organized Communication",
+     "visible": true
+    },
+    {
+     "level": 3,
+     "text": "Collaboration at Scale",
+     "visible": true
+    },
+    {
+     "level": 3,
+     "text": "AI-Powered Learning",
+     "visible": true
+    },
+    {
+     "level": 1,
+     "text": "Institution Control and Security",
+     "visible": false
+    },
+    {
+     "level": 3,
+     "text": "Role-Based Permissions",
+     "visible": false
+    },
+    {
+     "level": 3,
+     "text": "Department Workspaces",
+     "visible": false
+    },
+    {
+     "level": 3,
+     "text": "Secure Communication",
+     "visible": false
+    },
+    {
+     "level": 1,
+     "text": "How Zedu transforms Universities",
+     "visible": false
+    },
+    {
+     "level": 3,
+     "text": "Without Zedu",
+     "visible": true
+    },
+    {
+     "level": 3,
+     "text": "With Zedu",
+     "visible": true
+    },
+    {
+     "level": 1,
+     "text": "Run Leaner. Move Faster. Teach Better.",
+     "visible": false
+    },
+    {
+     "level": 2,
+     "text": "40%",
+     "visible": false
+    },
+    {
+     "level": 2,
+     "text": "2x",
+     "visible": false
+    },
+    {
+     "level": 2,
+     "text": "60%",
+     "visible": false
+    },
+    {
+     "level": 1,
+     "text": "Bring Structured Communication to Your University",
+     "visible": false
+    },
+    {
+     "level": 3,
+     "text": "Get Zedu today",
+     "visible": false
+    },
+    {
+     "level": 2,
+     "text": "Products",
+     "visible": true
+    },
+    {
+     "level": 2,
+     "text": "Solutions",
+     "visible": true
+    },
+    {
+     "level": 2,
+     "text": "Zedu",
+     "visible": true
+    },
+    {
+     "level": 2,
+     "text": "Resources",
+     "visible": true
+    }
+   ],
+   "noHeadingSections": [],
+   "mainCount": 0,
+   "axHeads": [
+    {
+     "level": 1,
+     "name": "Bring Structured Communication to Your University"
+    },
+    {
+     "level": 1,
+     "name": "Built for Higher Education Environments"
+    },
+    {
+     "level": 2,
+     "name": "Large Cohorts"
+    },
+    {
+     "level": 2,
+     "name": "Organized Courses"
+    },
+    {
+     "level": 2,
+     "name": "AI Assisted Learning"
+    },
+    {
+     "level": 1,
+     "name": "Structured Communication Across the University"
+    },
+    {
+     "level": 1,
+     "name": "Institution Control and Security"
+    },
+    {
+     "level": 3,
+     "name": "Role-Based Permissions"
+    },
+    {
+     "level": 3,
+     "name": "Department Workspaces"
+    },
+    {
+     "level": 3,
+     "name": "Secure Communication"
+    },
+    {
+     "level": 1,
+     "name": "How Zedu transforms Universities"
+    },
+    {
+     "level": 3,
+     "name": "Without Zedu"
+    },
+    {
+     "level": 3,
+     "name": "With Zedu"
+    },
+    {
+     "level": 1,
+     "name": "Run Leaner. Move Faster. Teach Better."
+    },
+    {
+     "level": 2,
+     "name": "40%"
+    },
+    {
+     "level": 2,
+     "name": "2x"
+    },
+    {
+     "level": 2,
+     "name": "60%"
+    },
+    {
+     "level": 3,
+     "name": "Get Zedu today"
+    },
+    {
+     "level": 2,
+     "name": "Products"
+    },
+    {
+     "level": 2,
+     "name": "Solutions"
+    },
+    {
+     "level": 2,
+     "name": "Zedu"
+    },
+    {
+     "level": 2,
+     "name": "Resources"
+    },
+    {
+     "level": 1,
+     "name": "Modern Communication for Universities"
+    },
+    {
+     "level": 3,
+     "name": "Organized Communication"
+    },
+    {
+     "level": 3,
+     "name": "Collaboration at Scale"
+    },
+    {
+     "level": 3,
+     "name": "AI-Powered Learning"
+    }
+   ],
+   "axe": [
+    {
+     "id": "heading-order",
+     "impact": "moderate",
+     "nodes": 4,
+     "sample": [
+      "article:nth-child(1) > .space-y-4.text-center > .sm\\:text-xl.text-lg",
+      ".border-neutral-200.p-6.border:nth-child(1) > .text-lg",
+      ".md\\:rounded-none > .text-lg"
+     ]
+    },
+    {
+     "id": "region",
+     "impact": "moderate",
+     "nodes": 39,
+     "sample": [
+      ".lg\\:max-w-\\[470px\\] > .text-3xl.sm\\:text-4xl.lg\\:text-\\[44px\\]",
+      ".max-w-\\[46ch\\]",
+      ".text-\\[\\#5a6170\\].lg\\:justify-start.gap-2 > .text-\\[\\#1f2530\\]"
+     ]
+    }
+   ]
+  },
+  {
+   "path": "/products/channels",
+   "status": 200,
+   "title": "Channels | Zedu",
+   "lang": "en",
+   "headings": [
+    {
+     "level": 1,
+     "text": "Organise Learning with Structured Channels.",
+     "visible": false
+    },
+    {
+     "level": 1,
+     "text": "Organized Communication for Learning",
+     "visible": true
+    },
+    {
+     "level": 2,
+     "text": "Keep conversations in the right place",
+     "visible": true
+    },
+    {
+     "level": 2,
+     "text": "Follow discussions without noise",
+     "visible": true
+    },
+    {
+     "level": 2,
+     "text": "Share important updates clearly",
+     "visible": true
+    },
+    {
+     "level": 2,
+     "text": "Channels built for education",
+     "visible": true
+    },
+    {
+     "level": 1,
+     "text": "Channels that Scale with Your Institution",
+     "visible": false
+    },
+    {
+     "level": 1,
+     "text": "More That Just Channels",
+     "visible": false
+    },
+    {
+     "level": 3,
+     "text": "Buzz",
+     "visible": true
+    },
+    {
+     "level": 3,
+     "text": "File Management",
+     "visible": true
+    },
+    {
+     "level": 3,
+     "text": "Ai Agents",
+     "visible": true
+    },
+    {
+     "level": 3,
+     "text": "Assignments",
+     "visible": true
+    },
+    {
+     "level": 1,
+     "text": "Got a Question? We Have an Answer",
+     "visible": false
+    },
+    {
+     "level": 3,
+     "text": "When should I use Channels?",
+     "visible": true
+    },
+    {
+     "level": 3,
+     "text": "What can I do in a Channels?",
+     "visible": true
+    },
+    {
+     "level": 3,
+     "text": "How do I start a Channels?",
+     "visible": true
+    },
+    {
+     "level": 3,
+     "text": "Are Channels free?",
+     "visible": true
+    },
+    {
+     "level": 1,
+     "text": "Organize Your Learning Community with Channels",
+     "visible": false
+    },
+    {
+     "level": 3,
+     "text": "Get Zedu today",
+     "visible": false
+    },
+    {
+     "level": 2,
+     "text": "Products",
+     "visible": true
+    },
+    {
+     "level": 2,
+     "text": "Solutions",
+     "visible": true
+    },
+    {
+     "level": 2,
+     "text": "Zedu",
+     "visible": true
+    },
+    {
+     "level": 2,
+     "text": "Resources",
+     "visible": true
+    }
+   ],
+   "noHeadingSections": [],
+   "mainCount": 0,
+   "axHeads": [
+    {
+     "level": 1,
+     "name": "Organize Your Learning Community with Channels"
+    },
+    {
+     "level": 1,
+     "name": "Organized Communication for Learning"
+    },
+    {
+     "level": 1,
+     "name": "Channels that Scale with Your Institution"
+    },
+    {
+     "level": 1,
+     "name": "More That Just Channels"
+    },
+    {
+     "level": 3,
+     "name": "Buzz"
+    },
+    {
+     "level": 3,
+     "name": "File Management"
+    },
+    {
+     "level": 3,
+     "name": "Ai Agents"
+    },
+    {
+     "level": 3,
+     "name": "Assignments"
+    },
+    {
+     "level": 1,
+     "name": "Got a Question?We Have an Answer"
+    },
+    {
+     "level": 3,
+     "name": "When should I use Channels?"
+    },
+    {
+     "level": 3,
+     "name": "What can I do in a Channels?"
+    },
+    {
+     "level": 3,
+     "name": "How do I start a Channels?"
+    },
+    {
+     "level": 3,
+     "name": "Are Channels free?"
+    },
+    {
+     "level": 3,
+     "name": "Get Zedu today"
+    },
+    {
+     "level": 2,
+     "name": "Products"
+    },
+    {
+     "level": 2,
+     "name": "Solutions"
+    },
+    {
+     "level": 2,
+     "name": "Zedu"
+    },
+    {
+     "level": 2,
+     "name": "Resources"
+    },
+    {
+     "level": 1,
+     "name": "Organise Learning with Structured Channels."
+    },
+    {
+     "level": 2,
+     "name": "Keep conversations in the right place"
+    },
+    {
+     "level": 2,
+     "name": "Follow discussions without noise"
+    },
+    {
+     "level": 2,
+     "name": "Share important updates clearly"
+    },
+    {
+     "level": 2,
+     "name": "Channels built for education"
+    }
+   ],
+   "axe": [
+    {
+     "id": "heading-order",
+     "impact": "moderate",
+     "nodes": 3,
+     "sample": [
+      ".sm\\:gap-4.sm\\:rounded-3xl.bg-white:nth-child(1) > .sm\\:text-lg.text-base.text-neutral-900",
+      ".border-\\[\\#E5E8FF\\].bg-\\[\\#FAFAFF\\].rounded-xl:nth-child(1) > h3",
+      ".text-2xl.leading-none"
+     ]
+    },
+    {
+     "id": "region",
+     "impact": "moderate",
+     "nodes": 22,
+     "sample": [
+      ".lg\\:max-w-\\[470px\\] > .text-3xl.sm\\:text-4xl.lg\\:text-\\[44px\\]",
+      ".max-w-\\[46ch\\]",
+      ".rounded-3xl"
+     ]
+    }
+   ]
+  }
+ ]
+}

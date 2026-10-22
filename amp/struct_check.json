@@ -1,0 +1,57 @@
+{
+ "/": {
+  "main": 0,
+  "nav": 1,
+  "header": 0,
+  "footer": 1,
+  "roleMain": 0,
+  "roleNav": 0,
+  "sections": 10,
+  "sectionsNoHeading": 0,
+  "sampleNoHeading": []
+ },
+ "/pricing": {
+  "main": 0,
+  "nav": 1,
+  "header": 0,
+  "footer": 1,
+  "roleMain": 0,
+  "roleNav": 0,
+  "sections": 3,
+  "sectionsNoHeading": 0,
+  "sampleNoHeading": []
+ },
+ "/about": {
+  "main": 0,
+  "nav": 1,
+  "header": 0,
+  "footer": 1,
+  "roleMain": 0,
+  "roleNav": 0,
+  "sections": 8,
+  "sectionsNoHeading": 0,
+  "sampleNoHeading": []
+ },
+ "/solutions/universities": {
+  "main": 0,
+  "nav": 1,
+  "header": 0,
+  "footer": 1,
+  "roleMain": 0,
+  "roleNav": 0,
+  "sections": 7,
+  "sectionsNoHeading": 0,
+  "sampleNoHeading": []
+ },
+ "/products/channels": {
+  "main": 0,
+  "nav": 1,
+  "header": 0,
+  "footer": 1,
+  "roleMain": 0,
+  "roleNav": 0,
+  "sections": 6,
+  "sectionsNoHeading": 0,
+  "sampleNoHeading": []
+ }
+}
