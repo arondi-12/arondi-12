@@ -1,0 +1,102 @@
+[
+ {
+  "path": "/",
+  "status": 200,
+  "bytes": 137590,
+  "canonical": "https://zedu.chat",
+  "canonical_host": "zedu.chat",
+  "title": "Home",
+  "description": "Zedu is an AI-powered education platform built for bootcamps and learning communities. Organize cohorts, run classes, manage communication, and scale modern learning in one workspace.",
+  "h1": 9
+ },
+ {
+  "path": "/pricing",
+  "status": 200,
+  "bytes": 219970,
+  "canonical": "https://zedu.chat/pricing",
+  "canonical_host": "zedu.chat",
+  "title": "Pricing | Zedu",
+  "description": "Explore Zedu pricing plans for schools, bootcamps, and cohort-based learning teams. Compare features, choose the right plan, and scale structured learning with AI-powered collaboration.",
+  "h1": 4
+ },
+ {
+  "path": "/about",
+  "status": 200,
+  "bytes": 139001,
+  "canonical": "https://zedu.chat/about",
+  "canonical_host": "zedu.chat",
+  "title": "About | Zedu",
+  "description": "Learn how Zedu helps schools, universities, and bootcamps run structured, AI-assisted learning communication with organized channels, collaboration tools, and educator-first workflows.",
+  "h1": 5
+ },
+ {
+  "path": "/products/channels",
+  "status": 200,
+  "bytes": 88882,
+  "canonical": "https://zedu.chat/products/channels",
+  "canonical_host": "zedu.chat",
+  "title": "Channels | Zedu",
+  "description": "Explore Zedu Channels for structured classroom and cohort communication. Organize discussions by subject, share updates clearly, and scale collaboration across learning teams.",
+  "h1": 6
+ },
+ {
+  "path": "/products/buzz",
+  "status": 200,
+  "bytes": 78836,
+  "canonical": "https://zedu.chat/products/buzz",
+  "canonical_host": "zedu.chat",
+  "title": "Buzz | Zedu",
+  "description": "Use Zedu Buzz to start instant voice conversations inside learning channels. Collaborate in real time, clarify lessons faster, and review AI-generated session summaries.",
+  "h1": 3
+ },
+ {
+  "path": "/products/files",
+  "status": 200,
+  "bytes": 25329,
+  "canonical": "https://zedu.chat",
+  "canonical_host": "zedu.chat",
+  "title": "Zedu - Seamless Video Meetings & Learning Communities",
+  "description": "Connect classrooms, cohorts, and teams in one shared space. Zedu provides high-quality video calls and collaborative tools designed for every learning community.",
+  "h1": 0
+ },
+ {
+  "path": "/solutions/bootcamps",
+  "status": 200,
+  "bytes": 98838,
+  "canonical": "https://zedu.chat/solutions/bootcamps",
+  "canonical_host": "zedu.chat",
+  "title": "Bootcamps Solutions | Zedu",
+  "description": "Streamline bootcamp management with Zedu. Give instructors, mentors, and students one cohort management platform for structured learning, collaboration, and community building.",
+  "h1": 6
+ },
+ {
+  "path": "/solutions/schools",
+  "status": 200,
+  "bytes": 96528,
+  "canonical": "https://zedu.chat/solutions/schools",
+  "canonical_host": "zedu.chat",
+  "title": "Schools Solutions | Zedu",
+  "description": "Improve classroom communication with Zedu. Give teachers and students structured channels for lessons, assignments, discussions, and school-wide updates in one platform.",
+  "h1": 6
+ },
+ {
+  "path": "/solutions/universities",
+  "status": 200,
+  "bytes": 105726,
+  "canonical": "https://zedu.chat/solutions/universities",
+  "canonical_host": "zedu.chat",
+  "title": "Universities Solutions | Zedu",
+  "description": "Power higher education communication with Zedu. Connect departments, professors, and students with structured channels, searchable discussions, and AI-assisted learning workflows.",
+  "h1": 7
+ },
+ {
+  "path": "/download",
+  "status": 200,
+  "bytes": 87539,
+  "canonical": "https://zedu.chat/download",
+  "canonical_host": "zedu.chat",
+  "title": "Download Zedu App | Mobile and Desktop Learning Workspace | Zedu",
+  "description": "Download Zedu on iOS, Android, and desktop. Join classes, chat with peers, manage files, and stay updated in one connected learning workspace.",
+  "h1": 3
+ }
+]
