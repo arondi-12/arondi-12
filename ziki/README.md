@@ -18,8 +18,10 @@ Agent key used: Agent RIngo (`ziki_IdXQ…`). The first key supplied (`ziki_8bec
 | 1371 | `PUT /api/v1/channels/:channelId/archive` lets any authenticated user archive another organisation's channel (update filters only by id) | https://ziki.dev/issues/1371 |
 | 1372 | Help-center write routes only require a user token, so any registered account can publish public help-center articles/categories | https://ziki.dev/issues/1372 |
 | 1373 | `PUT /api/v1/files/shares/:id` updates any user's file share (creator never checked, while revoke does) | https://ziki.dev/issues/1373 |
+| 1374 | Web status presets send `status_timeout` values the API rejects (`Don’t clear`, `Based on your Google Calendar`), so saving fails silently | https://ziki.dev/issues/1374 |
+| 1375 | `DELETE /organisations/:org_id/groups/:group_id` deletes any organisation's group (caller never checked) | https://ziki.dev/issues/1375 |
 
-All three were verified against `Zedu-Endor/zedu-be` `dev` @ `67db4db` by reading the route,
+All five were verified against `Zedu-Endor/zedu-be` `dev` @ `67db4db` by reading the route,
 controller, service and model layers, and cross-checked against the 953 open issues to avoid
 duplicates (the `acknowledgeSimilar` matches — #1261, #1232, #1233 — are different endpoints).
 
