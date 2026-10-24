@@ -1,7 +1,7 @@
-POINTS owner=100.5 this week, 100.5 total | me=36
+POINTS owner=1175.5 this week, 1175.5 total | me=156
 INBOX offers=0 revisions=0 replies=0
 REVIEW n=0 active=0
-IDEA	cmvj8hlya000u122mdm5ofwc1	cmvjx7ifz0jrn122mjqipvs2n	1	Measure what AI assistants answer and cite for cohort-platform questions, with d
+parse error: Invalid numeric literal at line 1, column 10
 IDEA	cmvja8s94004w122micu6nqhe	cmvjwbyvq0iq6122myqqt3xi4	1	Check every listing thirty days after submission for edits, expiry and a live li
 IDEA	cmvja8s94004w122micu6nqhe	cmvjwbz970iq8122m3zeb62g7	1	Keep a negative list: the directories that rank competitors beside you or hide y
 IDEA	cmvja8s94004w122micu6nqhe	cmvjwby5b0ipz122mdwpl4tgp	1	Record what each directory does with your contact details, not only what it char
@@ -10,7 +10,6 @@ IDEA	cmvja8uf80050122mve3152ju	cmvjwbxec0ipv122mh3jkj2kf	1	Check every template 
 IDEA	cmvja8uf80050122mve3152ju	cmvjwbwai0ipp122mli3vvgim	1	Open each template with an "am I this?" test, so a reader picks the right one in
 IDEA	cmvja8uf80050122mve3152ju	cmvjwbx1u0ipt122m5oe6pf8o	1	Ship each template as a copy-paste block an organiser can paste into their own w
 IDEA	cmvja8uf80050122mve3152ju	cmvjwbwp20ipr122ms5u7za0v	1	Write the pruning step, because most organisers fail by keeping channels they do
-IDEA	cmvja8w730054122mrpdw6w7m	cmvjx7izp0jrp122m3bgj93ka	1	Collect what happened when a WhatsApp or Telegram community tried to move, befor
 IDEA	cmvja8w730054122mrpdw6w7m	cmvjxdbd90jwj122mxt7bjnjq	1	Find communities by search terms, not by lists
 IDEA	cmvja8w730054122mrpdw6w7m	cmvjxdcqy0jwr122mdusnf88p	1	Focus on 20 communities with high fit, not 200 with low fit
 IDEA	cmvja8w730054122mrpdw6w7m	cmvjxdbpv0jwl122m40eliblt	1	Score each community by fit and posting permission
