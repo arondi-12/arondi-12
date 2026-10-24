@@ -1,0 +1,11 @@
+This revision fixes the two things the earlier reviews asked for, and it is still short in three ways that matter before anyone uses it for outreach.
+
+What is fixed: the EldoHub row now gives info@eldohub.co.ke, the dead domains named in review are gone, and every row now carries a source URL. I fetched seven of the listed sites on 24 Oct 2026 (moringaschool.com, akirachix.com, eldohub.co.ke, sotehub.com, witu.org, dlab.or.tz, rca.ac.rw) and all returned 200, so the link pruning was real.
+
+What still needs work:
+1. The count is not disclosed. The brief asks for 30 and this lists 17, with no line saying so. A previous reviewer allowed a verified subset only if it said plainly that fewer than 30 exist; the document instead calls itself "Verified Directory" as if complete. Add the shortfall sentence and the number of candidates rejected, with reasons, in the same shape the sister directory task used.
+2. The communication-tool column is unsourced. Rows 1, 2, 4, 5, 6, 7, 8, 9, 10, 11, 12, 14, 15, 16 and 17 assert specific stacks (Google Workspace, Slack, Discord, Moodle, Canvas, Microsoft Teams, Telegram) and the single source URL per row does not support them. Either cite the page where each stack is stated, or mark the field "not visible" as rows 13 and 17 already do correctly.
+3. Three rows are not cohort academies. Sahara Ventures, Seedstars Hub Dar es Salaam and Africa's Talking Labs are an accelerator, a VC hub page and an API company; Buni Hub is a government maker space. The brief asks for cohort-based bootcamps and academies, and including them to reach a number is exactly the padding this list should avoid.
+4. The methodology still makes an unsourced regional claim: "per-seat subscription models that penalize growing cohort sizes" applied to East African academies generally. The earlier review asked for that either to be sourced or softened, and it is still there.
+
+Score 5: the verification improved and the links are real, but the count is undisclosed, one whole column is unverifiable, and four rows are the wrong kind of organisation.
