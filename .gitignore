@@ -8,3 +8,5 @@ amp/gd2/
 amp/cycle.log
 amp/votes/p.json
 repo/
+
+amp/audit/__pycache__/

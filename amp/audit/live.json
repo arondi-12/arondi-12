@@ -1,0 +1,2898 @@
+{
+  "fetched_at_utc": "2026-10-24T17:25:10Z",
+  "base": "https://zedu.chat",
+  "pages": [
+    {
+      "url": "https://zedu.chat/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "final_url": "https://zedu.chat/",
+      "bytes": 137605,
+      "error": null,
+      "title": "Home",
+      "meta_description": "Zedu is an AI-powered education platform built for bootcamps and learning communities. Organize cohorts, run classes, manage communication, and scale modern learning in one workspace.",
+      "description_length": 183,
+      "meta_robots": "index, follow",
+      "canonicals": [
+        "https://zedu.chat"
+      ],
+      "h1": [
+        "Built for Bootcamps and Learning Communities",
+        "Everything you need for Modern Learning",
+        "Fewer Tools, Smarter Learning",
+        "The Platform for Every Type of Learning",
+        "Simple, Flexible Pricing for Education",
+        "Launching a bootcamp? Let's build a pricing model that fits your cohort size.",
+        "Why Educators Choose Zedu",
+        "Got a Question? We Have an Answer",
+        "Run Your Next Cohort Without Limits"
+      ],
+      "h2": [
+        "Organized Channels",
+        "Cohort Communication",
+        "Calls & Collaboration",
+        "AI Agents",
+        "3x",
+        "40%",
+        "24/7",
+        "All Your Learning Tools.One Simple Subscription",
+        "Starter",
+        "Pro",
+        "Enterprise",
+        "Built for Education, Not Business",
+        "No Per-Student Pricing",
+        "AI-Powered Teaching Support",
+        "Built For Secured, Structured Learning",
+        "Role-Based Access Control",
+        "Private Cohorts & Controlled Spaces",
+        "Data Protection & Platform Reliability",
+        "Products",
+        "Solutions",
+        "Zedu",
+        "Resources"
+      ],
+      "internal_links": [
+        {
+          "href": "/",
+          "url": "https://zedu.chat/",
+          "text": "",
+          "aria": null,
+          "path": "/"
+        },
+        {
+          "href": "/resources",
+          "url": "https://zedu.chat/resources",
+          "text": "Resources",
+          "aria": null,
+          "path": "/resources"
+        },
+        {
+          "href": "/pricing",
+          "url": "https://zedu.chat/pricing",
+          "text": "Pricing",
+          "aria": null,
+          "path": "/pricing"
+        },
+        {
+          "href": "/about",
+          "url": "https://zedu.chat/about",
+          "text": "About Us",
+          "aria": null,
+          "path": "/about"
+        },
+        {
+          "href": "/download",
+          "url": "https://zedu.chat/download",
+          "text": "Download",
+          "aria": null,
+          "path": "/download"
+        },
+        {
+          "href": "/auth/login",
+          "url": "https://zedu.chat/auth/login",
+          "text": "Log in",
+          "aria": null,
+          "path": "/auth/login"
+        },
+        {
+          "href": "/contact-sales",
+          "url": "https://zedu.chat/contact-sales",
+          "text": "Contact Sales",
+          "aria": null,
+          "path": "/contact-sales"
+        },
+        {
+          "href": "/auth/sign-up",
+          "url": "https://zedu.chat/auth/sign-up",
+          "text": "Get Started",
+          "aria": null,
+          "path": "/auth/sign-up"
+        },
+        {
+          "href": "/auth/sign-up",
+          "url": "https://zedu.chat/auth/sign-up",
+          "text": "Try for free",
+          "aria": null,
+          "path": "/auth/sign-up"
+        },
+        {
+          "href": "/contact-sales",
+          "url": "https://zedu.chat/contact-sales",
+          "text": "Contact sales",
+          "aria": null,
+          "path": "/contact-sales"
+        },
+        {
+          "href": "/auth/sign-up",
+          "url": "https://zedu.chat/auth/sign-up",
+          "text": "Get started for free",
+          "aria": null,
+          "path": "/auth/sign-up"
+        },
+        {
+          "href": "/auth/sign-up",
+          "url": "https://zedu.chat/auth/sign-up",
+          "text": "Get started for free",
+          "aria": null,
+          "path": "/auth/sign-up"
+        },
+        {
+          "href": "/client/settings/organisation/billing/all-plans",
+          "url": "https://zedu.chat/client/settings/organisation/billing/all-plans",
+          "text": "Start Pro Plan",
+          "aria": null,
+          "path": "/client/settings/organisation/billing/all-plans"
+        },
+        {
+          "href": "client/settings/organisation/billing/all-plans",
+          "url": "https://zedu.chat/client/settings/organisation/billing/all-plans",
+          "text": "Compare different plans",
+          "aria": null,
+          "path": "/client/settings/organisation/billing/all-plans"
+        },
+        {
+          "href": "/auth/sign-up",
+          "url": "https://zedu.chat/auth/sign-up",
+          "text": "Get started for free",
+          "aria": null,
+          "path": "/auth/sign-up"
+        },
+        {
+          "href": "/auth/sign-up",
+          "url": "https://zedu.chat/auth/sign-up",
+          "text": "Get started for free",
+          "aria": null,
+          "path": "/auth/sign-up"
+        },
+        {
+          "href": "/contact-sales",
+          "url": "https://zedu.chat/contact-sales",
+          "text": "Contact Sales",
+          "aria": null,
+          "path": "/contact-sales"
+        },
+        {
+          "href": "/",
+          "url": "https://zedu.chat/",
+          "text": "",
+          "aria": null,
+          "path": "/"
+        },
+        {
+          "href": "/products/buzz",
+          "url": "https://zedu.chat/products/buzz",
+          "text": "Buzz",
+          "aria": null,
+          "path": "/products/buzz"
+        },
+        {
+          "href": "/products/channels",
+          "url": "https://zedu.chat/products/channels",
+          "text": "Channels",
+          "aria": null,
+          "path": "/products/channels"
+        },
+        {
+          "href": "/products/file-management",
+          "url": "https://zedu.chat/products/file-management",
+          "text": "File Management",
+          "aria": null,
+          "path": "/products/file-management"
+        },
+        {
+          "href": "/solutions/bootcamps",
+          "url": "https://zedu.chat/solutions/bootcamps",
+          "text": "Bootcamps",
+          "aria": null,
+          "path": "/solutions/bootcamps"
+        },
+        {
+          "href": "/solutions/schools",
+          "url": "https://zedu.chat/solutions/schools",
+          "text": "Schools",
+          "aria": null,
+          "path": "/solutions/schools"
+        },
+        {
+          "href": "/solutions/universities",
+          "url": "https://zedu.chat/solutions/universities",
+          "text": "Universities",
+          "aria": null,
+          "path": "/solutions/universities"
+        },
+        {
+          "href": "/pricing",
+          "url": "https://zedu.chat/pricing",
+          "text": "Pricing",
+          "aria": null,
+          "path": "/pricing"
+        },
+        {
+          "href": "/contact-sales",
+          "url": "https://zedu.chat/contact-sales",
+          "text": "Contact Us",
+          "aria": null,
+          "path": "/contact-sales"
+        },
+        {
+          "href": "/resources",
+          "url": "https://zedu.chat/resources",
+          "text": "Blogs",
+          "aria": null,
+          "path": "/resources"
+        },
+        {
+          "href": "/policy",
+          "url": "https://zedu.chat/policy",
+          "text": "Privacy Policy",
+          "aria": null,
+          "path": "/policy"
+        },
+        {
+          "href": "/terms-of-service",
+          "url": "https://zedu.chat/terms-of-service",
+          "text": "Terms of Service",
+          "aria": null,
+          "path": "/terms-of-service"
+        },
+        {
+          "href": "/cdn-cgi/l/email-protection#d6b5b9b8a2b7b5a296acb3b2a3f8b5beb7a2",
+          "url": "https://zedu.chat/cdn-cgi/l/email-protection#d6b5b9b8a2b7b5a296acb3b2a3f8b5beb7a2",
+          "text": "[email protected]",
+          "aria": null,
+          "path": "/cdn-cgi/l/email-protection"
+        }
+      ],
+      "external_links": [
+        {
+          "href": "https://apps.apple.com/ng/app/zedu-app/id6759181591",
+          "url": "https://apps.apple.com/ng/app/zedu-app/id6759181591",
+          "text": "App store4.9",
+          "aria": null
+        },
+        {
+          "href": "https://play.google.com/store/apps/details?id=net.emerj.zedu&pcampaignid=web_share",
+          "url": "https://play.google.com/store/apps/details?id=net.emerj.zedu&pcampaignid=web_share",
+          "text": "Play store4.7",
+          "aria": null
+        },
+        {
+          "href": "https://www.instagram.com/telex.im",
+          "url": "https://www.instagram.com/telex.im",
+          "text": "",
+          "aria": null
+        },
+        {
+          "href": "https://www.tiktok.com/@telexim",
+          "url": "https://www.tiktok.com/@telexim",
+          "text": "",
+          "aria": null
+        },
+        {
+          "href": "https://www.facebook.com/profile.php?id=61578751079130",
+          "url": "https://www.facebook.com/profile.php?id=61578751079130",
+          "text": "",
+          "aria": null
+        },
+        {
+          "href": "https://x.com/teleximapp",
+          "url": "https://x.com/teleximapp",
+          "text": "",
+          "aria": null
+        }
+      ]
+    },
+    {
+      "url": "https://zedu.chat/pricing",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "final_url": "https://zedu.chat/pricing",
+      "bytes": 220003,
+      "error": null,
+      "title": "Pricing | Zedu",
+      "meta_description": "Explore Zedu pricing plans for schools, bootcamps, and cohort-based learning teams. Compare features, choose the right plan, and scale structured learning with AI-powered collaboration.",
+      "description_length": 185,
+      "meta_robots": "index, follow",
+      "canonicals": [
+        "https://zedu.chat/pricing"
+      ],
+      "h1": [
+        "Simple, Flexible Pricing for Education",
+        "Launching a bootcamp? Let's build a pricing model that fits your cohort size.",
+        "Got a Question? We Have an Answer",
+        "Start Building Structured Learning Today"
+      ],
+      "h2": [
+        "Starter",
+        "Pro",
+        "Enterprise",
+        "Products",
+        "Solutions",
+        "Zedu",
+        "Resources"
+      ],
+      "internal_links": [
+        {
+          "href": "/",
+          "url": "https://zedu.chat/",
+          "text": "",
+          "aria": null,
+          "path": "/"
+        },
+        {
+          "href": "/resources",
+          "url": "https://zedu.chat/resources",
+          "text": "Resources",
+          "aria": null,
+          "path": "/resources"
+        },
+        {
+          "href": "/pricing",
+          "url": "https://zedu.chat/pricing",
+          "text": "Pricing",
+          "aria": null,
+          "path": "/pricing"
+        },
+        {
+          "href": "/about",
+          "url": "https://zedu.chat/about",
+          "text": "About Us",
+          "aria": null,
+          "path": "/about"
+        },
+        {
+          "href": "/download",
+          "url": "https://zedu.chat/download",
+          "text": "Download",
+          "aria": null,
+          "path": "/download"
+        },
+        {
+          "href": "/auth/login",
+          "url": "https://zedu.chat/auth/login",
+          "text": "Log in",
+          "aria": null,
+          "path": "/auth/login"
+        },
+        {
+          "href": "/contact-sales",
+          "url": "https://zedu.chat/contact-sales",
+          "text": "Contact Sales",
+          "aria": null,
+          "path": "/contact-sales"
+        },
+        {
+          "href": "/auth/sign-up",
+          "url": "https://zedu.chat/auth/sign-up",
+          "text": "Get Started",
+          "aria": null,
+          "path": "/auth/sign-up"
+        },
+        {
+          "href": "/client/settings/organisation/billing/all-plans",
+          "url": "https://zedu.chat/client/settings/organisation/billing/all-plans",
+          "text": "Start Pro Plan",
+          "aria": null,
+          "path": "/client/settings/organisation/billing/all-plans"
+        },
+        {
+          "href": "client/settings/organisation/billing/all-plans",
+          "url": "https://zedu.chat/client/settings/organisation/billing/all-plans",
+          "text": "Compare different plans",
+          "aria": null,
+          "path": "/client/settings/organisation/billing/all-plans"
+        },
+        {
+          "href": "/auth/sign-up",
+          "url": "https://zedu.chat/auth/sign-up",
+          "text": "Get started for free",
+          "aria": null,
+          "path": "/auth/sign-up"
+        },
+        {
+          "href": "/contact-sales",
+          "url": "https://zedu.chat/contact-sales",
+          "text": "Contact Sales",
+          "aria": null,
+          "path": "/contact-sales"
+        },
+        {
+          "href": "/",
+          "url": "https://zedu.chat/",
+          "text": "",
+          "aria": null,
+          "path": "/"
+        },
+        {
+          "href": "/products/buzz",
+          "url": "https://zedu.chat/products/buzz",
+          "text": "Buzz",
+          "aria": null,
+          "path": "/products/buzz"
+        },
+        {
+          "href": "/products/channels",
+          "url": "https://zedu.chat/products/channels",
+          "text": "Channels",
+          "aria": null,
+          "path": "/products/channels"
+        },
+        {
+          "href": "/products/file-management",
+          "url": "https://zedu.chat/products/file-management",
+          "text": "File Management",
+          "aria": null,
+          "path": "/products/file-management"
+        },
+        {
+          "href": "/solutions/bootcamps",
+          "url": "https://zedu.chat/solutions/bootcamps",
+          "text": "Bootcamps",
+          "aria": null,
+          "path": "/solutions/bootcamps"
+        },
+        {
+          "href": "/solutions/schools",
+          "url": "https://zedu.chat/solutions/schools",
+          "text": "Schools",
+          "aria": null,
+          "path": "/solutions/schools"
+        },
+        {
+          "href": "/solutions/universities",
+          "url": "https://zedu.chat/solutions/universities",
+          "text": "Universities",
+          "aria": null,
+          "path": "/solutions/universities"
+        },
+        {
+          "href": "/pricing",
+          "url": "https://zedu.chat/pricing",
+          "text": "Pricing",
+          "aria": null,
+          "path": "/pricing"
+        },
+        {
+          "href": "/contact-sales",
+          "url": "https://zedu.chat/contact-sales",
+          "text": "Contact Us",
+          "aria": null,
+          "path": "/contact-sales"
+        },
+        {
+          "href": "/resources",
+          "url": "https://zedu.chat/resources",
+          "text": "Blogs",
+          "aria": null,
+          "path": "/resources"
+        },
+        {
+          "href": "/policy",
+          "url": "https://zedu.chat/policy",
+          "text": "Privacy Policy",
+          "aria": null,
+          "path": "/policy"
+        },
+        {
+          "href": "/terms-of-service",
+          "url": "https://zedu.chat/terms-of-service",
+          "text": "Terms of Service",
+          "aria": null,
+          "path": "/terms-of-service"
+        },
+        {
+          "href": "/cdn-cgi/l/email-protection#0a6965647e6b697e4a706f6e7f2469626b7e",
+          "url": "https://zedu.chat/cdn-cgi/l/email-protection#0a6965647e6b697e4a706f6e7f2469626b7e",
+          "text": "[email protected]",
+          "aria": null,
+          "path": "/cdn-cgi/l/email-protection"
+        }
+      ],
+      "external_links": [
+        {
+          "href": "https://apps.apple.com/ng/app/zedu-app/id6759181591",
+          "url": "https://apps.apple.com/ng/app/zedu-app/id6759181591",
+          "text": "App store4.9",
+          "aria": null
+        },
+        {
+          "href": "https://play.google.com/store/apps/details?id=net.emerj.zedu&pcampaignid=web_share",
+          "url": "https://play.google.com/store/apps/details?id=net.emerj.zedu&pcampaignid=web_share",
+          "text": "Play store4.7",
+          "aria": null
+        },
+        {
+          "href": "https://www.instagram.com/telex.im",
+          "url": "https://www.instagram.com/telex.im",
+          "text": "",
+          "aria": null
+        },
+        {
+          "href": "https://www.tiktok.com/@telexim",
+          "url": "https://www.tiktok.com/@telexim",
+          "text": "",
+          "aria": null
+        },
+        {
+          "href": "https://www.facebook.com/profile.php?id=61578751079130",
+          "url": "https://www.facebook.com/profile.php?id=61578751079130",
+          "text": "",
+          "aria": null
+        },
+        {
+          "href": "https://x.com/teleximapp",
+          "url": "https://x.com/teleximapp",
+          "text": "",
+          "aria": null
+        }
+      ]
+    },
+    {
+      "url": "https://zedu.chat/about",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "final_url": "https://zedu.chat/about",
+      "bytes": 139002,
+      "error": null,
+      "title": "About | Zedu",
+      "meta_description": "Learn how Zedu helps schools, universities, and bootcamps run structured, AI-assisted learning communication with organized channels, collaboration tools, and educator-first workflows.",
+      "description_length": 184,
+      "meta_robots": "index, follow",
+      "canonicals": [
+        "https://zedu.chat/about"
+      ],
+      "h1": [
+        "Built for Structured Learning Not Noise",
+        "Our Philosophy",
+        "Designed for Modern Learning Teams",
+        "Our Vision",
+        "Start Building Structured Learning Today"
+      ],
+      "h2": [
+        "Structure Drives Clarity",
+        "AI Should Assist, Not Replace",
+        "Educators Deserve Better Tools",
+        "Move quickly from ideas to execution",
+        "Built for Modern Learning",
+        "Built with Privacy and Protection in Mind",
+        "Products",
+        "Solutions",
+        "Zedu",
+        "Resources"
+      ],
+      "internal_links": [
+        {
+          "href": "/",
+          "url": "https://zedu.chat/",
+          "text": "",
+          "aria": null,
+          "path": "/"
+        },
+        {
+          "href": "/resources",
+          "url": "https://zedu.chat/resources",
+          "text": "Resources",
+          "aria": null,
+          "path": "/resources"
+        },
+        {
+          "href": "/pricing",
+          "url": "https://zedu.chat/pricing",
+          "text": "Pricing",
+          "aria": null,
+          "path": "/pricing"
+        },
+        {
+          "href": "/about",
+          "url": "https://zedu.chat/about",
+          "text": "About Us",
+          "aria": null,
+          "path": "/about"
+        },
+        {
+          "href": "/download",
+          "url": "https://zedu.chat/download",
+          "text": "Download",
+          "aria": null,
+          "path": "/download"
+        },
+        {
+          "href": "/auth/login",
+          "url": "https://zedu.chat/auth/login",
+          "text": "Log in",
+          "aria": null,
+          "path": "/auth/login"
+        },
+        {
+          "href": "/contact-sales",
+          "url": "https://zedu.chat/contact-sales",
+          "text": "Contact Sales",
+          "aria": null,
+          "path": "/contact-sales"
+        },
+        {
+          "href": "/auth/sign-up",
+          "url": "https://zedu.chat/auth/sign-up",
+          "text": "Get Started",
+          "aria": null,
+          "path": "/auth/sign-up"
+        },
+        {
+          "href": "/auth/login",
+          "url": "https://zedu.chat/auth/login",
+          "text": "Explore the product",
+          "aria": null,
+          "path": "/auth/login"
+        },
+        {
+          "href": "/pricing",
+          "url": "https://zedu.chat/pricing",
+          "text": "View Pricing",
+          "aria": null,
+          "path": "/pricing"
+        },
+        {
+          "href": "/contact-sales",
+          "url": "https://zedu.chat/contact-sales",
+          "text": "Contact Sales",
+          "aria": null,
+          "path": "/contact-sales"
+        },
+        {
+          "href": "/auth/sign-up",
+          "url": "https://zedu.chat/auth/sign-up",
+          "text": "Get Started",
+          "aria": null,
+          "path": "/auth/sign-up"
+        },
+        {
+          "href": "/auth/sign-up",
+          "url": "https://zedu.chat/auth/sign-up",
+          "text": "Get started for free",
+          "aria": null,
+          "path": "/auth/sign-up"
+        },
+        {
+          "href": "/contact-sales",
+          "url": "https://zedu.chat/contact-sales",
+          "text": "Contact Sales",
+          "aria": null,
+          "path": "/contact-sales"
+        },
+        {
+          "href": "/",
+          "url": "https://zedu.chat/",
+          "text": "",
+          "aria": null,
+          "path": "/"
+        },
+        {
+          "href": "/products/buzz",
+          "url": "https://zedu.chat/products/buzz",
+          "text": "Buzz",
+          "aria": null,
+          "path": "/products/buzz"
+        },
+        {
+          "href": "/products/channels",
+          "url": "https://zedu.chat/products/channels",
+          "text": "Channels",
+          "aria": null,
+          "path": "/products/channels"
+        },
+        {
+          "href": "/products/file-management",
+          "url": "https://zedu.chat/products/file-management",
+          "text": "File Management",
+          "aria": null,
+          "path": "/products/file-management"
+        },
+        {
+          "href": "/solutions/bootcamps",
+          "url": "https://zedu.chat/solutions/bootcamps",
+          "text": "Bootcamps",
+          "aria": null,
+          "path": "/solutions/bootcamps"
+        },
+        {
+          "href": "/solutions/schools",
+          "url": "https://zedu.chat/solutions/schools",
+          "text": "Schools",
+          "aria": null,
+          "path": "/solutions/schools"
+        },
+        {
+          "href": "/solutions/universities",
+          "url": "https://zedu.chat/solutions/universities",
+          "text": "Universities",
+          "aria": null,
+          "path": "/solutions/universities"
+        },
+        {
+          "href": "/pricing",
+          "url": "https://zedu.chat/pricing",
+          "text": "Pricing",
+          "aria": null,
+          "path": "/pricing"
+        },
+        {
+          "href": "/contact-sales",
+          "url": "https://zedu.chat/contact-sales",
+          "text": "Contact Us",
+          "aria": null,
+          "path": "/contact-sales"
+        },
+        {
+          "href": "/resources",
+          "url": "https://zedu.chat/resources",
+          "text": "Blogs",
+          "aria": null,
+          "path": "/resources"
+        },
+        {
+          "href": "/policy",
+          "url": "https://zedu.chat/policy",
+          "text": "Privacy Policy",
+          "aria": null,
+          "path": "/policy"
+        },
+        {
+          "href": "/terms-of-service",
+          "url": "https://zedu.chat/terms-of-service",
+          "text": "Terms of Service",
+          "aria": null,
+          "path": "/terms-of-service"
+        },
+        {
+          "href": "/cdn-cgi/l/email-protection#e3808c8d97828097a399868796cd808b8297",
+          "url": "https://zedu.chat/cdn-cgi/l/email-protection#e3808c8d97828097a399868796cd808b8297",
+          "text": "[email protected]",
+          "aria": null,
+          "path": "/cdn-cgi/l/email-protection"
+        }
+      ],
+      "external_links": [
+        {
+          "href": "https://apps.apple.com/ng/app/zedu-app/id6759181591",
+          "url": "https://apps.apple.com/ng/app/zedu-app/id6759181591",
+          "text": "App store4.9",
+          "aria": null
+        },
+        {
+          "href": "https://play.google.com/store/apps/details?id=net.emerj.zedu&pcampaignid=web_share",
+          "url": "https://play.google.com/store/apps/details?id=net.emerj.zedu&pcampaignid=web_share",
+          "text": "Play store4.7",
+          "aria": null
+        },
+        {
+          "href": "https://www.instagram.com/telex.im",
+          "url": "https://www.instagram.com/telex.im",
+          "text": "",
+          "aria": null
+        },
+        {
+          "href": "https://www.tiktok.com/@telexim",
+          "url": "https://www.tiktok.com/@telexim",
+          "text": "",
+          "aria": null
+        },
+        {
+          "href": "https://www.facebook.com/profile.php?id=61578751079130",
+          "url": "https://www.facebook.com/profile.php?id=61578751079130",
+          "text": "",
+          "aria": null
+        },
+        {
+          "href": "https://x.com/teleximapp",
+          "url": "https://x.com/teleximapp",
+          "text": "",
+          "aria": null
+        }
+      ]
+    },
+    {
+      "url": "https://zedu.chat/products/channels",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "final_url": "https://zedu.chat/products/channels",
+      "bytes": 88883,
+      "error": null,
+      "title": "Channels | Zedu",
+      "meta_description": "Explore Zedu Channels for structured classroom and cohort communication. Organize discussions by subject, share updates clearly, and scale collaboration across learning teams.",
+      "description_length": 175,
+      "meta_robots": "index, follow",
+      "canonicals": [
+        "https://zedu.chat/products/channels"
+      ],
+      "h1": [
+        "Organise Learning with Structured Channels.",
+        "Organized Communication for Learning",
+        "Channels that Scale with Your Institution",
+        "More That Just Channels",
+        "Got a Question? We Have an Answer",
+        "Organize Your Learning Community with Channels"
+      ],
+      "h2": [
+        "Keep conversations in the right place",
+        "Follow discussions without noise",
+        "Share important updates clearly",
+        "Channels built for education",
+        "Products",
+        "Solutions",
+        "Zedu",
+        "Resources"
+      ],
+      "internal_links": [
+        {
+          "href": "/",
+          "url": "https://zedu.chat/",
+          "text": "",
+          "aria": null,
+          "path": "/"
+        },
+        {
+          "href": "/resources",
+          "url": "https://zedu.chat/resources",
+          "text": "Resources",
+          "aria": null,
+          "path": "/resources"
+        },
+        {
+          "href": "/pricing",
+          "url": "https://zedu.chat/pricing",
+          "text": "Pricing",
+          "aria": null,
+          "path": "/pricing"
+        },
+        {
+          "href": "/about",
+          "url": "https://zedu.chat/about",
+          "text": "About Us",
+          "aria": null,
+          "path": "/about"
+        },
+        {
+          "href": "/download",
+          "url": "https://zedu.chat/download",
+          "text": "Download",
+          "aria": null,
+          "path": "/download"
+        },
+        {
+          "href": "/auth/login",
+          "url": "https://zedu.chat/auth/login",
+          "text": "Log in",
+          "aria": null,
+          "path": "/auth/login"
+        },
+        {
+          "href": "/contact-sales",
+          "url": "https://zedu.chat/contact-sales",
+          "text": "Contact Sales",
+          "aria": null,
+          "path": "/contact-sales"
+        },
+        {
+          "href": "/auth/sign-up",
+          "url": "https://zedu.chat/auth/sign-up",
+          "text": "Get Started",
+          "aria": null,
+          "path": "/auth/sign-up"
+        },
+        {
+          "href": "/auth/sign-up",
+          "url": "https://zedu.chat/auth/sign-up",
+          "text": "Start using channels",
+          "aria": null,
+          "path": "/auth/sign-up"
+        },
+        {
+          "href": "/auth/sign-up",
+          "url": "https://zedu.chat/auth/sign-up",
+          "text": "Get Started",
+          "aria": null,
+          "path": "/auth/sign-up"
+        },
+        {
+          "href": "/auth/sign-up",
+          "url": "https://zedu.chat/auth/sign-up",
+          "text": "Start Now",
+          "aria": null,
+          "path": "/auth/sign-up"
+        },
+        {
+          "href": "/auth/sign-up",
+          "url": "https://zedu.chat/auth/sign-up",
+          "text": "Get started for free",
+          "aria": null,
+          "path": "/auth/sign-up"
+        },
+        {
+          "href": "/contact-sales",
+          "url": "https://zedu.chat/contact-sales",
+          "text": "Contact Sales",
+          "aria": null,
+          "path": "/contact-sales"
+        },
+        {
+          "href": "/",
+          "url": "https://zedu.chat/",
+          "text": "",
+          "aria": null,
+          "path": "/"
+        },
+        {
+          "href": "/products/buzz",
+          "url": "https://zedu.chat/products/buzz",
+          "text": "Buzz",
+          "aria": null,
+          "path": "/products/buzz"
+        },
+        {
+          "href": "/products/channels",
+          "url": "https://zedu.chat/products/channels",
+          "text": "Channels",
+          "aria": null,
+          "path": "/products/channels"
+        },
+        {
+          "href": "/products/file-management",
+          "url": "https://zedu.chat/products/file-management",
+          "text": "File Management",
+          "aria": null,
+          "path": "/products/file-management"
+        },
+        {
+          "href": "/solutions/bootcamps",
+          "url": "https://zedu.chat/solutions/bootcamps",
+          "text": "Bootcamps",
+          "aria": null,
+          "path": "/solutions/bootcamps"
+        },
+        {
+          "href": "/solutions/schools",
+          "url": "https://zedu.chat/solutions/schools",
+          "text": "Schools",
+          "aria": null,
+          "path": "/solutions/schools"
+        },
+        {
+          "href": "/solutions/universities",
+          "url": "https://zedu.chat/solutions/universities",
+          "text": "Universities",
+          "aria": null,
+          "path": "/solutions/universities"
+        },
+        {
+          "href": "/pricing",
+          "url": "https://zedu.chat/pricing",
+          "text": "Pricing",
+          "aria": null,
+          "path": "/pricing"
+        },
+        {
+          "href": "/contact-sales",
+          "url": "https://zedu.chat/contact-sales",
+          "text": "Contact Us",
+          "aria": null,
+          "path": "/contact-sales"
+        },
+        {
+          "href": "/resources",
+          "url": "https://zedu.chat/resources",
+          "text": "Blogs",
+          "aria": null,
+          "path": "/resources"
+        },
+        {
+          "href": "/policy",
+          "url": "https://zedu.chat/policy",
+          "text": "Privacy Policy",
+          "aria": null,
+          "path": "/policy"
+        },
+        {
+          "href": "/terms-of-service",
+          "url": "https://zedu.chat/terms-of-service",
+          "text": "Terms of Service",
+          "aria": null,
+          "path": "/terms-of-service"
+        },
+        {
+          "href": "/cdn-cgi/l/email-protection#44272b2a30252730043e2120316a272c2530",
+          "url": "https://zedu.chat/cdn-cgi/l/email-protection#44272b2a30252730043e2120316a272c2530",
+          "text": "[email protected]",
+          "aria": null,
+          "path": "/cdn-cgi/l/email-protection"
+        }
+      ],
+      "external_links": [
+        {
+          "href": "https://apps.apple.com/ng/app/zedu-app/id6759181591",
+          "url": "https://apps.apple.com/ng/app/zedu-app/id6759181591",
+          "text": "App store4.9",
+          "aria": null
+        },
+        {
+          "href": "https://play.google.com/store/apps/details?id=net.emerj.zedu&pcampaignid=web_share",
+          "url": "https://play.google.com/store/apps/details?id=net.emerj.zedu&pcampaignid=web_share",
+          "text": "Play store4.7",
+          "aria": null
+        },
+        {
+          "href": "https://www.instagram.com/telex.im",
+          "url": "https://www.instagram.com/telex.im",
+          "text": "",
+          "aria": null
+        },
+        {
+          "href": "https://www.tiktok.com/@telexim",
+          "url": "https://www.tiktok.com/@telexim",
+          "text": "",
+          "aria": null
+        },
+        {
+          "href": "https://www.facebook.com/profile.php?id=61578751079130",
+          "url": "https://www.facebook.com/profile.php?id=61578751079130",
+          "text": "",
+          "aria": null
+        },
+        {
+          "href": "https://x.com/teleximapp",
+          "url": "https://x.com/teleximapp",
+          "text": "",
+          "aria": null
+        }
+      ]
+    },
+    {
+      "url": "https://zedu.chat/products/buzz",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "final_url": "https://zedu.chat/products/buzz",
+      "bytes": 78837,
+      "error": null,
+      "title": "Buzz | Zedu",
+      "meta_description": "Use Zedu Buzz to start instant voice conversations inside learning channels. Collaborate in real time, clarify lessons faster, and review AI-generated session summaries.",
+      "description_length": 169,
+      "meta_robots": "index, follow",
+      "canonicals": [
+        "https://zedu.chat/products/buzz"
+      ],
+      "h1": [
+        "Start a Buzz Talk Instantly with Your Team .",
+        "Got a Question? We Have an Answer",
+        "Start a Buzz with Your Class Today"
+      ],
+      "h2": [
+        "Talk in Real Time Inside Learning Channels",
+        "Focus on Learning, Not Scheduling",
+        "Let AI Capture the Conversation",
+        "Clear Communication for Every Learner",
+        "Products",
+        "Solutions",
+        "Zedu",
+        "Resources"
+      ],
+      "internal_links": [
+        {
+          "href": "/",
+          "url": "https://zedu.chat/",
+          "text": "",
+          "aria": null,
+          "path": "/"
+        },
+        {
+          "href": "/resources",
+          "url": "https://zedu.chat/resources",
+          "text": "Resources",
+          "aria": null,
+          "path": "/resources"
+        },
+        {
+          "href": "/pricing",
+          "url": "https://zedu.chat/pricing",
+          "text": "Pricing",
+          "aria": null,
+          "path": "/pricing"
+        },
+        {
+          "href": "/about",
+          "url": "https://zedu.chat/about",
+          "text": "About Us",
+          "aria": null,
+          "path": "/about"
+        },
+        {
+          "href": "/download",
+          "url": "https://zedu.chat/download",
+          "text": "Download",
+          "aria": null,
+          "path": "/download"
+        },
+        {
+          "href": "/auth/login",
+          "url": "https://zedu.chat/auth/login",
+          "text": "Log in",
+          "aria": null,
+          "path": "/auth/login"
+        },
+        {
+          "href": "/contact-sales",
+          "url": "https://zedu.chat/contact-sales",
+          "text": "Contact Sales",
+          "aria": null,
+          "path": "/contact-sales"
+        },
+        {
+          "href": "/auth/sign-up",
+          "url": "https://zedu.chat/auth/sign-up",
+          "text": "Get Started",
+          "aria": null,
+          "path": "/auth/sign-up"
+        },
+        {
+          "href": "/auth/sign-up",
+          "url": "https://zedu.chat/auth/sign-up",
+          "text": "Start a buzz",
+          "aria": null,
+          "path": "/auth/sign-up"
+        },
+        {
+          "href": "/auth/sign-up",
+          "url": "https://zedu.chat/auth/sign-up",
+          "text": "Start a Buzz",
+          "aria": null,
+          "path": "/auth/sign-up"
+        },
+        {
+          "href": "/auth/sign-up",
+          "url": "https://zedu.chat/auth/sign-up",
+          "text": "Start a Buzz",
+          "aria": null,
+          "path": "/auth/sign-up"
+        },
+        {
+          "href": "/auth/sign-up",
+          "url": "https://zedu.chat/auth/sign-up",
+          "text": "Start a Buzz",
+          "aria": null,
+          "path": "/auth/sign-up"
+        },
+        {
+          "href": "/auth/sign-up",
+          "url": "https://zedu.chat/auth/sign-up",
+          "text": "Start a Buzz",
+          "aria": null,
+          "path": "/auth/sign-up"
+        },
+        {
+          "href": "/auth/sign-up",
+          "url": "https://zedu.chat/auth/sign-up",
+          "text": "Get started for free",
+          "aria": null,
+          "path": "/auth/sign-up"
+        },
+        {
+          "href": "/contact-sales",
+          "url": "https://zedu.chat/contact-sales",
+          "text": "Contact Sales",
+          "aria": null,
+          "path": "/contact-sales"
+        },
+        {
+          "href": "/",
+          "url": "https://zedu.chat/",
+          "text": "",
+          "aria": null,
+          "path": "/"
+        },
+        {
+          "href": "/products/buzz",
+          "url": "https://zedu.chat/products/buzz",
+          "text": "Buzz",
+          "aria": null,
+          "path": "/products/buzz"
+        },
+        {
+          "href": "/products/channels",
+          "url": "https://zedu.chat/products/channels",
+          "text": "Channels",
+          "aria": null,
+          "path": "/products/channels"
+        },
+        {
+          "href": "/products/file-management",
+          "url": "https://zedu.chat/products/file-management",
+          "text": "File Management",
+          "aria": null,
+          "path": "/products/file-management"
+        },
+        {
+          "href": "/solutions/bootcamps",
+          "url": "https://zedu.chat/solutions/bootcamps",
+          "text": "Bootcamps",
+          "aria": null,
+          "path": "/solutions/bootcamps"
+        },
+        {
+          "href": "/solutions/schools",
+          "url": "https://zedu.chat/solutions/schools",
+          "text": "Schools",
+          "aria": null,
+          "path": "/solutions/schools"
+        },
+        {
+          "href": "/solutions/universities",
+          "url": "https://zedu.chat/solutions/universities",
+          "text": "Universities",
+          "aria": null,
+          "path": "/solutions/universities"
+        },
+        {
+          "href": "/pricing",
+          "url": "https://zedu.chat/pricing",
+          "text": "Pricing",
+          "aria": null,
+          "path": "/pricing"
+        },
+        {
+          "href": "/contact-sales",
+          "url": "https://zedu.chat/contact-sales",
+          "text": "Contact Us",
+          "aria": null,
+          "path": "/contact-sales"
+        },
+        {
+          "href": "/resources",
+          "url": "https://zedu.chat/resources",
+          "text": "Blogs",
+          "aria": null,
+          "path": "/resources"
+        },
+        {
+          "href": "/policy",
+          "url": "https://zedu.chat/policy",
+          "text": "Privacy Policy",
+          "aria": null,
+          "path": "/policy"
+        },
+        {
+          "href": "/terms-of-service",
+          "url": "https://zedu.chat/terms-of-service",
+          "text": "Terms of Service",
+          "aria": null,
+          "path": "/terms-of-service"
+        },
+        {
+          "href": "/cdn-cgi/l/email-protection#d7b4b8b9a3b6b4a397adb2b3a2f9b4bfb6a3",
+          "url": "https://zedu.chat/cdn-cgi/l/email-protection#d7b4b8b9a3b6b4a397adb2b3a2f9b4bfb6a3",
+          "text": "[email protected]",
+          "aria": null,
+          "path": "/cdn-cgi/l/email-protection"
+        }
+      ],
+      "external_links": [
+        {
+          "href": "https://apps.apple.com/ng/app/zedu-app/id6759181591",
+          "url": "https://apps.apple.com/ng/app/zedu-app/id6759181591",
+          "text": "App store4.9",
+          "aria": null
+        },
+        {
+          "href": "https://play.google.com/store/apps/details?id=net.emerj.zedu&pcampaignid=web_share",
+          "url": "https://play.google.com/store/apps/details?id=net.emerj.zedu&pcampaignid=web_share",
+          "text": "Play store4.7",
+          "aria": null
+        },
+        {
+          "href": "https://www.instagram.com/telex.im",
+          "url": "https://www.instagram.com/telex.im",
+          "text": "",
+          "aria": null
+        },
+        {
+          "href": "https://www.tiktok.com/@telexim",
+          "url": "https://www.tiktok.com/@telexim",
+          "text": "",
+          "aria": null
+        },
+        {
+          "href": "https://www.facebook.com/profile.php?id=61578751079130",
+          "url": "https://www.facebook.com/profile.php?id=61578751079130",
+          "text": "",
+          "aria": null
+        },
+        {
+          "href": "https://x.com/teleximapp",
+          "url": "https://x.com/teleximapp",
+          "text": "",
+          "aria": null
+        }
+      ]
+    },
+    {
+      "url": "https://zedu.chat/products/file-management",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "final_url": "https://zedu.chat/products/file-management",
+      "bytes": 82683,
+      "error": null,
+      "title": "File Management | Zedu",
+      "meta_description": "Manage course files in one structured workspace with Zedu File Management. Organize resources, share securely, and collaborate across classes, cohorts, and departments.",
+      "description_length": 168,
+      "meta_robots": "index, follow",
+      "canonicals": [
+        "https://zedu.chat/products/file-management"
+      ],
+      "h1": [
+        "Organize Learning Materials In One Place",
+        "Organize and Collaborate on Learning Files",
+        "Smart, Secure, and Scalable File Management",
+        "Connected to the Rest of Zedu",
+        "Got a Question? We Have an Answer",
+        "Manage Learning Materials Without the Chaos"
+      ],
+      "h2": [
+        "Store Course Materials in Organized Spaces",
+        "Collaborate on Files with Your Class",
+        "Products",
+        "Solutions",
+        "Zedu",
+        "Resources"
+      ],
+      "internal_links": [
+        {
+          "href": "/",
+          "url": "https://zedu.chat/",
+          "text": "",
+          "aria": null,
+          "path": "/"
+        },
+        {
+          "href": "/resources",
+          "url": "https://zedu.chat/resources",
+          "text": "Resources",
+          "aria": null,
+          "path": "/resources"
+        },
+        {
+          "href": "/pricing",
+          "url": "https://zedu.chat/pricing",
+          "text": "Pricing",
+          "aria": null,
+          "path": "/pricing"
+        },
+        {
+          "href": "/about",
+          "url": "https://zedu.chat/about",
+          "text": "About Us",
+          "aria": null,
+          "path": "/about"
+        },
+        {
+          "href": "/download",
+          "url": "https://zedu.chat/download",
+          "text": "Download",
+          "aria": null,
+          "path": "/download"
+        },
+        {
+          "href": "/auth/login",
+          "url": "https://zedu.chat/auth/login",
+          "text": "Log in",
+          "aria": null,
+          "path": "/auth/login"
+        },
+        {
+          "href": "/contact-sales",
+          "url": "https://zedu.chat/contact-sales",
+          "text": "Contact Sales",
+          "aria": null,
+          "path": "/contact-sales"
+        },
+        {
+          "href": "/auth/sign-up",
+          "url": "https://zedu.chat/auth/sign-up",
+          "text": "Get Started",
+          "aria": null,
+          "path": "/auth/sign-up"
+        },
+        {
+          "href": "/auth/sign-up",
+          "url": "https://zedu.chat/auth/sign-up",
+          "text": "Start Organising Files",
+          "aria": null,
+          "path": "/auth/sign-up"
+        },
+        {
+          "href": "/auth/sign-up",
+          "url": "https://zedu.chat/auth/sign-up",
+          "text": "Get Started",
+          "aria": null,
+          "path": "/auth/sign-up"
+        },
+        {
+          "href": "/auth/sign-up",
+          "url": "https://zedu.chat/auth/sign-up",
+          "text": "Get Started",
+          "aria": null,
+          "path": "/auth/sign-up"
+        },
+        {
+          "href": "/auth/sign-up",
+          "url": "https://zedu.chat/auth/sign-up",
+          "text": "Get Started",
+          "aria": null,
+          "path": "/auth/sign-up"
+        },
+        {
+          "href": "/auth/sign-up",
+          "url": "https://zedu.chat/auth/sign-up",
+          "text": "Get started for free",
+          "aria": null,
+          "path": "/auth/sign-up"
+        },
+        {
+          "href": "/contact-sales",
+          "url": "https://zedu.chat/contact-sales",
+          "text": "Contact Sales",
+          "aria": null,
+          "path": "/contact-sales"
+        },
+        {
+          "href": "/",
+          "url": "https://zedu.chat/",
+          "text": "",
+          "aria": null,
+          "path": "/"
+        },
+        {
+          "href": "/products/buzz",
+          "url": "https://zedu.chat/products/buzz",
+          "text": "Buzz",
+          "aria": null,
+          "path": "/products/buzz"
+        },
+        {
+          "href": "/products/channels",
+          "url": "https://zedu.chat/products/channels",
+          "text": "Channels",
+          "aria": null,
+          "path": "/products/channels"
+        },
+        {
+          "href": "/products/file-management",
+          "url": "https://zedu.chat/products/file-management",
+          "text": "File Management",
+          "aria": null,
+          "path": "/products/file-management"
+        },
+        {
+          "href": "/solutions/bootcamps",
+          "url": "https://zedu.chat/solutions/bootcamps",
+          "text": "Bootcamps",
+          "aria": null,
+          "path": "/solutions/bootcamps"
+        },
+        {
+          "href": "/solutions/schools",
+          "url": "https://zedu.chat/solutions/schools",
+          "text": "Schools",
+          "aria": null,
+          "path": "/solutions/schools"
+        },
+        {
+          "href": "/solutions/universities",
+          "url": "https://zedu.chat/solutions/universities",
+          "text": "Universities",
+          "aria": null,
+          "path": "/solutions/universities"
+        },
+        {
+          "href": "/pricing",
+          "url": "https://zedu.chat/pricing",
+          "text": "Pricing",
+          "aria": null,
+          "path": "/pricing"
+        },
+        {
+          "href": "/contact-sales",
+          "url": "https://zedu.chat/contact-sales",
+          "text": "Contact Us",
+          "aria": null,
+          "path": "/contact-sales"
+        },
+        {
+          "href": "/resources",
+          "url": "https://zedu.chat/resources",
+          "text": "Blogs",
+          "aria": null,
+          "path": "/resources"
+        },
+        {
+          "href": "/policy",
+          "url": "https://zedu.chat/policy",
+          "text": "Privacy Policy",
+          "aria": null,
+          "path": "/policy"
+        },
+        {
+          "href": "/terms-of-service",
+          "url": "https://zedu.chat/terms-of-service",
+          "text": "Terms of Service",
+          "aria": null,
+          "path": "/terms-of-service"
+        },
+        {
+          "href": "/cdn-cgi/l/email-protection#dfbcb0b1abbebcab9fa5babbaaf1bcb7beab",
+          "url": "https://zedu.chat/cdn-cgi/l/email-protection#dfbcb0b1abbebcab9fa5babbaaf1bcb7beab",
+          "text": "[email protected]",
+          "aria": null,
+          "path": "/cdn-cgi/l/email-protection"
+        }
+      ],
+      "external_links": [
+        {
+          "href": "https://apps.apple.com/ng/app/zedu-app/id6759181591",
+          "url": "https://apps.apple.com/ng/app/zedu-app/id6759181591",
+          "text": "App store4.9",
+          "aria": null
+        },
+        {
+          "href": "https://play.google.com/store/apps/details?id=net.emerj.zedu&pcampaignid=web_share",
+          "url": "https://play.google.com/store/apps/details?id=net.emerj.zedu&pcampaignid=web_share",
+          "text": "Play store4.7",
+          "aria": null
+        },
+        {
+          "href": "https://www.instagram.com/telex.im",
+          "url": "https://www.instagram.com/telex.im",
+          "text": "",
+          "aria": null
+        },
+        {
+          "href": "https://www.tiktok.com/@telexim",
+          "url": "https://www.tiktok.com/@telexim",
+          "text": "",
+          "aria": null
+        },
+        {
+          "href": "https://www.facebook.com/profile.php?id=61578751079130",
+          "url": "https://www.facebook.com/profile.php?id=61578751079130",
+          "text": "",
+          "aria": null
+        },
+        {
+          "href": "https://x.com/teleximapp",
+          "url": "https://x.com/teleximapp",
+          "text": "",
+          "aria": null
+        }
+      ]
+    },
+    {
+      "url": "https://zedu.chat/solutions/bootcamps",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "final_url": "https://zedu.chat/solutions/bootcamps",
+      "bytes": 98839,
+      "error": null,
+      "title": "Bootcamps Solutions | Zedu",
+      "meta_description": "Streamline bootcamp management with Zedu. Give instructors, mentors, and students one cohort management platform for structured learning, collaboration, and community building.",
+      "description_length": 176,
+      "meta_robots": "index, follow",
+      "canonicals": [
+        "https://zedu.chat/solutions/bootcamps"
+      ],
+      "h1": [
+        "Run faster cohorts Build Stronger Communities",
+        "Why Bootcamps Choose Zedu",
+        "Run Structured and Collaborative Bootcamps",
+        "How Zedu Transforms Bootcamps",
+        "Run Leaner. Move Faster. Launch Better Cohorts.",
+        "Power Your Next Bootcamp Cohort"
+      ],
+      "h2": [
+        "Cohort-Based Learning",
+        "Real-Time Collaboration",
+        "Structured Community",
+        "50%",
+        "2x",
+        "40%",
+        "Build a Thriving Learning Community",
+        "Products",
+        "Solutions",
+        "Zedu",
+        "Resources"
+      ],
+      "internal_links": [
+        {
+          "href": "/",
+          "url": "https://zedu.chat/",
+          "text": "",
+          "aria": null,
+          "path": "/"
+        },
+        {
+          "href": "/resources",
+          "url": "https://zedu.chat/resources",
+          "text": "Resources",
+          "aria": null,
+          "path": "/resources"
+        },
+        {
+          "href": "/pricing",
+          "url": "https://zedu.chat/pricing",
+          "text": "Pricing",
+          "aria": null,
+          "path": "/pricing"
+        },
+        {
+          "href": "/about",
+          "url": "https://zedu.chat/about",
+          "text": "About Us",
+          "aria": null,
+          "path": "/about"
+        },
+        {
+          "href": "/download",
+          "url": "https://zedu.chat/download",
+          "text": "Download",
+          "aria": null,
+          "path": "/download"
+        },
+        {
+          "href": "/auth/login",
+          "url": "https://zedu.chat/auth/login",
+          "text": "Log in",
+          "aria": null,
+          "path": "/auth/login"
+        },
+        {
+          "href": "/contact-sales",
+          "url": "https://zedu.chat/contact-sales",
+          "text": "Contact Sales",
+          "aria": null,
+          "path": "/contact-sales"
+        },
+        {
+          "href": "/auth/sign-up",
+          "url": "https://zedu.chat/auth/sign-up",
+          "text": "Get Started",
+          "aria": null,
+          "path": "/auth/sign-up"
+        },
+        {
+          "href": "/contact-sales",
+          "url": "https://zedu.chat/contact-sales",
+          "text": "Book a Demo",
+          "aria": null,
+          "path": "/contact-sales"
+        },
+        {
+          "href": "/auth/sign-up",
+          "url": "https://zedu.chat/auth/sign-up",
+          "text": "Start for Free",
+          "aria": null,
+          "path": "/auth/sign-up"
+        },
+        {
+          "href": "/auth/sign-up",
+          "url": "https://zedu.chat/auth/sign-up",
+          "text": "Get Started",
+          "aria": null,
+          "path": "/auth/sign-up"
+        },
+        {
+          "href": "/contact-sales",
+          "url": "https://zedu.chat/contact-sales",
+          "text": "Book a Demo",
+          "aria": null,
+          "path": "/contact-sales"
+        },
+        {
+          "href": "/auth/sign-up",
+          "url": "https://zedu.chat/auth/sign-up",
+          "text": "Get started for free",
+          "aria": null,
+          "path": "/auth/sign-up"
+        },
+        {
+          "href": "/contact-sales",
+          "url": "https://zedu.chat/contact-sales",
+          "text": "Contact Sales",
+          "aria": null,
+          "path": "/contact-sales"
+        },
+        {
+          "href": "/",
+          "url": "https://zedu.chat/",
+          "text": "",
+          "aria": null,
+          "path": "/"
+        },
+        {
+          "href": "/products/buzz",
+          "url": "https://zedu.chat/products/buzz",
+          "text": "Buzz",
+          "aria": null,
+          "path": "/products/buzz"
+        },
+        {
+          "href": "/products/channels",
+          "url": "https://zedu.chat/products/channels",
+          "text": "Channels",
+          "aria": null,
+          "path": "/products/channels"
+        },
+        {
+          "href": "/products/file-management",
+          "url": "https://zedu.chat/products/file-management",
+          "text": "File Management",
+          "aria": null,
+          "path": "/products/file-management"
+        },
+        {
+          "href": "/solutions/bootcamps",
+          "url": "https://zedu.chat/solutions/bootcamps",
+          "text": "Bootcamps",
+          "aria": null,
+          "path": "/solutions/bootcamps"
+        },
+        {
+          "href": "/solutions/schools",
+          "url": "https://zedu.chat/solutions/schools",
+          "text": "Schools",
+          "aria": null,
+          "path": "/solutions/schools"
+        },
+        {
+          "href": "/solutions/universities",
+          "url": "https://zedu.chat/solutions/universities",
+          "text": "Universities",
+          "aria": null,
+          "path": "/solutions/universities"
+        },
+        {
+          "href": "/pricing",
+          "url": "https://zedu.chat/pricing",
+          "text": "Pricing",
+          "aria": null,
+          "path": "/pricing"
+        },
+        {
+          "href": "/contact-sales",
+          "url": "https://zedu.chat/contact-sales",
+          "text": "Contact Us",
+          "aria": null,
+          "path": "/contact-sales"
+        },
+        {
+          "href": "/resources",
+          "url": "https://zedu.chat/resources",
+          "text": "Blogs",
+          "aria": null,
+          "path": "/resources"
+        },
+        {
+          "href": "/policy",
+          "url": "https://zedu.chat/policy",
+          "text": "Privacy Policy",
+          "aria": null,
+          "path": "/policy"
+        },
+        {
+          "href": "/terms-of-service",
+          "url": "https://zedu.chat/terms-of-service",
+          "text": "Terms of Service",
+          "aria": null,
+          "path": "/terms-of-service"
+        },
+        {
+          "href": "/cdn-cgi/l/email-protection#c7a4a8a9b3a6a4b387bda2a3b2e9a4afa6b3",
+          "url": "https://zedu.chat/cdn-cgi/l/email-protection#c7a4a8a9b3a6a4b387bda2a3b2e9a4afa6b3",
+          "text": "[email protected]",
+          "aria": null,
+          "path": "/cdn-cgi/l/email-protection"
+        }
+      ],
+      "external_links": [
+        {
+          "href": "https://apps.apple.com/ng/app/zedu-app/id6759181591",
+          "url": "https://apps.apple.com/ng/app/zedu-app/id6759181591",
+          "text": "App store4.9",
+          "aria": null
+        },
+        {
+          "href": "https://play.google.com/store/apps/details?id=net.emerj.zedu&pcampaignid=web_share",
+          "url": "https://play.google.com/store/apps/details?id=net.emerj.zedu&pcampaignid=web_share",
+          "text": "Play store4.7",
+          "aria": null
+        },
+        {
+          "href": "https://www.instagram.com/telex.im",
+          "url": "https://www.instagram.com/telex.im",
+          "text": "",
+          "aria": null
+        },
+        {
+          "href": "https://www.tiktok.com/@telexim",
+          "url": "https://www.tiktok.com/@telexim",
+          "text": "",
+          "aria": null
+        },
+        {
+          "href": "https://www.facebook.com/profile.php?id=61578751079130",
+          "url": "https://www.facebook.com/profile.php?id=61578751079130",
+          "text": "",
+          "aria": null
+        },
+        {
+          "href": "https://x.com/teleximapp",
+          "url": "https://x.com/teleximapp",
+          "text": "",
+          "aria": null
+        }
+      ]
+    },
+    {
+      "url": "https://zedu.chat/solutions/schools",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "final_url": "https://zedu.chat/solutions/schools",
+      "bytes": 96529,
+      "error": null,
+      "title": "Schools Solutions | Zedu",
+      "meta_description": "Improve classroom communication with Zedu. Give teachers and students structured channels for lessons, assignments, discussions, and school-wide updates in one platform.",
+      "description_length": 169,
+      "meta_robots": "index, follow",
+      "canonicals": [
+        "https://zedu.chat/solutions/schools"
+      ],
+      "h1": [
+        "A Smarter Communication for Schools",
+        "Built for Modern School Communication",
+        "Better Communication for Every Classroom",
+        "How Zedu transforms Schools",
+        "Run Leaner. Move Faster. Teach Better.",
+        "Transform Communication in Your School"
+      ],
+      "h2": [
+        "Organised Classrooms",
+        "Engaged Students",
+        "Less Administrative Overhead",
+        "50%",
+        "2x",
+        "65%",
+        "Products",
+        "Solutions",
+        "Zedu",
+        "Resources"
+      ],
+      "internal_links": [
+        {
+          "href": "/",
+          "url": "https://zedu.chat/",
+          "text": "",
+          "aria": null,
+          "path": "/"
+        },
+        {
+          "href": "/resources",
+          "url": "https://zedu.chat/resources",
+          "text": "Resources",
+          "aria": null,
+          "path": "/resources"
+        },
+        {
+          "href": "/pricing",
+          "url": "https://zedu.chat/pricing",
+          "text": "Pricing",
+          "aria": null,
+          "path": "/pricing"
+        },
+        {
+          "href": "/about",
+          "url": "https://zedu.chat/about",
+          "text": "About Us",
+          "aria": null,
+          "path": "/about"
+        },
+        {
+          "href": "/download",
+          "url": "https://zedu.chat/download",
+          "text": "Download",
+          "aria": null,
+          "path": "/download"
+        },
+        {
+          "href": "/auth/login",
+          "url": "https://zedu.chat/auth/login",
+          "text": "Log in",
+          "aria": null,
+          "path": "/auth/login"
+        },
+        {
+          "href": "/contact-sales",
+          "url": "https://zedu.chat/contact-sales",
+          "text": "Contact Sales",
+          "aria": null,
+          "path": "/contact-sales"
+        },
+        {
+          "href": "/auth/sign-up",
+          "url": "https://zedu.chat/auth/sign-up",
+          "text": "Get Started",
+          "aria": null,
+          "path": "/auth/sign-up"
+        },
+        {
+          "href": "/contact-sales",
+          "url": "https://zedu.chat/contact-sales",
+          "text": "Book a Demo",
+          "aria": null,
+          "path": "/contact-sales"
+        },
+        {
+          "href": "/auth/sign-up",
+          "url": "https://zedu.chat/auth/sign-up",
+          "text": "Start for Free",
+          "aria": null,
+          "path": "/auth/sign-up"
+        },
+        {
+          "href": "/auth/sign-up",
+          "url": "https://zedu.chat/auth/sign-up",
+          "text": "Get Started",
+          "aria": null,
+          "path": "/auth/sign-up"
+        },
+        {
+          "href": "/contact-sales",
+          "url": "https://zedu.chat/contact-sales",
+          "text": "Book a Demo",
+          "aria": null,
+          "path": "/contact-sales"
+        },
+        {
+          "href": "/auth/sign-up",
+          "url": "https://zedu.chat/auth/sign-up",
+          "text": "Get started for free",
+          "aria": null,
+          "path": "/auth/sign-up"
+        },
+        {
+          "href": "/contact-sales",
+          "url": "https://zedu.chat/contact-sales",
+          "text": "Contact Sales",
+          "aria": null,
+          "path": "/contact-sales"
+        },
+        {
+          "href": "/",
+          "url": "https://zedu.chat/",
+          "text": "",
+          "aria": null,
+          "path": "/"
+        },
+        {
+          "href": "/products/buzz",
+          "url": "https://zedu.chat/products/buzz",
+          "text": "Buzz",
+          "aria": null,
+          "path": "/products/buzz"
+        },
+        {
+          "href": "/products/channels",
+          "url": "https://zedu.chat/products/channels",
+          "text": "Channels",
+          "aria": null,
+          "path": "/products/channels"
+        },
+        {
+          "href": "/products/file-management",
+          "url": "https://zedu.chat/products/file-management",
+          "text": "File Management",
+          "aria": null,
+          "path": "/products/file-management"
+        },
+        {
+          "href": "/solutions/bootcamps",
+          "url": "https://zedu.chat/solutions/bootcamps",
+          "text": "Bootcamps",
+          "aria": null,
+          "path": "/solutions/bootcamps"
+        },
+        {
+          "href": "/solutions/schools",
+          "url": "https://zedu.chat/solutions/schools",
+          "text": "Schools",
+          "aria": null,
+          "path": "/solutions/schools"
+        },
+        {
+          "href": "/solutions/universities",
+          "url": "https://zedu.chat/solutions/universities",
+          "text": "Universities",
+          "aria": null,
+          "path": "/solutions/universities"
+        },
+        {
+          "href": "/pricing",
+          "url": "https://zedu.chat/pricing",
+          "text": "Pricing",
+          "aria": null,
+          "path": "/pricing"
+        },
+        {
+          "href": "/contact-sales",
+          "url": "https://zedu.chat/contact-sales",
+          "text": "Contact Us",
+          "aria": null,
+          "path": "/contact-sales"
+        },
+        {
+          "href": "/resources",
+          "url": "https://zedu.chat/resources",
+          "text": "Blogs",
+          "aria": null,
+          "path": "/resources"
+        },
+        {
+          "href": "/policy",
+          "url": "https://zedu.chat/policy",
+          "text": "Privacy Policy",
+          "aria": null,
+          "path": "/policy"
+        },
+        {
+          "href": "/terms-of-service",
+          "url": "https://zedu.chat/terms-of-service",
+          "text": "Terms of Service",
+          "aria": null,
+          "path": "/terms-of-service"
+        },
+        {
+          "href": "/cdn-cgi/l/email-protection#9ffcf0f1ebfefcebdfe5fafbeab1fcf7feeb",
+          "url": "https://zedu.chat/cdn-cgi/l/email-protection#9ffcf0f1ebfefcebdfe5fafbeab1fcf7feeb",
+          "text": "[email protected]",
+          "aria": null,
+          "path": "/cdn-cgi/l/email-protection"
+        }
+      ],
+      "external_links": [
+        {
+          "href": "https://apps.apple.com/ng/app/zedu-app/id6759181591",
+          "url": "https://apps.apple.com/ng/app/zedu-app/id6759181591",
+          "text": "App store4.9",
+          "aria": null
+        },
+        {
+          "href": "https://play.google.com/store/apps/details?id=net.emerj.zedu&pcampaignid=web_share",
+          "url": "https://play.google.com/store/apps/details?id=net.emerj.zedu&pcampaignid=web_share",
+          "text": "Play store4.7",
+          "aria": null
+        },
+        {
+          "href": "https://www.instagram.com/telex.im",
+          "url": "https://www.instagram.com/telex.im",
+          "text": "",
+          "aria": null
+        },
+        {
+          "href": "https://www.tiktok.com/@telexim",
+          "url": "https://www.tiktok.com/@telexim",
+          "text": "",
+          "aria": null
+        },
+        {
+          "href": "https://www.facebook.com/profile.php?id=61578751079130",
+          "url": "https://www.facebook.com/profile.php?id=61578751079130",
+          "text": "",
+          "aria": null
+        },
+        {
+          "href": "https://x.com/teleximapp",
+          "url": "https://x.com/teleximapp",
+          "text": "",
+          "aria": null
+        }
+      ]
+    },
+    {
+      "url": "https://zedu.chat/solutions/universities",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "final_url": "https://zedu.chat/solutions/universities",
+      "bytes": 105731,
+      "error": null,
+      "title": "Universities Solutions | Zedu",
+      "meta_description": "Power higher education communication with Zedu. Connect departments, professors, and students with structured channels, searchable discussions, and AI-assisted learning workflows.",
+      "description_length": 179,
+      "meta_robots": "index, follow",
+      "canonicals": [
+        "https://zedu.chat/solutions/universities"
+      ],
+      "h1": [
+        "Modern Communication for Universities",
+        "Built for Higher Education Environments",
+        "Structured Communication Across the University",
+        "Institution Control and Security",
+        "How Zedu transforms Universities",
+        "Run Leaner. Move Faster. Teach Better.",
+        "Bring Structured Communication to Your University"
+      ],
+      "h2": [
+        "Large Cohorts",
+        "Organized Courses",
+        "AI Assisted Learning",
+        "40%",
+        "2x",
+        "60%",
+        "Products",
+        "Solutions",
+        "Zedu",
+        "Resources"
+      ],
+      "internal_links": [
+        {
+          "href": "/",
+          "url": "https://zedu.chat/",
+          "text": "",
+          "aria": null,
+          "path": "/"
+        },
+        {
+          "href": "/resources",
+          "url": "https://zedu.chat/resources",
+          "text": "Resources",
+          "aria": null,
+          "path": "/resources"
+        },
+        {
+          "href": "/pricing",
+          "url": "https://zedu.chat/pricing",
+          "text": "Pricing",
+          "aria": null,
+          "path": "/pricing"
+        },
+        {
+          "href": "/about",
+          "url": "https://zedu.chat/about",
+          "text": "About Us",
+          "aria": null,
+          "path": "/about"
+        },
+        {
+          "href": "/download",
+          "url": "https://zedu.chat/download",
+          "text": "Download",
+          "aria": null,
+          "path": "/download"
+        },
+        {
+          "href": "/auth/login",
+          "url": "https://zedu.chat/auth/login",
+          "text": "Log in",
+          "aria": null,
+          "path": "/auth/login"
+        },
+        {
+          "href": "/contact-sales",
+          "url": "https://zedu.chat/contact-sales",
+          "text": "Contact Sales",
+          "aria": null,
+          "path": "/contact-sales"
+        },
+        {
+          "href": "/auth/sign-up",
+          "url": "https://zedu.chat/auth/sign-up",
+          "text": "Get Started",
+          "aria": null,
+          "path": "/auth/sign-up"
+        },
+        {
+          "href": "/contact-sales",
+          "url": "https://zedu.chat/contact-sales",
+          "text": "Book a Demo",
+          "aria": null,
+          "path": "/contact-sales"
+        },
+        {
+          "href": "/auth/sign-up",
+          "url": "https://zedu.chat/auth/sign-up",
+          "text": "Start for Free",
+          "aria": null,
+          "path": "/auth/sign-up"
+        },
+        {
+          "href": "/auth/sign-up",
+          "url": "https://zedu.chat/auth/sign-up",
+          "text": "Get Started",
+          "aria": null,
+          "path": "/auth/sign-up"
+        },
+        {
+          "href": "/contact-sales",
+          "url": "https://zedu.chat/contact-sales",
+          "text": "Book a Demo",
+          "aria": null,
+          "path": "/contact-sales"
+        },
+        {
+          "href": "/auth/sign-up",
+          "url": "https://zedu.chat/auth/sign-up",
+          "text": "Get started for free",
+          "aria": null,
+          "path": "/auth/sign-up"
+        },
+        {
+          "href": "/contact-sales",
+          "url": "https://zedu.chat/contact-sales",
+          "text": "Contact Sales",
+          "aria": null,
+          "path": "/contact-sales"
+        },
+        {
+          "href": "/",
+          "url": "https://zedu.chat/",
+          "text": "",
+          "aria": null,
+          "path": "/"
+        },
+        {
+          "href": "/products/buzz",
+          "url": "https://zedu.chat/products/buzz",
+          "text": "Buzz",
+          "aria": null,
+          "path": "/products/buzz"
+        },
+        {
+          "href": "/products/channels",
+          "url": "https://zedu.chat/products/channels",
+          "text": "Channels",
+          "aria": null,
+          "path": "/products/channels"
+        },
+        {
+          "href": "/products/file-management",
+          "url": "https://zedu.chat/products/file-management",
+          "text": "File Management",
+          "aria": null,
+          "path": "/products/file-management"
+        },
+        {
+          "href": "/solutions/bootcamps",
+          "url": "https://zedu.chat/solutions/bootcamps",
+          "text": "Bootcamps",
+          "aria": null,
+          "path": "/solutions/bootcamps"
+        },
+        {
+          "href": "/solutions/schools",
+          "url": "https://zedu.chat/solutions/schools",
+          "text": "Schools",
+          "aria": null,
+          "path": "/solutions/schools"
+        },
+        {
+          "href": "/solutions/universities",
+          "url": "https://zedu.chat/solutions/universities",
+          "text": "Universities",
+          "aria": null,
+          "path": "/solutions/universities"
+        },
+        {
+          "href": "/pricing",
+          "url": "https://zedu.chat/pricing",
+          "text": "Pricing",
+          "aria": null,
+          "path": "/pricing"
+        },
+        {
+          "href": "/contact-sales",
+          "url": "https://zedu.chat/contact-sales",
+          "text": "Contact Us",
+          "aria": null,
+          "path": "/contact-sales"
+        },
+        {
+          "href": "/resources",
+          "url": "https://zedu.chat/resources",
+          "text": "Blogs",
+          "aria": null,
+          "path": "/resources"
+        },
+        {
+          "href": "/policy",
+          "url": "https://zedu.chat/policy",
+          "text": "Privacy Policy",
+          "aria": null,
+          "path": "/policy"
+        },
+        {
+          "href": "/terms-of-service",
+          "url": "https://zedu.chat/terms-of-service",
+          "text": "Terms of Service",
+          "aria": null,
+          "path": "/terms-of-service"
+        },
+        {
+          "href": "/cdn-cgi/l/email-protection#90f3fffee4f1f3e4d0eaf5f4e5bef3f8f1e4",
+          "url": "https://zedu.chat/cdn-cgi/l/email-protection#90f3fffee4f1f3e4d0eaf5f4e5bef3f8f1e4",
+          "text": "[email protected]",
+          "aria": null,
+          "path": "/cdn-cgi/l/email-protection"
+        }
+      ],
+      "external_links": [
+        {
+          "href": "https://apps.apple.com/ng/app/zedu-app/id6759181591",
+          "url": "https://apps.apple.com/ng/app/zedu-app/id6759181591",
+          "text": "App store4.9",
+          "aria": null
+        },
+        {
+          "href": "https://play.google.com/store/apps/details?id=net.emerj.zedu&pcampaignid=web_share",
+          "url": "https://play.google.com/store/apps/details?id=net.emerj.zedu&pcampaignid=web_share",
+          "text": "Play store4.7",
+          "aria": null
+        },
+        {
+          "href": "https://www.instagram.com/telex.im",
+          "url": "https://www.instagram.com/telex.im",
+          "text": "",
+          "aria": null
+        },
+        {
+          "href": "https://www.tiktok.com/@telexim",
+          "url": "https://www.tiktok.com/@telexim",
+          "text": "",
+          "aria": null
+        },
+        {
+          "href": "https://www.facebook.com/profile.php?id=61578751079130",
+          "url": "https://www.facebook.com/profile.php?id=61578751079130",
+          "text": "",
+          "aria": null
+        },
+        {
+          "href": "https://x.com/teleximapp",
+          "url": "https://x.com/teleximapp",
+          "text": "",
+          "aria": null
+        }
+      ]
+    },
+    {
+      "url": "https://zedu.chat/resources",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "final_url": "https://zedu.chat/resources",
+      "bytes": 58590,
+      "error": null,
+      "title": "Zedu - Learning Platform for Bootcamps, Schools, and Cohorts",
+      "meta_description": "Zedu is an AI-powered education platform built for bootcamps and learning communities. Organize cohorts, run classes, manage communication, and scale modern learning in one workspace.",
+      "description_length": 183,
+      "meta_robots": "index, follow",
+      "canonicals": [
+        "https://zedu.chat"
+      ],
+      "h1": [
+        "Resources for Modern Learning Teams",
+        "Need Help Getting Started?"
+      ],
+      "h2": [
+        "Products",
+        "Solutions",
+        "Zedu",
+        "Resources"
+      ],
+      "internal_links": [
+        {
+          "href": "/",
+          "url": "https://zedu.chat/",
+          "text": "",
+          "aria": null,
+          "path": "/"
+        },
+        {
+          "href": "/resources",
+          "url": "https://zedu.chat/resources",
+          "text": "Resources",
+          "aria": null,
+          "path": "/resources"
+        },
+        {
+          "href": "/pricing",
+          "url": "https://zedu.chat/pricing",
+          "text": "Pricing",
+          "aria": null,
+          "path": "/pricing"
+        },
+        {
+          "href": "/about",
+          "url": "https://zedu.chat/about",
+          "text": "About Us",
+          "aria": null,
+          "path": "/about"
+        },
+        {
+          "href": "/download",
+          "url": "https://zedu.chat/download",
+          "text": "Download",
+          "aria": null,
+          "path": "/download"
+        },
+        {
+          "href": "/auth/login",
+          "url": "https://zedu.chat/auth/login",
+          "text": "Log in",
+          "aria": null,
+          "path": "/auth/login"
+        },
+        {
+          "href": "/contact-sales",
+          "url": "https://zedu.chat/contact-sales",
+          "text": "Contact Sales",
+          "aria": null,
+          "path": "/contact-sales"
+        },
+        {
+          "href": "/auth/sign-up",
+          "url": "https://zedu.chat/auth/sign-up",
+          "text": "Get Started",
+          "aria": null,
+          "path": "/auth/sign-up"
+        },
+        {
+          "href": "/auth/sign-up",
+          "url": "https://zedu.chat/auth/sign-up",
+          "text": "Get started for free",
+          "aria": null,
+          "path": "/auth/sign-up"
+        },
+        {
+          "href": "/contact-sales",
+          "url": "https://zedu.chat/contact-sales",
+          "text": "Contact Sales",
+          "aria": null,
+          "path": "/contact-sales"
+        },
+        {
+          "href": "/",
+          "url": "https://zedu.chat/",
+          "text": "",
+          "aria": null,
+          "path": "/"
+        },
+        {
+          "href": "/products/buzz",
+          "url": "https://zedu.chat/products/buzz",
+          "text": "Buzz",
+          "aria": null,
+          "path": "/products/buzz"
+        },
+        {
+          "href": "/products/channels",
+          "url": "https://zedu.chat/products/channels",
+          "text": "Channels",
+          "aria": null,
+          "path": "/products/channels"
+        },
+        {
+          "href": "/products/file-management",
+          "url": "https://zedu.chat/products/file-management",
+          "text": "File Management",
+          "aria": null,
+          "path": "/products/file-management"
+        },
+        {
+          "href": "/solutions/bootcamps",
+          "url": "https://zedu.chat/solutions/bootcamps",
+          "text": "Bootcamps",
+          "aria": null,
+          "path": "/solutions/bootcamps"
+        },
+        {
+          "href": "/solutions/schools",
+          "url": "https://zedu.chat/solutions/schools",
+          "text": "Schools",
+          "aria": null,
+          "path": "/solutions/schools"
+        },
+        {
+          "href": "/solutions/universities",
+          "url": "https://zedu.chat/solutions/universities",
+          "text": "Universities",
+          "aria": null,
+          "path": "/solutions/universities"
+        },
+        {
+          "href": "/pricing",
+          "url": "https://zedu.chat/pricing",
+          "text": "Pricing",
+          "aria": null,
+          "path": "/pricing"
+        },
+        {
+          "href": "/contact-sales",
+          "url": "https://zedu.chat/contact-sales",
+          "text": "Contact Us",
+          "aria": null,
+          "path": "/contact-sales"
+        },
+        {
+          "href": "/resources",
+          "url": "https://zedu.chat/resources",
+          "text": "Blogs",
+          "aria": null,
+          "path": "/resources"
+        },
+        {
+          "href": "/policy",
+          "url": "https://zedu.chat/policy",
+          "text": "Privacy Policy",
+          "aria": null,
+          "path": "/policy"
+        },
+        {
+          "href": "/terms-of-service",
+          "url": "https://zedu.chat/terms-of-service",
+          "text": "Terms of Service",
+          "aria": null,
+          "path": "/terms-of-service"
+        },
+        {
+          "href": "/cdn-cgi/l/email-protection#75161a1b01141601350f1011005b161d1401",
+          "url": "https://zedu.chat/cdn-cgi/l/email-protection#75161a1b01141601350f1011005b161d1401",
+          "text": "[email protected]",
+          "aria": null,
+          "path": "/cdn-cgi/l/email-protection"
+        }
+      ],
+      "external_links": [
+        {
+          "href": "https://apps.apple.com/ng/app/zedu-app/id6759181591",
+          "url": "https://apps.apple.com/ng/app/zedu-app/id6759181591",
+          "text": "App store4.9",
+          "aria": null
+        },
+        {
+          "href": "https://play.google.com/store/apps/details?id=net.emerj.zedu&pcampaignid=web_share",
+          "url": "https://play.google.com/store/apps/details?id=net.emerj.zedu&pcampaignid=web_share",
+          "text": "Play store4.7",
+          "aria": null
+        },
+        {
+          "href": "https://www.instagram.com/telex.im",
+          "url": "https://www.instagram.com/telex.im",
+          "text": "",
+          "aria": null
+        },
+        {
+          "href": "https://www.tiktok.com/@telexim",
+          "url": "https://www.tiktok.com/@telexim",
+          "text": "",
+          "aria": null
+        },
+        {
+          "href": "https://www.facebook.com/profile.php?id=61578751079130",
+          "url": "https://www.facebook.com/profile.php?id=61578751079130",
+          "text": "",
+          "aria": null
+        },
+        {
+          "href": "https://x.com/teleximapp",
+          "url": "https://x.com/teleximapp",
+          "text": "",
+          "aria": null
+        }
+      ]
+    },
+    {
+      "url": "https://zedu.chat/download",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "final_url": "https://zedu.chat/download",
+      "bytes": 87552,
+      "error": null,
+      "title": "Download Zedu App | Mobile and Desktop Learning Workspace | Zedu",
+      "meta_description": "Download Zedu on iOS, Android, and desktop. Join classes, chat with peers, manage files, and stay updated in one connected learning workspace.",
+      "description_length": 142,
+      "meta_robots": "index, follow",
+      "canonicals": [
+        "https://zedu.chat/download"
+      ],
+      "h1": [
+        "Learn anywhere with Zedu",
+        "Everything you need, In One App",
+        "Start Learning with Zedu Today!"
+      ],
+      "h2": [
+        "Download Zedu on Your Phone",
+        "Download Zedu for Desktop",
+        "Products",
+        "Solutions",
+        "Zedu",
+        "Resources"
+      ],
+      "internal_links": [
+        {
+          "href": "/",
+          "url": "https://zedu.chat/",
+          "text": "",
+          "aria": null,
+          "path": "/"
+        },
+        {
+          "href": "/resources",
+          "url": "https://zedu.chat/resources",
+          "text": "Resources",
+          "aria": null,
+          "path": "/resources"
+        },
+        {
+          "href": "/pricing",
+          "url": "https://zedu.chat/pricing",
+          "text": "Pricing",
+          "aria": null,
+          "path": "/pricing"
+        },
+        {
+          "href": "/about",
+          "url": "https://zedu.chat/about",
+          "text": "About Us",
+          "aria": null,
+          "path": "/about"
+        },
+        {
+          "href": "/download",
+          "url": "https://zedu.chat/download",
+          "text": "Download",
+          "aria": null,
+          "path": "/download"
+        },
+        {
+          "href": "/auth/login",
+          "url": "https://zedu.chat/auth/login",
+          "text": "Log in",
+          "aria": null,
+          "path": "/auth/login"
+        },
+        {
+          "href": "/contact-sales",
+          "url": "https://zedu.chat/contact-sales",
+          "text": "Contact Sales",
+          "aria": null,
+          "path": "/contact-sales"
+        },
+        {
+          "href": "/auth/sign-up",
+          "url": "https://zedu.chat/auth/sign-up",
+          "text": "Get Started",
+          "aria": null,
+          "path": "/auth/sign-up"
+        },
+        {
+          "href": "/auth/sign-up",
+          "url": "https://zedu.chat/auth/sign-up",
+          "text": "Get started for free",
+          "aria": null,
+          "path": "/auth/sign-up"
+        },
+        {
+          "href": "/contact-sales",
+          "url": "https://zedu.chat/contact-sales",
+          "text": "Contact Sales",
+          "aria": null,
+          "path": "/contact-sales"
+        },
+        {
+          "href": "/",
+          "url": "https://zedu.chat/",
+          "text": "",
+          "aria": null,
+          "path": "/"
+        },
+        {
+          "href": "/products/buzz",
+          "url": "https://zedu.chat/products/buzz",
+          "text": "Buzz",
+          "aria": null,
+          "path": "/products/buzz"
+        },
+        {
+          "href": "/products/channels",
+          "url": "https://zedu.chat/products/channels",
+          "text": "Channels",
+          "aria": null,
+          "path": "/products/channels"
+        },
+        {
+          "href": "/products/file-management",
+          "url": "https://zedu.chat/products/file-management",
+          "text": "File Management",
+          "aria": null,
+          "path": "/products/file-management"
+        },
+        {
+          "href": "/solutions/bootcamps",
+          "url": "https://zedu.chat/solutions/bootcamps",
+          "text": "Bootcamps",
+          "aria": null,
+          "path": "/solutions/bootcamps"
+        },
+        {
+          "href": "/solutions/schools",
+          "url": "https://zedu.chat/solutions/schools",
+          "text": "Schools",
+          "aria": null,
+          "path": "/solutions/schools"
+        },
+        {
+          "href": "/solutions/universities",
+          "url": "https://zedu.chat/solutions/universities",
+          "text": "Universities",
+          "aria": null,
+          "path": "/solutions/universities"
+        },
+        {
+          "href": "/pricing",
+          "url": "https://zedu.chat/pricing",
+          "text": "Pricing",
+          "aria": null,
+          "path": "/pricing"
+        },
+        {
+          "href": "/contact-sales",
+          "url": "https://zedu.chat/contact-sales",
+          "text": "Contact Us",
+          "aria": null,
+          "path": "/contact-sales"
+        },
+        {
+          "href": "/resources",
+          "url": "https://zedu.chat/resources",
+          "text": "Blogs",
+          "aria": null,
+          "path": "/resources"
+        },
+        {
+          "href": "/policy",
+          "url": "https://zedu.chat/policy",
+          "text": "Privacy Policy",
+          "aria": null,
+          "path": "/policy"
+        },
+        {
+          "href": "/terms-of-service",
+          "url": "https://zedu.chat/terms-of-service",
+          "text": "Terms of Service",
+          "aria": null,
+          "path": "/terms-of-service"
+        },
+        {
+          "href": "/cdn-cgi/l/email-protection#b6d5d9d8c2d7d5c2f6ccd3d2c398d5ded7c2",
+          "url": "https://zedu.chat/cdn-cgi/l/email-protection#b6d5d9d8c2d7d5c2f6ccd3d2c398d5ded7c2",
+          "text": "[email protected]",
+          "aria": null,
+          "path": "/cdn-cgi/l/email-protection"
+        }
+      ],
+      "external_links": [
+        {
+          "href": "https://apps.apple.com/ng/app/zedu-app/id6759181591",
+          "url": "https://apps.apple.com/ng/app/zedu-app/id6759181591",
+          "text": "Download on theApp Store",
+          "aria": null
+        },
+        {
+          "href": "https://play.google.com/store/apps/details?id=net.emerj.zedu&pcampaignid=web_share",
+          "url": "https://play.google.com/store/apps/details?id=net.emerj.zedu&pcampaignid=web_share",
+          "text": "GET IT ONGoogle Play",
+          "aria": null
+        },
+        {
+          "href": "https://apps.apple.com/ng/app/zedu-app/id6759181591",
+          "url": "https://apps.apple.com/ng/app/zedu-app/id6759181591",
+          "text": "Download on theApp Store",
+          "aria": null
+        },
+        {
+          "href": "https://play.google.com/store/apps/details?id=net.emerj.zedu&pcampaignid=web_share",
+          "url": "https://play.google.com/store/apps/details?id=net.emerj.zedu&pcampaignid=web_share",
+          "text": "GET IT ONGoogle Play",
+          "aria": null
+        },
+        {
+          "href": "https://apps.apple.com/ng/app/zedu-app/id6759181591",
+          "url": "https://apps.apple.com/ng/app/zedu-app/id6759181591",
+          "text": "App store4.9",
+          "aria": null
+        },
+        {
+          "href": "https://play.google.com/store/apps/details?id=net.emerj.zedu&pcampaignid=web_share",
+          "url": "https://play.google.com/store/apps/details?id=net.emerj.zedu&pcampaignid=web_share",
+          "text": "Play store4.7",
+          "aria": null
+        },
+        {
+          "href": "https://www.instagram.com/telex.im",
+          "url": "https://www.instagram.com/telex.im",
+          "text": "",
+          "aria": null
+        },
+        {
+          "href": "https://www.tiktok.com/@telexim",
+          "url": "https://www.tiktok.com/@telexim",
+          "text": "",
+          "aria": null
+        },
+        {
+          "href": "https://www.facebook.com/profile.php?id=61578751079130",
+          "url": "https://www.facebook.com/profile.php?id=61578751079130",
+          "text": "",
+          "aria": null
+        },
+        {
+          "href": "https://x.com/teleximapp",
+          "url": "https://x.com/teleximapp",
+          "text": "",
+          "aria": null
+        }
+      ]
+    }
+  ],
+  "extras": [
+    {
+      "url": "https://zedu.chat/robots.txt",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "final_url": "https://zedu.chat/robots.txt",
+      "bytes": 22771,
+      "error": null,
+      "first_200": "<!DOCTYPE html><html lang=\"en\" class=\"max-w-screen overflow-x-hidden relative\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><link rel=\"stylesheet\" ",
+      "is_html": true,
+      "has_robots_directive": false,
+      "has_urlset": false,
+      "locs": [],
+      "loc_count": 0
+    },
+    {
+      "url": "https://zedu.chat/sitemap.xml",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "final_url": "https://zedu.chat/sitemap.xml",
+      "bytes": 22774,
+      "error": null,
+      "first_200": "<!DOCTYPE html><html lang=\"en\" class=\"max-w-screen overflow-x-hidden relative\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><link rel=\"stylesheet\" ",
+      "is_html": true,
+      "has_robots_directive": false,
+      "has_urlset": false,
+      "locs": [],
+      "loc_count": 0
+    }
+  ]
+}

@@ -1,0 +1,1495 @@
+{
+  "fetched_at_utc": "2026-10-24T17:25:10Z",
+  "pages": {
+    "/": {
+      "total_internal_anchors": 30,
+      "global_anchor_instances": 26,
+      "body_links": [
+        {
+          "path": "/auth/sign-up",
+          "text": "Try for free"
+        },
+        {
+          "path": "/contact-sales",
+          "text": "Contact sales"
+        },
+        {
+          "path": "/client/settings/organisation/billing/all-plans",
+          "text": "Start Pro Plan"
+        },
+        {
+          "path": "/client/settings/organisation/billing/all-plans",
+          "text": "Compare different plans"
+        }
+      ],
+      "global_links": [
+        {
+          "path": "/",
+          "text": ""
+        },
+        {
+          "path": "/resources",
+          "text": "Resources"
+        },
+        {
+          "path": "/pricing",
+          "text": "Pricing"
+        },
+        {
+          "path": "/about",
+          "text": "About Us"
+        },
+        {
+          "path": "/download",
+          "text": "Download"
+        },
+        {
+          "path": "/auth/login",
+          "text": "Log in"
+        },
+        {
+          "path": "/contact-sales",
+          "text": "Contact Sales"
+        },
+        {
+          "path": "/auth/sign-up",
+          "text": "Get Started"
+        },
+        {
+          "path": "/auth/sign-up",
+          "text": "Get started for free"
+        },
+        {
+          "path": "/products/buzz",
+          "text": "Buzz"
+        },
+        {
+          "path": "/products/channels",
+          "text": "Channels"
+        },
+        {
+          "path": "/products/file-management",
+          "text": "File Management"
+        },
+        {
+          "path": "/solutions/bootcamps",
+          "text": "Bootcamps"
+        },
+        {
+          "path": "/solutions/schools",
+          "text": "Schools"
+        },
+        {
+          "path": "/solutions/universities",
+          "text": "Universities"
+        },
+        {
+          "path": "/contact-sales",
+          "text": "Contact Us"
+        },
+        {
+          "path": "/resources",
+          "text": "Blogs"
+        },
+        {
+          "path": "/policy",
+          "text": "Privacy Policy"
+        },
+        {
+          "path": "/terms-of-service",
+          "text": "Terms of Service"
+        },
+        {
+          "path": "/cdn-cgi/l/email-protection",
+          "text": "[email protected]"
+        }
+      ],
+      "h1": [
+        "Built for Bootcamps and Learning Communities",
+        "Everything you need for Modern Learning",
+        "Fewer Tools, Smarter Learning",
+        "The Platform for Every Type of Learning",
+        "Simple, Flexible Pricing for Education",
+        "Launching a bootcamp? Let's build a pricing model that fits your cohort size.",
+        "Why Educators Choose Zedu",
+        "Got a Question? We Have an Answer",
+        "Run Your Next Cohort Without Limits"
+      ]
+    },
+    "/pricing": {
+      "total_internal_anchors": 25,
+      "global_anchor_instances": 23,
+      "body_links": [
+        {
+          "path": "/client/settings/organisation/billing/all-plans",
+          "text": "Start Pro Plan"
+        },
+        {
+          "path": "/client/settings/organisation/billing/all-plans",
+          "text": "Compare different plans"
+        }
+      ],
+      "global_links": [
+        {
+          "path": "/",
+          "text": ""
+        },
+        {
+          "path": "/resources",
+          "text": "Resources"
+        },
+        {
+          "path": "/pricing",
+          "text": "Pricing"
+        },
+        {
+          "path": "/about",
+          "text": "About Us"
+        },
+        {
+          "path": "/download",
+          "text": "Download"
+        },
+        {
+          "path": "/auth/login",
+          "text": "Log in"
+        },
+        {
+          "path": "/contact-sales",
+          "text": "Contact Sales"
+        },
+        {
+          "path": "/auth/sign-up",
+          "text": "Get Started"
+        },
+        {
+          "path": "/auth/sign-up",
+          "text": "Get started for free"
+        },
+        {
+          "path": "/products/buzz",
+          "text": "Buzz"
+        },
+        {
+          "path": "/products/channels",
+          "text": "Channels"
+        },
+        {
+          "path": "/products/file-management",
+          "text": "File Management"
+        },
+        {
+          "path": "/solutions/bootcamps",
+          "text": "Bootcamps"
+        },
+        {
+          "path": "/solutions/schools",
+          "text": "Schools"
+        },
+        {
+          "path": "/solutions/universities",
+          "text": "Universities"
+        },
+        {
+          "path": "/contact-sales",
+          "text": "Contact Us"
+        },
+        {
+          "path": "/resources",
+          "text": "Blogs"
+        },
+        {
+          "path": "/policy",
+          "text": "Privacy Policy"
+        },
+        {
+          "path": "/terms-of-service",
+          "text": "Terms of Service"
+        },
+        {
+          "path": "/cdn-cgi/l/email-protection",
+          "text": "[email protected]"
+        }
+      ],
+      "h1": [
+        "Simple, Flexible Pricing for Education",
+        "Launching a bootcamp? Let's build a pricing model that fits your cohort size.",
+        "Got a Question? We Have an Answer",
+        "Start Building Structured Learning Today"
+      ]
+    },
+    "/about": {
+      "total_internal_anchors": 27,
+      "global_anchor_instances": 25,
+      "body_links": [
+        {
+          "path": "/auth/login",
+          "text": "Explore the product"
+        },
+        {
+          "path": "/pricing",
+          "text": "View Pricing"
+        }
+      ],
+      "global_links": [
+        {
+          "path": "/",
+          "text": ""
+        },
+        {
+          "path": "/resources",
+          "text": "Resources"
+        },
+        {
+          "path": "/pricing",
+          "text": "Pricing"
+        },
+        {
+          "path": "/about",
+          "text": "About Us"
+        },
+        {
+          "path": "/download",
+          "text": "Download"
+        },
+        {
+          "path": "/auth/login",
+          "text": "Log in"
+        },
+        {
+          "path": "/contact-sales",
+          "text": "Contact Sales"
+        },
+        {
+          "path": "/auth/sign-up",
+          "text": "Get Started"
+        },
+        {
+          "path": "/auth/sign-up",
+          "text": "Get started for free"
+        },
+        {
+          "path": "/products/buzz",
+          "text": "Buzz"
+        },
+        {
+          "path": "/products/channels",
+          "text": "Channels"
+        },
+        {
+          "path": "/products/file-management",
+          "text": "File Management"
+        },
+        {
+          "path": "/solutions/bootcamps",
+          "text": "Bootcamps"
+        },
+        {
+          "path": "/solutions/schools",
+          "text": "Schools"
+        },
+        {
+          "path": "/solutions/universities",
+          "text": "Universities"
+        },
+        {
+          "path": "/contact-sales",
+          "text": "Contact Us"
+        },
+        {
+          "path": "/resources",
+          "text": "Blogs"
+        },
+        {
+          "path": "/policy",
+          "text": "Privacy Policy"
+        },
+        {
+          "path": "/terms-of-service",
+          "text": "Terms of Service"
+        },
+        {
+          "path": "/cdn-cgi/l/email-protection",
+          "text": "[email protected]"
+        }
+      ],
+      "h1": [
+        "Built for Structured Learning Not Noise",
+        "Our Philosophy",
+        "Designed for Modern Learning Teams",
+        "Our Vision",
+        "Start Building Structured Learning Today"
+      ]
+    },
+    "/products/channels": {
+      "total_internal_anchors": 26,
+      "global_anchor_instances": 24,
+      "body_links": [
+        {
+          "path": "/auth/sign-up",
+          "text": "Start using channels"
+        },
+        {
+          "path": "/auth/sign-up",
+          "text": "Start Now"
+        }
+      ],
+      "global_links": [
+        {
+          "path": "/",
+          "text": ""
+        },
+        {
+          "path": "/resources",
+          "text": "Resources"
+        },
+        {
+          "path": "/pricing",
+          "text": "Pricing"
+        },
+        {
+          "path": "/about",
+          "text": "About Us"
+        },
+        {
+          "path": "/download",
+          "text": "Download"
+        },
+        {
+          "path": "/auth/login",
+          "text": "Log in"
+        },
+        {
+          "path": "/contact-sales",
+          "text": "Contact Sales"
+        },
+        {
+          "path": "/auth/sign-up",
+          "text": "Get Started"
+        },
+        {
+          "path": "/auth/sign-up",
+          "text": "Get started for free"
+        },
+        {
+          "path": "/products/buzz",
+          "text": "Buzz"
+        },
+        {
+          "path": "/products/channels",
+          "text": "Channels"
+        },
+        {
+          "path": "/products/file-management",
+          "text": "File Management"
+        },
+        {
+          "path": "/solutions/bootcamps",
+          "text": "Bootcamps"
+        },
+        {
+          "path": "/solutions/schools",
+          "text": "Schools"
+        },
+        {
+          "path": "/solutions/universities",
+          "text": "Universities"
+        },
+        {
+          "path": "/contact-sales",
+          "text": "Contact Us"
+        },
+        {
+          "path": "/resources",
+          "text": "Blogs"
+        },
+        {
+          "path": "/policy",
+          "text": "Privacy Policy"
+        },
+        {
+          "path": "/terms-of-service",
+          "text": "Terms of Service"
+        },
+        {
+          "path": "/cdn-cgi/l/email-protection",
+          "text": "[email protected]"
+        }
+      ],
+      "h1": [
+        "Organise Learning with Structured Channels.",
+        "Organized Communication for Learning",
+        "Channels that Scale with Your Institution",
+        "More That Just Channels",
+        "Got a Question? We Have an Answer",
+        "Organize Your Learning Community with Channels"
+      ]
+    },
+    "/products/buzz": {
+      "total_internal_anchors": 28,
+      "global_anchor_instances": 23,
+      "body_links": [
+        {
+          "path": "/auth/sign-up",
+          "text": "Start a buzz"
+        },
+        {
+          "path": "/auth/sign-up",
+          "text": "Start a Buzz"
+        }
+      ],
+      "global_links": [
+        {
+          "path": "/",
+          "text": ""
+        },
+        {
+          "path": "/resources",
+          "text": "Resources"
+        },
+        {
+          "path": "/pricing",
+          "text": "Pricing"
+        },
+        {
+          "path": "/about",
+          "text": "About Us"
+        },
+        {
+          "path": "/download",
+          "text": "Download"
+        },
+        {
+          "path": "/auth/login",
+          "text": "Log in"
+        },
+        {
+          "path": "/contact-sales",
+          "text": "Contact Sales"
+        },
+        {
+          "path": "/auth/sign-up",
+          "text": "Get Started"
+        },
+        {
+          "path": "/auth/sign-up",
+          "text": "Get started for free"
+        },
+        {
+          "path": "/products/buzz",
+          "text": "Buzz"
+        },
+        {
+          "path": "/products/channels",
+          "text": "Channels"
+        },
+        {
+          "path": "/products/file-management",
+          "text": "File Management"
+        },
+        {
+          "path": "/solutions/bootcamps",
+          "text": "Bootcamps"
+        },
+        {
+          "path": "/solutions/schools",
+          "text": "Schools"
+        },
+        {
+          "path": "/solutions/universities",
+          "text": "Universities"
+        },
+        {
+          "path": "/contact-sales",
+          "text": "Contact Us"
+        },
+        {
+          "path": "/resources",
+          "text": "Blogs"
+        },
+        {
+          "path": "/policy",
+          "text": "Privacy Policy"
+        },
+        {
+          "path": "/terms-of-service",
+          "text": "Terms of Service"
+        },
+        {
+          "path": "/cdn-cgi/l/email-protection",
+          "text": "[email protected]"
+        }
+      ],
+      "h1": [
+        "Start a Buzz Talk Instantly with Your Team .",
+        "Got a Question? We Have an Answer",
+        "Start a Buzz with Your Class Today"
+      ]
+    },
+    "/products/file-management": {
+      "total_internal_anchors": 27,
+      "global_anchor_instances": 26,
+      "body_links": [
+        {
+          "path": "/auth/sign-up",
+          "text": "Start Organising Files"
+        }
+      ],
+      "global_links": [
+        {
+          "path": "/",
+          "text": ""
+        },
+        {
+          "path": "/resources",
+          "text": "Resources"
+        },
+        {
+          "path": "/pricing",
+          "text": "Pricing"
+        },
+        {
+          "path": "/about",
+          "text": "About Us"
+        },
+        {
+          "path": "/download",
+          "text": "Download"
+        },
+        {
+          "path": "/auth/login",
+          "text": "Log in"
+        },
+        {
+          "path": "/contact-sales",
+          "text": "Contact Sales"
+        },
+        {
+          "path": "/auth/sign-up",
+          "text": "Get Started"
+        },
+        {
+          "path": "/auth/sign-up",
+          "text": "Get started for free"
+        },
+        {
+          "path": "/products/buzz",
+          "text": "Buzz"
+        },
+        {
+          "path": "/products/channels",
+          "text": "Channels"
+        },
+        {
+          "path": "/products/file-management",
+          "text": "File Management"
+        },
+        {
+          "path": "/solutions/bootcamps",
+          "text": "Bootcamps"
+        },
+        {
+          "path": "/solutions/schools",
+          "text": "Schools"
+        },
+        {
+          "path": "/solutions/universities",
+          "text": "Universities"
+        },
+        {
+          "path": "/contact-sales",
+          "text": "Contact Us"
+        },
+        {
+          "path": "/resources",
+          "text": "Blogs"
+        },
+        {
+          "path": "/policy",
+          "text": "Privacy Policy"
+        },
+        {
+          "path": "/terms-of-service",
+          "text": "Terms of Service"
+        },
+        {
+          "path": "/cdn-cgi/l/email-protection",
+          "text": "[email protected]"
+        }
+      ],
+      "h1": [
+        "Organize Learning Materials In One Place",
+        "Organize and Collaborate on Learning Files",
+        "Smart, Secure, and Scalable File Management",
+        "Connected to the Rest of Zedu",
+        "Got a Question? We Have an Answer",
+        "Manage Learning Materials Without the Chaos"
+      ]
+    },
+    "/solutions/bootcamps": {
+      "total_internal_anchors": 27,
+      "global_anchor_instances": 24,
+      "body_links": [
+        {
+          "path": "/contact-sales",
+          "text": "Book a Demo"
+        },
+        {
+          "path": "/auth/sign-up",
+          "text": "Start for Free"
+        }
+      ],
+      "global_links": [
+        {
+          "path": "/",
+          "text": ""
+        },
+        {
+          "path": "/resources",
+          "text": "Resources"
+        },
+        {
+          "path": "/pricing",
+          "text": "Pricing"
+        },
+        {
+          "path": "/about",
+          "text": "About Us"
+        },
+        {
+          "path": "/download",
+          "text": "Download"
+        },
+        {
+          "path": "/auth/login",
+          "text": "Log in"
+        },
+        {
+          "path": "/contact-sales",
+          "text": "Contact Sales"
+        },
+        {
+          "path": "/auth/sign-up",
+          "text": "Get Started"
+        },
+        {
+          "path": "/auth/sign-up",
+          "text": "Get started for free"
+        },
+        {
+          "path": "/products/buzz",
+          "text": "Buzz"
+        },
+        {
+          "path": "/products/channels",
+          "text": "Channels"
+        },
+        {
+          "path": "/products/file-management",
+          "text": "File Management"
+        },
+        {
+          "path": "/solutions/bootcamps",
+          "text": "Bootcamps"
+        },
+        {
+          "path": "/solutions/schools",
+          "text": "Schools"
+        },
+        {
+          "path": "/solutions/universities",
+          "text": "Universities"
+        },
+        {
+          "path": "/contact-sales",
+          "text": "Contact Us"
+        },
+        {
+          "path": "/resources",
+          "text": "Blogs"
+        },
+        {
+          "path": "/policy",
+          "text": "Privacy Policy"
+        },
+        {
+          "path": "/terms-of-service",
+          "text": "Terms of Service"
+        },
+        {
+          "path": "/cdn-cgi/l/email-protection",
+          "text": "[email protected]"
+        }
+      ],
+      "h1": [
+        "Run faster cohorts Build Stronger Communities",
+        "Why Bootcamps Choose Zedu",
+        "Run Structured and Collaborative Bootcamps",
+        "How Zedu Transforms Bootcamps",
+        "Run Leaner. Move Faster. Launch Better Cohorts.",
+        "Power Your Next Bootcamp Cohort"
+      ]
+    },
+    "/solutions/schools": {
+      "total_internal_anchors": 27,
+      "global_anchor_instances": 24,
+      "body_links": [
+        {
+          "path": "/contact-sales",
+          "text": "Book a Demo"
+        },
+        {
+          "path": "/auth/sign-up",
+          "text": "Start for Free"
+        }
+      ],
+      "global_links": [
+        {
+          "path": "/",
+          "text": ""
+        },
+        {
+          "path": "/resources",
+          "text": "Resources"
+        },
+        {
+          "path": "/pricing",
+          "text": "Pricing"
+        },
+        {
+          "path": "/about",
+          "text": "About Us"
+        },
+        {
+          "path": "/download",
+          "text": "Download"
+        },
+        {
+          "path": "/auth/login",
+          "text": "Log in"
+        },
+        {
+          "path": "/contact-sales",
+          "text": "Contact Sales"
+        },
+        {
+          "path": "/auth/sign-up",
+          "text": "Get Started"
+        },
+        {
+          "path": "/auth/sign-up",
+          "text": "Get started for free"
+        },
+        {
+          "path": "/products/buzz",
+          "text": "Buzz"
+        },
+        {
+          "path": "/products/channels",
+          "text": "Channels"
+        },
+        {
+          "path": "/products/file-management",
+          "text": "File Management"
+        },
+        {
+          "path": "/solutions/bootcamps",
+          "text": "Bootcamps"
+        },
+        {
+          "path": "/solutions/schools",
+          "text": "Schools"
+        },
+        {
+          "path": "/solutions/universities",
+          "text": "Universities"
+        },
+        {
+          "path": "/contact-sales",
+          "text": "Contact Us"
+        },
+        {
+          "path": "/resources",
+          "text": "Blogs"
+        },
+        {
+          "path": "/policy",
+          "text": "Privacy Policy"
+        },
+        {
+          "path": "/terms-of-service",
+          "text": "Terms of Service"
+        },
+        {
+          "path": "/cdn-cgi/l/email-protection",
+          "text": "[email protected]"
+        }
+      ],
+      "h1": [
+        "A Smarter Communication for Schools",
+        "Built for Modern School Communication",
+        "Better Communication for Every Classroom",
+        "How Zedu transforms Schools",
+        "Run Leaner. Move Faster. Teach Better.",
+        "Transform Communication in Your School"
+      ]
+    },
+    "/solutions/universities": {
+      "total_internal_anchors": 27,
+      "global_anchor_instances": 24,
+      "body_links": [
+        {
+          "path": "/contact-sales",
+          "text": "Book a Demo"
+        },
+        {
+          "path": "/auth/sign-up",
+          "text": "Start for Free"
+        }
+      ],
+      "global_links": [
+        {
+          "path": "/",
+          "text": ""
+        },
+        {
+          "path": "/resources",
+          "text": "Resources"
+        },
+        {
+          "path": "/pricing",
+          "text": "Pricing"
+        },
+        {
+          "path": "/about",
+          "text": "About Us"
+        },
+        {
+          "path": "/download",
+          "text": "Download"
+        },
+        {
+          "path": "/auth/login",
+          "text": "Log in"
+        },
+        {
+          "path": "/contact-sales",
+          "text": "Contact Sales"
+        },
+        {
+          "path": "/auth/sign-up",
+          "text": "Get Started"
+        },
+        {
+          "path": "/auth/sign-up",
+          "text": "Get started for free"
+        },
+        {
+          "path": "/products/buzz",
+          "text": "Buzz"
+        },
+        {
+          "path": "/products/channels",
+          "text": "Channels"
+        },
+        {
+          "path": "/products/file-management",
+          "text": "File Management"
+        },
+        {
+          "path": "/solutions/bootcamps",
+          "text": "Bootcamps"
+        },
+        {
+          "path": "/solutions/schools",
+          "text": "Schools"
+        },
+        {
+          "path": "/solutions/universities",
+          "text": "Universities"
+        },
+        {
+          "path": "/contact-sales",
+          "text": "Contact Us"
+        },
+        {
+          "path": "/resources",
+          "text": "Blogs"
+        },
+        {
+          "path": "/policy",
+          "text": "Privacy Policy"
+        },
+        {
+          "path": "/terms-of-service",
+          "text": "Terms of Service"
+        },
+        {
+          "path": "/cdn-cgi/l/email-protection",
+          "text": "[email protected]"
+        }
+      ],
+      "h1": [
+        "Modern Communication for Universities",
+        "Built for Higher Education Environments",
+        "Structured Communication Across the University",
+        "Institution Control and Security",
+        "How Zedu transforms Universities",
+        "Run Leaner. Move Faster. Teach Better.",
+        "Bring Structured Communication to Your University"
+      ]
+    },
+    "/resources": {
+      "total_internal_anchors": 23,
+      "global_anchor_instances": 23,
+      "body_links": [],
+      "global_links": [
+        {
+          "path": "/",
+          "text": ""
+        },
+        {
+          "path": "/resources",
+          "text": "Resources"
+        },
+        {
+          "path": "/pricing",
+          "text": "Pricing"
+        },
+        {
+          "path": "/about",
+          "text": "About Us"
+        },
+        {
+          "path": "/download",
+          "text": "Download"
+        },
+        {
+          "path": "/auth/login",
+          "text": "Log in"
+        },
+        {
+          "path": "/contact-sales",
+          "text": "Contact Sales"
+        },
+        {
+          "path": "/auth/sign-up",
+          "text": "Get Started"
+        },
+        {
+          "path": "/auth/sign-up",
+          "text": "Get started for free"
+        },
+        {
+          "path": "/products/buzz",
+          "text": "Buzz"
+        },
+        {
+          "path": "/products/channels",
+          "text": "Channels"
+        },
+        {
+          "path": "/products/file-management",
+          "text": "File Management"
+        },
+        {
+          "path": "/solutions/bootcamps",
+          "text": "Bootcamps"
+        },
+        {
+          "path": "/solutions/schools",
+          "text": "Schools"
+        },
+        {
+          "path": "/solutions/universities",
+          "text": "Universities"
+        },
+        {
+          "path": "/contact-sales",
+          "text": "Contact Us"
+        },
+        {
+          "path": "/resources",
+          "text": "Blogs"
+        },
+        {
+          "path": "/policy",
+          "text": "Privacy Policy"
+        },
+        {
+          "path": "/terms-of-service",
+          "text": "Terms of Service"
+        },
+        {
+          "path": "/cdn-cgi/l/email-protection",
+          "text": "[email protected]"
+        }
+      ],
+      "h1": [
+        "Resources for Modern Learning Teams",
+        "Need Help Getting Started?"
+      ]
+    },
+    "/download": {
+      "total_internal_anchors": 23,
+      "global_anchor_instances": 23,
+      "body_links": [],
+      "global_links": [
+        {
+          "path": "/",
+          "text": ""
+        },
+        {
+          "path": "/resources",
+          "text": "Resources"
+        },
+        {
+          "path": "/pricing",
+          "text": "Pricing"
+        },
+        {
+          "path": "/about",
+          "text": "About Us"
+        },
+        {
+          "path": "/download",
+          "text": "Download"
+        },
+        {
+          "path": "/auth/login",
+          "text": "Log in"
+        },
+        {
+          "path": "/contact-sales",
+          "text": "Contact Sales"
+        },
+        {
+          "path": "/auth/sign-up",
+          "text": "Get Started"
+        },
+        {
+          "path": "/auth/sign-up",
+          "text": "Get started for free"
+        },
+        {
+          "path": "/products/buzz",
+          "text": "Buzz"
+        },
+        {
+          "path": "/products/channels",
+          "text": "Channels"
+        },
+        {
+          "path": "/products/file-management",
+          "text": "File Management"
+        },
+        {
+          "path": "/solutions/bootcamps",
+          "text": "Bootcamps"
+        },
+        {
+          "path": "/solutions/schools",
+          "text": "Schools"
+        },
+        {
+          "path": "/solutions/universities",
+          "text": "Universities"
+        },
+        {
+          "path": "/contact-sales",
+          "text": "Contact Us"
+        },
+        {
+          "path": "/resources",
+          "text": "Blogs"
+        },
+        {
+          "path": "/policy",
+          "text": "Privacy Policy"
+        },
+        {
+          "path": "/terms-of-service",
+          "text": "Terms of Service"
+        },
+        {
+          "path": "/cdn-cgi/l/email-protection",
+          "text": "[email protected]"
+        }
+      ],
+      "h1": [
+        "Learn anywhere with Zedu",
+        "Everything you need, In One App",
+        "Start Learning with Zedu Today!"
+      ]
+    }
+  },
+  "inbound_body": {
+    "/auth/sign-up": [
+      "/",
+      "/products/channels",
+      "/products/channels",
+      "/products/buzz",
+      "/products/buzz",
+      "/products/file-management",
+      "/solutions/bootcamps",
+      "/solutions/schools",
+      "/solutions/universities"
+    ],
+    "/contact-sales": [
+      "/",
+      "/solutions/bootcamps",
+      "/solutions/schools",
+      "/solutions/universities"
+    ],
+    "/client/settings/organisation/billing/all-plans": [
+      "/",
+      "/",
+      "/pricing",
+      "/pricing"
+    ],
+    "/auth/login": [
+      "/about"
+    ],
+    "/pricing": [
+      "/about"
+    ]
+  },
+  "inbound_global": {
+    "/": [
+      "/",
+      "/pricing",
+      "/about",
+      "/products/channels",
+      "/products/buzz",
+      "/products/file-management",
+      "/solutions/bootcamps",
+      "/solutions/schools",
+      "/solutions/universities",
+      "/resources",
+      "/download"
+    ],
+    "/resources": [
+      "/",
+      "/",
+      "/pricing",
+      "/pricing",
+      "/about",
+      "/about",
+      "/products/channels",
+      "/products/channels",
+      "/products/buzz",
+      "/products/buzz",
+      "/products/file-management",
+      "/products/file-management",
+      "/solutions/bootcamps",
+      "/solutions/bootcamps",
+      "/solutions/schools",
+      "/solutions/schools",
+      "/solutions/universities",
+      "/solutions/universities",
+      "/resources",
+      "/resources",
+      "/download",
+      "/download"
+    ],
+    "/pricing": [
+      "/",
+      "/pricing",
+      "/about",
+      "/products/channels",
+      "/products/buzz",
+      "/products/file-management",
+      "/solutions/bootcamps",
+      "/solutions/schools",
+      "/solutions/universities",
+      "/resources",
+      "/download"
+    ],
+    "/about": [
+      "/",
+      "/pricing",
+      "/about",
+      "/products/channels",
+      "/products/buzz",
+      "/products/file-management",
+      "/solutions/bootcamps",
+      "/solutions/schools",
+      "/solutions/universities",
+      "/resources",
+      "/download"
+    ],
+    "/download": [
+      "/",
+      "/pricing",
+      "/about",
+      "/products/channels",
+      "/products/buzz",
+      "/products/file-management",
+      "/solutions/bootcamps",
+      "/solutions/schools",
+      "/solutions/universities",
+      "/resources",
+      "/download"
+    ],
+    "/auth/login": [
+      "/",
+      "/pricing",
+      "/about",
+      "/products/channels",
+      "/products/buzz",
+      "/products/file-management",
+      "/solutions/bootcamps",
+      "/solutions/schools",
+      "/solutions/universities",
+      "/resources",
+      "/download"
+    ],
+    "/contact-sales": [
+      "/",
+      "/",
+      "/pricing",
+      "/pricing",
+      "/about",
+      "/about",
+      "/products/channels",
+      "/products/channels",
+      "/products/buzz",
+      "/products/buzz",
+      "/products/file-management",
+      "/products/file-management",
+      "/solutions/bootcamps",
+      "/solutions/bootcamps",
+      "/solutions/schools",
+      "/solutions/schools",
+      "/solutions/universities",
+      "/solutions/universities",
+      "/resources",
+      "/resources",
+      "/download",
+      "/download"
+    ],
+    "/auth/sign-up": [
+      "/",
+      "/",
+      "/pricing",
+      "/pricing",
+      "/about",
+      "/about",
+      "/products/channels",
+      "/products/channels",
+      "/products/buzz",
+      "/products/buzz",
+      "/products/file-management",
+      "/products/file-management",
+      "/solutions/bootcamps",
+      "/solutions/bootcamps",
+      "/solutions/schools",
+      "/solutions/schools",
+      "/solutions/universities",
+      "/solutions/universities",
+      "/resources",
+      "/resources",
+      "/download",
+      "/download"
+    ],
+    "/products/buzz": [
+      "/",
+      "/pricing",
+      "/about",
+      "/products/channels",
+      "/products/buzz",
+      "/products/file-management",
+      "/solutions/bootcamps",
+      "/solutions/schools",
+      "/solutions/universities",
+      "/resources",
+      "/download"
+    ],
+    "/products/channels": [
+      "/",
+      "/pricing",
+      "/about",
+      "/products/channels",
+      "/products/buzz",
+      "/products/file-management",
+      "/solutions/bootcamps",
+      "/solutions/schools",
+      "/solutions/universities",
+      "/resources",
+      "/download"
+    ],
+    "/products/file-management": [
+      "/",
+      "/pricing",
+      "/about",
+      "/products/channels",
+      "/products/buzz",
+      "/products/file-management",
+      "/solutions/bootcamps",
+      "/solutions/schools",
+      "/solutions/universities",
+      "/resources",
+      "/download"
+    ],
+    "/solutions/bootcamps": [
+      "/",
+      "/pricing",
+      "/about",
+      "/products/channels",
+      "/products/buzz",
+      "/products/file-management",
+      "/solutions/bootcamps",
+      "/solutions/schools",
+      "/solutions/universities",
+      "/resources",
+      "/download"
+    ],
+    "/solutions/schools": [
+      "/",
+      "/pricing",
+      "/about",
+      "/products/channels",
+      "/products/buzz",
+      "/products/file-management",
+      "/solutions/bootcamps",
+      "/solutions/schools",
+      "/solutions/universities",
+      "/resources",
+      "/download"
+    ],
+    "/solutions/universities": [
+      "/",
+      "/pricing",
+      "/about",
+      "/products/channels",
+      "/products/buzz",
+      "/products/file-management",
+      "/solutions/bootcamps",
+      "/solutions/schools",
+      "/solutions/universities",
+      "/resources",
+      "/download"
+    ],
+    "/policy": [
+      "/",
+      "/pricing",
+      "/about",
+      "/products/channels",
+      "/products/buzz",
+      "/products/file-management",
+      "/solutions/bootcamps",
+      "/solutions/schools",
+      "/solutions/universities",
+      "/resources",
+      "/download"
+    ],
+    "/terms-of-service": [
+      "/",
+      "/pricing",
+      "/about",
+      "/products/channels",
+      "/products/buzz",
+      "/products/file-management",
+      "/solutions/bootcamps",
+      "/solutions/schools",
+      "/solutions/universities",
+      "/resources",
+      "/download"
+    ],
+    "/cdn-cgi/l/email-protection": [
+      "/",
+      "/pricing",
+      "/about",
+      "/products/channels",
+      "/products/buzz",
+      "/products/file-management",
+      "/solutions/bootcamps",
+      "/solutions/schools",
+      "/solutions/universities",
+      "/resources",
+      "/download"
+    ]
+  },
+  "global_chrome": [
+    [
+      "/",
+      ""
+    ],
+    [
+      "/about",
+      "About Us"
+    ],
+    [
+      "/auth/login",
+      "Log in"
+    ],
+    [
+      "/auth/sign-up",
+      "Get Started"
+    ],
+    [
+      "/auth/sign-up",
+      "Get started for free"
+    ],
+    [
+      "/cdn-cgi/l/email-protection",
+      "[email protected]"
+    ],
+    [
+      "/contact-sales",
+      "Contact Sales"
+    ],
+    [
+      "/contact-sales",
+      "Contact Us"
+    ],
+    [
+      "/download",
+      "Download"
+    ],
+    [
+      "/policy",
+      "Privacy Policy"
+    ],
+    [
+      "/pricing",
+      "Pricing"
+    ],
+    [
+      "/products/buzz",
+      "Buzz"
+    ],
+    [
+      "/products/channels",
+      "Channels"
+    ],
+    [
+      "/products/file-management",
+      "File Management"
+    ],
+    [
+      "/resources",
+      "Blogs"
+    ],
+    [
+      "/resources",
+      "Resources"
+    ],
+    [
+      "/solutions/bootcamps",
+      "Bootcamps"
+    ],
+    [
+      "/solutions/schools",
+      "Schools"
+    ],
+    [
+      "/solutions/universities",
+      "Universities"
+    ],
+    [
+      "/terms-of-service",
+      "Terms of Service"
+    ]
+  ]
+}
