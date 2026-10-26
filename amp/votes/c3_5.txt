@@ -1,0 +1,1 @@
+Most directory work stops at "submitted" and never checks whether the link sends anyone. Tagging each listing and cutting the ones that send nothing after sixty days turns a list of submissions into a measured channel, and it is the only part of this goal that reports a result.

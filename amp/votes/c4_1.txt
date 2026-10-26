@@ -1,0 +1,1 @@
+A welcome email that asks for setup, a call and an upload in one message gets none of them. One action per email, named in the subject line, is the single change most likely to lift activation, and the check that no email contains two buttons for different jobs is testable.

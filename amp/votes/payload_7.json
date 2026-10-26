@@ -1,0 +1,3 @@
+{
+  "reason": "A benchmark that starts from an installed, signed-in app measures the easy case. A teacher's first session includes download, install, sign-up, workspace join and first channel open, so timing those separately is what makes the benchmark usable for a decision.\n"
+}
