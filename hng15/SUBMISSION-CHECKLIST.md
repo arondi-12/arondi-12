@@ -14,6 +14,7 @@ cd hng15
 - [ ] PR 2 opened: `fix(marketing): make the Compare different plans CTA reach the comparison` → `central-staging`
 - [ ] (Optional) Open the pricing issue first using `pr-bodies/issue-pricing-cta.md`, then link it in PR 2.
 - [ ] Paste both PR URLs into `README.md` (section 1, status column) and into `SUBMISSION.md`.
+- [ ] The script re-authors each commit to your GitHub identity; the diff and message stay the same.
 
 ## 2. Get them merged and deployed
 

@@ -62,6 +62,8 @@ ship() {
   printf '\n=== %s ===\n' "$title"
   git checkout --quiet -B "$branch" FETCH_HEAD
   git am -3 "$PATCHES/$patch"
+  # Keep the message and diff, but make the commit yours.
+  git commit --quiet --amend --no-edit --reset-author
   git push --quiet -u origin "$branch"
 
   gh pr create \
