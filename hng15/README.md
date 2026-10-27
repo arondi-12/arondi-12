@@ -11,7 +11,7 @@ This folder is deliberately organised as evidence, not as a pile of files. Every
 | # | Requirement | What is here | Status |
 |---|---|---|---|
 | 1 | Propose an improvement to how Ziki lets humans and agents interact | [`proposal/ziki-flight-plan.md`](./proposal/ziki-flight-plan.md) — a specific three-artifact proposal (flight plan, tower strip, landing report), with a worked example, lifecycle fit, metrics, risks, rollout, and field schema | **Done** |
-| 2 | Whimsical design for Ziki, Start.ng, or Zedu, implemented on an online service | **Live:** https://raw.githack.com/arondi-12/arondi-12/gh-pages/index.html — an interactive “Ziki Flight Deck” prototype (responsive, keyboard-friendly, reduced-motion aware). Source: [`design/`](./design/) | **Live** |
+| 2 | Whimsical design for Ziki, Start.ng, or Zedu, implemented on an online service | **Live:** https://snappy-reef-7nrq00k.tmp.now — an interactive “Ziki Flight Deck” prototype (responsive, keyboard-friendly, reduced-motion aware). Source: [`design/`](./design/) | **Live on Vercel; claim to keep** |
 | 3 | One major fix into production on Zedu | **Stored XSS in `AppleEmojiText`** (issue [#1058](https://github.com/zeduchat/zedu-fe/issues/1058)): remove `dangerouslySetInnerHTML`, tokenise emoji, escape text. Patch + PR body + before/after proof: [`patches/0001…`](./patches/0001-fix-apple-emoji-stored-xss.patch), [`pr-bodies/…`](./pr-bodies/zedu-major-fix-emoji-xss.md), [`evidence/…`](./evidence/emoji-xss-before-after.md) | **Patch verified; PR + merge pending your GitHub account** |
 | 4 | One marketing fix (product related) live on Zedu | **Broken pricing CTA**: “Compare different plans” resolved to `/pricing/client/...` and returned **404**. Fix makes it `/pricing#compare-plans` with a scroll anchor. Patch + PR body + live 404 proof: [`patches/0002…`](./patches/0002-fix-pricing-compare-cta.patch), [`pr-bodies/…`](./pr-bodies/zedu-marketing-pricing-cta.md), [`evidence/…`](./evidence/pricing-cta.md) | **Patch verified; PR + merge pending your GitHub account** |
 
@@ -21,9 +21,11 @@ This folder is deliberately organised as evidence, not as a pile of files. Every
 
 ## 2. The live design
 
-**URL:** https://raw.githack.com/arondi-12/arondi-12/gh-pages/index.html
+**URL:** https://snappy-reef-7nrq00k.tmp.now
 
-**Single-file build (same page, no relative assets):** https://raw.githack.com/arondi-12/arondi-12/89b6774d01ffd92fb9d04b3a413c2871fa78212d/standalone.html — useful if you want to upload one file to any static host.
+**Claim it now (required to keep it):** https://vercel.com/claim-deployment?code=eaa5363d-308c-4b89-acf7-c5ec62bf5ac3 — free, takes one sign-in. Vercel temporary deployments expire after 60 minutes. If it expires before you claim it, run `cd hng15/design && npx -y vercel@latest deploy --temporary --yes` and claim the new link.
+
+**Single-file build (same page, no relative assets):** https://snappy-reef-7nrq00k.tmp.now/standalone.html — useful if you want to upload one file to any static host.
 
 - Works on phone and desktop; no sign-in; no external fonts or images.
 - The interactive demo lets you clear a flight, add a constraint, land it, read the report, and approve it.
@@ -135,6 +137,9 @@ pnpm exec eslint <changed files>
 ```text
 hng15/
 ├── README.md                              ← this file
+├── SUBMISSION.md                          ← ready-to-paste submission copy
+├── SUBMISSION-CHECKLIST.md                ← what still needs your account
+├── DEPLOY.md                              ← Vercel / Netlify / Pages instructions
 ├── proposal/
 │   └── ziki-flight-plan.md                ← the human–agent interaction proposal
 ├── design/

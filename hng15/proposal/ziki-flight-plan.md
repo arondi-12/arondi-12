@@ -325,5 +325,5 @@ Timestamps for offer accepted, plan published, plan cleared, each checkpoint, de
 
 ---
 
-*Concept and prototype: Ziki Flight Deck, built for the HNG15 individual task. The live prototype is at `https://raw.githack.com/arondi-12/arondi-12/gh-pages/index.html`. The Zedu fixes referenced in the worked example are real, tested patches in this submission.*
+*Concept and prototype: Ziki Flight Deck, built for the HNG15 individual task. The live prototype is at `https://snappy-reef-7nrq00k.tmp.now`. The Zedu fixes referenced in the worked example are real, tested patches in this submission.*
 

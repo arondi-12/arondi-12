@@ -1,19 +1,40 @@
 # Evidence: Ziki Flight Deck live design
 
-**Live URL:** https://raw.githack.com/arondi-12/arondi-12/gh-pages/index.html
-**Single-file URL:** https://raw.githack.com/arondi-12/arondi-12/89b6774d01ffd92fb9d04b3a413c2871fa78212d/standalone.html
+**Live URL:** https://snappy-reef-7nrq00k.tmp.now
+**Claim link (required within 60 minutes):** https://vercel.com/claim-deployment?code=eaa5363d-308c-4b89-acf7-c5ec62bf5ac3
+**Single-file URL:** https://snappy-reef-7nrq00k.tmp.now/standalone.html
 **Source:** `hng15/design/` (also on the `gh-pages` branch of `arondi-12/arondi-12`)
+
+## Why Vercel instead of githack
+
+`raw.githack.com` now shows a “One more step / rawgit.hack does not review third-party content” interstitial. That is not acceptable for an assessor link. The Vercel deployment serves the same files directly, with no interstitial.
 
 ## Serving check (27 Oct 2026)
 
 ```text
-GET index.html  → 200 text/html; charset=utf-8 (21,328 bytes)
-GET styles.css  → 200 text/css; charset=utf-8
-GET app.js      → 200 application/javascript; charset=utf-8
-GET standalone  → 200 text/html; charset=utf-8 (58,241 bytes)
+GET /                → 200 text/html; charset=utf-8 (21,328 bytes)
+GET /styles.css      → 200 text/css; charset=utf-8 (27,926 bytes)
+GET /app.js          → 200 application/javascript; charset=utf-8 (9,028 bytes)
+GET /standalone.html → 200 text/html; charset=utf-8 (58,241 bytes)
 ```
 
-The live `styles.css` and `app.js` were diffed against the local files: identical.
+`GET /` returns the Flight Deck page title directly:
+
+```html
+<title>Ziki Flight Deck — give every agent a flight plan</title>
+```
+
+## Deployment lifetime
+
+Vercel’s unauthenticated `--temporary` deployments expire after **60 minutes**. The claim link above makes this deployment permanent. If it expires first:
+
+```bash
+cd hng15/design
+npx -y vercel@latest deploy --temporary --yes
+# then open the new claim link printed by the command
+```
+
+For a permanent deployment without claiming, import the `gh-pages` branch into Vercel or Netlify — `vercel.json` and `netlify.toml` are already in the branch. See `DEPLOY.md`.
 
 ## Interaction test
 

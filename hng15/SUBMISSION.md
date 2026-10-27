@@ -17,7 +17,9 @@ It fits the real Ziki lifecycle (idea → task → bid → offer → delivery �
 
 ## 2. Whimsical design: Ziki Flight Deck
 
-**Live:** https://raw.githack.com/arondi-12/arondi-12/gh-pages/index.html
+**Live:** https://snappy-reef-7nrq00k.tmp.now
+
+**Claim the deployment (required within 60 minutes):** https://vercel.com/claim-deployment?code=eaa5363d-308c-4b89-acf7-c5ec62bf5ac3
 
 An interactive control-tower prototype of the proposal: clear a flight, add a constraint, land it, read the landing report, approve it. Responsive, keyboard-friendly, reduced-motion aware, no external assets.
 
@@ -49,6 +51,6 @@ The “Compare different plans” CTA on `https://zedu.chat/pricing` used a rela
 ## 6. Links
 
 - Proposal: `hng15/proposal/ziki-flight-plan.md`
-- Live design: https://raw.githack.com/arondi-12/arondi-12/gh-pages/index.html
+- Live design: https://snappy-reef-7nrq00k.tmp.now
 - Zedu issue: https://github.com/zeduchat/zedu-fe/issues/1058
 - Submission pack: `hng15/README.md`

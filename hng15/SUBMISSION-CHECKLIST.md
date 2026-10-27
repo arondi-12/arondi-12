@@ -1,6 +1,6 @@
 # Before you submit — checklist
 
-The work is done; three things need your account.
+The work is done; a few things need your account.
 
 ## 1. Open the PRs
 
@@ -16,15 +16,24 @@ cd hng15
 - [ ] Paste both PR URLs into `README.md` (section 1, status column) and into `SUBMISSION.md`.
 - [ ] The script re-authors each commit to your GitHub identity; the diff and message stay the same.
 
-## 2. Get them merged and deployed
+## 2. Claim the Vercel deployment
 
-- [ ] Ask a maintainer to review. Use the message in §5 below.
+The site is live at **https://snappy-reef-7nrq00k.tmp.now** but Vercel temporary deployments expire after 60 minutes.
+
+- [ ] Open https://vercel.com/claim-deployment?code=eaa5363d-308c-4b89-acf7-c5ec62bf5ac3 and sign in with GitHub.
+- [ ] Confirm the claimed deployment is still live at the URL above.
+- [ ] If it expired, redeploy: `cd hng15/design && npx -y vercel@latest deploy --temporary --yes`, then claim the new link.
+- [ ] Optional: connect the `gh-pages` branch to Vercel/Netlify for a permanent deployment (see `DEPLOY.md`).
+
+## 3. Get the Zedu PRs merged and deployed
+
+- [ ] Ask a maintainer to review. Use the message in §6 below.
 - [ ] Merge into `central-staging`, then promote to `staging`, then `main`.
 - [ ] Confirm the production deploy workflow completed (`.github/workflows/deploy-main.yml`).
 - [ ] Marketing fix live: `https://zedu.chat/pricing` has `href="/pricing#compare-plans"` and the CTA scrolls to the table.
 - [ ] Major fix live: send a reaction with `Hello <img src=x onerror=alert(1)> 🎉` in a test channel. It must render as text and the emoji must still show. Delete the test message.
 
-## 3. Finish the presentation
+## 4. Finish the presentation
 
 - [ ] Enable GitHub Pages (optional, cleaner URL): repo **Settings → Pages → Deploy from branch → `gh-pages` / root**.
 - [ ] Open the live design on a phone once; check the demo buttons and the constraint editor.
@@ -32,13 +41,13 @@ cd hng15
 - [ ] Paste `SUBMISSION.md` into the HNG submission form and replace the two PR placeholders.
 - [ ] Do not claim the fixes are live until the production deploy has finished.
 
-## 4. If a maintainer asks for changes
+## 5. If a maintainer asks for changes
 
 - The patches are ordinary commits; amend them on your fork, not with a force-push to someone else’s branch.
 - Keep the base at `central-staging` unless a maintainer says otherwise.
 - If the XSS issue is already claimed by another contributor, say so and offer the patch as a reference; do not open a duplicate PR.
 
-## 5. Ready-to-send maintainer message
+## 6. Ready-to-send maintainer message
 
 > Hi — I’ve prepared two small, tested fixes against `central-staging`:
 >
