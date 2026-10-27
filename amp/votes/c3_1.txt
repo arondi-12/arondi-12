@@ -1,1 +1,0 @@
-A heading level can be correct while the words are useless. "Features", "Built for Modern Learning" and "Why Zedu" say nothing a search result or a screen reader can use. Checking the wording as well as the level is what turns one H1 per page into an actual improvement.

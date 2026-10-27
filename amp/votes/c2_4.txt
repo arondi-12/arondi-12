@@ -1,1 +1,0 @@
-This is the one angle the accepted templates do not cover: a repeated question is often evidence of a missing label, not a missing answer. Splitting the twenty questions into "a template fixes this" and "the interface should say this" stops the team answering the same confusion forever, and it feeds the product backlog instead of only the inbox.

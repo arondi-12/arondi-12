@@ -1,1 +1,0 @@
-This is the constraint most onboarding sequences ignore: a heavy template with web fonts and large images arrives slowly or not at all on a mobile connection in Nigeria, and a 3am send is read a day late. A plain-text variant and a send window are cheap to produce and measurable in bytes.

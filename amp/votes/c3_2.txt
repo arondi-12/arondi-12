@@ -1,1 +1,0 @@
-Heading order only matters because assistive tech follows it. Dumping the outline as a screen reader user hears it turns an abstract audit into evidence, and it catches the skipped levels and empty headings that a visual check misses.

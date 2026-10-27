@@ -1,3 +1,0 @@
-{
-  "reason": "I checked this myself on 22 Oct 2026: /resources, /policy and /terms-of-service all serve rel=canonical https://zedu.chat, while /pricing, /download and /about correctly point at themselves. The claim and the cause are right. No title or description rewritten on those three pages can pay off until this is fixed, so it belongs before the metadata work.\n"
-}

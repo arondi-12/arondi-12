@@ -1,1 +1,0 @@
-A call that dies and does not come back is the failure educators actually report, and the accepted workstream only covers joining one. Testing ten, thirty and sixty second drops gives a recovery table instead of an average that hides the problem.

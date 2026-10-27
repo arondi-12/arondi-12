@@ -1,1 +1,0 @@
-The goal is one register of every quantitative claim with its evidence and a supported or unsupported verdict. This is that register, with a check date per figure so it can be re-run instead of going stale after the first pass.

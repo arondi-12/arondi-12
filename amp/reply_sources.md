@@ -1,8 +1,0 @@
-Thanks — the point about evidence links is fair, so here they are in one place, all re-fetched on 22 Oct 2026:
-
-- Plan limits and the full feature comparison table (1 workspace, 3 cohorts, up to 5 teachers/admins, "limited" students; voice/video, screen sharing, recordings and shared resources blank for Starter and present from Pro): https://zedu.chat/pricing
-- Channels, threaded replies and announcements: https://zedu.chat/products/channels
-- File sharing and access wording ("share files securely, control all access"): https://zedu.chat/products/file-management
-- University dates: I did not re-derive these; I used the approved calendar delivery on this campaign, which cites the official UNILORIN 2026/27 PDF for the 1-26 Feb 2027 Harmattan exams and the 25-29 Jan 2027 lecture-free week, and marks the 2026/27 dates as unpublished for LASU, ABUAD and Nile. I say so in §2 rather than implying I checked each university myself.
-
-The two items I deliberately left as unknowns are the exact student cap on free (the page only says "Limited") and whether pinning works on free; both are in the confirmation list in §8 rather than guessed at.

@@ -1,1 +1,0 @@
-A near-miss instruction is what creates the next ticket, and it makes the whole template set look untested. Copying labels verbatim from the live app, with the starting screen named, is the cheapest quality bar here, and the list of recently changed labels is the useful by-product.
