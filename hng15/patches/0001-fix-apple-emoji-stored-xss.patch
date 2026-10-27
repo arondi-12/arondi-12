@@ -1,0 +1,133 @@
+From 6a37b6509ea3bdb5bf47a2119931fb4fcac1f315 Mon Sep 17 00:00:00 2001
+From: Cline <cline@users.noreply.github.com>
+Date: Tue, 27 Oct 2026 11:21:20 +0000
+Subject: [PATCH] fix(security): render Apple emoji without raw HTML injection
+
+AppleEmojiText interpolated user-controlled reaction text into dangerouslySetInnerHTML whenever the text contained an emoji, so a reaction such as Hello <img src=x onerror=alert(1)> with an emoji executed script in every viewer browser (stored XSS).
+
+Add a tokenizer that returns text and emoji tokens, escape emoji image attributes, and render tokens as React nodes so text is escaped by React. Closes #1058.
+---
+ .../apple-emoji/apple-emoji-text.tsx          | 35 ++++++++++--
+ src/lib/apple-emoji.ts                        | 56 ++++++++++++++++++-
+ 2 files changed, 85 insertions(+), 6 deletions(-)
+
+diff --git a/src/app/(client)/[org]/_components/apple-emoji/apple-emoji-text.tsx b/src/app/(client)/[org]/_components/apple-emoji/apple-emoji-text.tsx
+index c59dcf0..c70907e 100644
+--- a/src/app/(client)/[org]/_components/apple-emoji/apple-emoji-text.tsx
++++ b/src/app/(client)/[org]/_components/apple-emoji/apple-emoji-text.tsx
+@@ -1,12 +1,37 @@
+ "use client";
+ 
+-import { replaceEmojiWithImages } from "~/lib/apple-emoji";
++import { Fragment } from "react";
++import { tokenizeAppleEmoji } from "~/lib/apple-emoji";
+ 
+ export function AppleEmojiText({ text }: { text?: string | null }) {
+-  const value = text || "";
+-  const html = replaceEmojiWithImages(value);
++  const value = text ?? "";
++  const tokens = tokenizeAppleEmoji(value);
+ 
+-  if (html === value) return <>{value}</>;
++  if (
++    tokens.length === 0 ||
++    (tokens.length === 1 && tokens[0].type === "text")
++  ) {
++    return <>{value}</>;
++  }
+ 
+-  return <span dangerouslySetInnerHTML={{ __html: html }} />;
++  return (
++    <span>
++      {tokens.map((token, index) => {
++        if (token.type === "text") {
++          return <Fragment key={`text-${index}`}>{token.value}</Fragment>;
++        }
++
++        return (
++          // eslint-disable-next-line @next/next/no-img-element
++          <img
++            key={`emoji-${index}`}
++            className="apple-emoji-img"
++            src={token.src}
++            alt={token.emoji}
++            draggable={false}
++          />
++        );
++      })}
++    </span>
++  );
+ }
+diff --git a/src/lib/apple-emoji.ts b/src/lib/apple-emoji.ts
+index 7d2b115..55cf68e 100644
+--- a/src/lib/apple-emoji.ts
++++ b/src/lib/apple-emoji.ts
+@@ -30,10 +30,64 @@ export function lookupAppleEmoji(emoji: string) {
+   );
+ }
+ 
++export type AppleEmojiToken =
++  | { type: "text"; value: string }
++  | { type: "emoji"; emoji: string; src: string };
++
++const escapeHtmlAttribute = (value: string) =>
++  value
++    .replace(/&/g, "&amp;")
++    .replace(/"/g, "&quot;")
++    .replace(/</g, "&lt;")
++    .replace(/>/g, "&gt;");
++
+ function emojiImageTag(emoji: string, unified: string) {
+   const src = appleEmojiImageUrl(unified);
+   if (!src) return emoji;
+-  return `<img class="apple-emoji-img" alt="${emoji}" src="${src}" draggable="false" />`;
++  return `<img class="apple-emoji-img" alt="${escapeHtmlAttribute(
++    emoji
++  )}" src="${escapeHtmlAttribute(src)}" draggable="false" />`;
++}
++
++/**
++ * Split text into literal text and Apple emoji image tokens.
++ *
++ * Unlike `replaceEmojiWithImages`, this never returns HTML. Callers render the
++ * tokens as React nodes, so message text is escaped by React rather than
++ * injected into the DOM.
++ */
++export function tokenizeAppleEmoji(value: string): AppleEmojiToken[] {
++  if (!value) return [];
++
++  const tokens: AppleEmojiToken[] = [];
++  let cursor = 0;
++
++  EMOJI_PATTERN.lastIndex = 0;
++  let match: RegExpExecArray | null;
++
++  while ((match = EMOJI_PATTERN.exec(value)) !== null) {
++    const emoji = match[0];
++    if (!emoji) continue;
++
++    const unified = lookupAppleEmoji(emoji);
++    if (!unified) continue;
++
++    const src = appleEmojiImageUrl(unified);
++    if (!src) continue;
++
++    if (match.index > cursor) {
++      tokens.push({ type: "text", value: value.slice(cursor, match.index) });
++    }
++
++    tokens.push({ type: "emoji", emoji, src });
++    cursor = match.index + emoji.length;
++  }
++
++  if (cursor < value.length) {
++    tokens.push({ type: "text", value: value.slice(cursor) });
++  }
++
++  return tokens;
+ }
+ 
+ export function replaceEmojiWithImages(value: string) {
+-- 
+2.39.5
+

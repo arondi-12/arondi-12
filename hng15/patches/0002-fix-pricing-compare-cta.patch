@@ -1,0 +1,46 @@
+From 858cc46b0288080db58ee141c80e4aa77d038db3 Mon Sep 17 00:00:00 2001
+From: Cline <cline@users.noreply.github.com>
+Date: Tue, 27 Oct 2026 11:21:43 +0000
+Subject: [PATCH] fix(marketing): point compare-plans CTA at the pricing
+ comparison
+
+The pricing section rendered a relative href (client/settings/organisation/billing/all-plans), which resolved to /pricing/client/... and returned 404 from the public pricing page.
+
+Link to /pricing#compare-plans instead and give the comparison table a scroll-mt anchor, so the CTA works on both the homepage and pricing page.
+---
+ src/app/(homepage)/_components/home/PricingSection.tsx | 2 +-
+ src/app/(homepage)/pricing/page.tsx                    | 5 ++++-
+ 2 files changed, 5 insertions(+), 2 deletions(-)
+
+diff --git a/src/app/(homepage)/_components/home/PricingSection.tsx b/src/app/(homepage)/_components/home/PricingSection.tsx
+index 807e4cc..8db29a7 100644
+--- a/src/app/(homepage)/_components/home/PricingSection.tsx
++++ b/src/app/(homepage)/_components/home/PricingSection.tsx
+@@ -88,7 +88,7 @@ export const PricingSection = ({
+         size.
+       </h1>
+       <Link
+-        href={"client/settings/organisation/billing/all-plans"}
++        href={"/pricing#compare-plans"}
+         className="group flex items-center gap-2 font-semibold text-primary-500"
+       >
+         Compare different plans
+diff --git a/src/app/(homepage)/pricing/page.tsx b/src/app/(homepage)/pricing/page.tsx
+index 83ada65..5e414a5 100644
+--- a/src/app/(homepage)/pricing/page.tsx
++++ b/src/app/(homepage)/pricing/page.tsx
+@@ -65,7 +65,10 @@ const PricingPage = () => {
+     <div className="space-y-10">
+       <PricingSection showSubtitle />
+ 
+-      <div className="mx-auto w-full max-w-7xl px-4 sm:px-8 lg:px-12 space-y-6 relative">
++      <div
++        id="compare-plans"
++        className="mx-auto w-full max-w-7xl px-4 sm:px-8 lg:px-12 space-y-6 relative scroll-mt-24"
++      >
+         <div className="no-scrollbar">
+           <Table className="min-w-[680px] table-fixed sm:min-w-[760px] no-scrollbar">
+             <colgroup>
+-- 
+2.39.5
+
