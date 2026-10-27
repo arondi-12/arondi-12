@@ -12,6 +12,7 @@ cd hng15
 
 - [ ] PR 1 opened: `fix(security): render Apple emoji without raw HTML injection` → `central-staging`
 - [ ] PR 2 opened: `fix(marketing): make the Compare different plans CTA reach the comparison` → `central-staging`
+- [ ] (Optional) Open the pricing issue first using `pr-bodies/issue-pricing-cta.md`, then link it in PR 2.
 - [ ] Paste both PR URLs into `README.md` (section 1, status column) and into `SUBMISSION.md`.
 
 ## 2. Get them merged and deployed

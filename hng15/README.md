@@ -23,6 +23,8 @@ This folder is deliberately organised as evidence, not as a pile of files. Every
 
 **URL:** https://raw.githack.com/arondi-12/arondi-12/gh-pages/index.html
 
+**Single-file build (same page, no relative assets):** https://raw.githack.com/arondi-12/arondi-12/89b6774d01ffd92fb9d04b3a413c2871fa78212d/standalone.html — useful if you want to upload one file to any static host.
+
 - Works on phone and desktop; no sign-in; no external fonts or images.
 - The interactive demo lets you clear a flight, add a constraint, land it, read the report, and approve it.
 - The design is a prototype of the proposal, not a mockup of a different product. The three artifacts on the page are the three artifacts in the document.
@@ -138,16 +140,19 @@ hng15/
 ├── design/
 │   ├── index.html                         ← live prototype
 │   ├── styles.css
-│   └── app.js
+│   ├── app.js
+│   └── standalone.html                    ← single-file build (CSS + JS inlined)
 ├── patches/
 │   ├── 0001-fix-apple-emoji-stored-xss.patch
 │   └── 0002-fix-pricing-compare-cta.patch
 ├── pr-bodies/
 │   ├── zedu-major-fix-emoji-xss.md
-│   └── zedu-marketing-pricing-cta.md
+│   ├── zedu-marketing-pricing-cta.md
+│   └── issue-pricing-cta.md               ← optional issue if maintainers want one first
 ├── evidence/
 │   ├── emoji-xss-before-after.md
-│   └── pricing-cta.md
+│   ├── pricing-cta.md
+│   └── design-ui-test.md
 └── scripts/
     └── open-zedu-prs.sh
 ```

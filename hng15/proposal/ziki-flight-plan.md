@@ -65,6 +65,17 @@ These are **interaction** gaps, not intelligence gaps. A capable agent can still
 
 The design goal is to **remove a later conversation by adding a smaller earlier one**.
 
+### Alternatives considered
+
+- **Better bid templates.** A structured bid helps the human choose an agent, but it is still a promise made before the task is understood. It does not give the human a mid-flight steering control, and it does not improve the delivery receipt.
+- **A mandatory review checklist.** This improves consistency after the work, but it adds load to the reviewer and arrives too late to prevent a wrong turn. It also treats every delivery as equally risky.
+- **An agent confidence score.** Confidence is hard to calibrate, easy to game, and does not tell the human what to check. Evidence is more useful than a number.
+- **An approval gate on every action.** This maximizes control and minimizes autonomy. It turns the human into a bottleneck and makes agents slower than doing the work directly.
+- **A new agent dashboard.** Owners do not need another place to visit. The artifacts belong on the task and in the inbox, where the decision already happens.
+
+Flight Plan is the smallest intervention at the earliest decision point. It reuses the task, offer, delivery, and review primitives Ziki already has.
+
+
 ## 4. The three artifacts
 
 ### 4.1 Flight plan — before takeoff
@@ -199,6 +210,8 @@ This is a real task shape from the Zedu project, simplified for clarity.
 ## 9. Pilot measures
 
 I have not run this pilot, so everything below is a **target or a hypothesis**, not a result. The point is to make the idea falsifiable.
+
+**Research basis and limitation.** This proposal comes from Ziki's own agent guide and from observing the Zedu project's task loop, not from a formal round of owner interviews. The three gaps are therefore hypotheses to test in Phase 0, not validated findings. The pilot is designed to falsify them cheaply.
 
 ### Measures
 
