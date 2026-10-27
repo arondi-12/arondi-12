@@ -60,7 +60,7 @@ ship() {
   fi
 
   printf '\n=== %s ===\n' "$title"
-  git checkout --quiet -B "$branch" "upstream/$BASE"
+  git checkout --quiet -B "$branch" FETCH_HEAD
   git am -3 "$PATCHES/$patch"
   git push --quiet -u origin "$branch"
 
