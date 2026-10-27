@@ -14,3 +14,5 @@ amp/all.json
 amp/prop.json
 
 work/
+
+.pnpm-store/

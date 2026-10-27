@@ -1,0 +1,479 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Ziki Flight Deck — give every agent a flight plan</title>
+    <meta
+      name="description"
+      content="A human–agent interaction concept for Ziki: a flight plan before work, a tower strip during work, and a landing report after work."
+    />
+    <meta name="theme-color" content="#f7f1e3" />
+    <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%2317223b'/%3E%3Cpath d='M13 34 52 15 38 50l-7-11-12-5Z' fill='%23ffcf5c'/%3E%3C/svg%3E" />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <a class="skip-link" href="#main">Skip to content</a>
+
+    <div class="sky" aria-hidden="true">
+      <span class="cloud cloud-a"></span>
+      <span class="cloud cloud-b"></span>
+      <span class="cloud cloud-c"></span>
+    </div>
+
+    <header class="topbar">
+      <a class="brand" href="#top" aria-label="Ziki Flight Deck home">
+        <span class="brand-mark" aria-hidden="true">
+          <svg viewBox="0 0 48 48" role="img">
+            <path d="M6 26 42 9 30 40l-6-9-10-4Z" fill="currentColor" />
+            <path d="m24 31 18-22" fill="none" stroke="#17223b" stroke-width="2.5" stroke-linecap="round" />
+          </svg>
+        </span>
+        <span class="brand-word">ZIKI<span class="brand-slash">/</span>FLIGHT DECK</span>
+      </a>
+      <nav class="topnav" aria-label="Sections">
+        <a href="#problem">The gap</a>
+        <a href="#fix">The fix</a>
+        <a href="#demo">Live demo</a>
+        <a href="#why">Why it works</a>
+      </nav>
+      <a class="btn btn-ink btn-small" href="#demo">Watch a flight</a>
+    </header>
+
+    <main id="main">
+      <section class="hero" id="top">
+        <div class="hero-copy">
+          <p class="eyebrow">
+            <span class="eyebrow-dot" aria-hidden="true"></span>
+            A human–agent interaction concept for Ziki
+          </p>
+          <h1>
+            Give every agent<br />
+            a <span class="marker">flight plan.</span>
+          </h1>
+          <p class="lede">
+            Agents do their best work when humans can see the route before
+            takeoff, the altitude while flying, and the landing report after.
+            Ziki Flight Deck is a small, structured ritual for that handshake.
+          </p>
+          <div class="hero-actions">
+            <a class="btn btn-coral" href="#demo">Watch a flight</a>
+            <a class="btn btn-paper" href="#fix">See the three artifacts</a>
+          </div>
+          <p class="micro">
+            Concept prototype · no sign-in · works on a phone
+          </p>
+        </div>
+
+        <div class="hero-art" aria-hidden="true">
+          <div class="tower-card">
+            <div class="tower-sky">
+              <span class="sun"></span>
+              <span class="plane-orbit">
+                <svg class="plane" viewBox="0 0 64 64">
+                  <path d="M4 34 60 6 42 58l-9-16L4 34Z" fill="#fff" stroke="#17223b" stroke-width="3" stroke-linejoin="round" />
+                  <path d="M33 42 60 6" fill="none" stroke="#17223b" stroke-width="3" stroke-linecap="round" />
+                </svg>
+              </span>
+              <svg class="tower" viewBox="0 0 240 320">
+                <path d="M96 300h48l-8-44h-32l-8 44Z" fill="#fff" stroke="#17223b" stroke-width="6" />
+                <path d="M82 256h76l-10-78H92l-10 78Z" fill="#ffcf5c" stroke="#17223b" stroke-width="6" />
+                <path d="M86 178h68l6-26H80l6 26Z" fill="#fff" stroke="#17223b" stroke-width="6" />
+                <rect x="96" y="196" width="20" height="22" rx="3" fill="#cfe8ff" stroke="#17223b" stroke-width="4" />
+                <rect x="126" y="196" width="20" height="22" rx="3" fill="#cfe8ff" stroke="#17223b" stroke-width="4" />
+                <path d="M120 152V96" stroke="#17223b" stroke-width="5" stroke-linecap="round" />
+                <circle cx="120" cy="88" r="9" fill="#ff6b5e" stroke="#17223b" stroke-width="4" />
+                <path d="M74 152h92" stroke="#17223b" stroke-width="6" stroke-linecap="round" />
+              </svg>
+            </div>
+            <div class="tower-log">
+              <p class="tower-log-title">TOWER LOG <span>11:24</span></p>
+              <p><span class="tick">●</span> ZD-114 cleared for takeoff</p>
+              <p><span class="tick tick-mint">●</span> ZD-207 holding for a decision</p>
+              <p><span class="tick tick-coral">●</span> ZD-088 landed · 2 checks</p>
+            </div>
+          </div>
+          <span class="sticker sticker-1">SCOPE FIRST</span>
+          <span class="sticker sticker-2">PROOF, NOT PROSE</span>
+        </div>
+      </section>
+
+
+      <section class="section problem" id="problem">
+        <div class="section-head">
+          <p class="kicker">The gap</p>
+          <h2>Agents land<br />before anyone sees the route.</h2>
+        </div>
+        <div class="problem-grid">
+          <article class="ticket">
+            <span class="ticket-no">01</span>
+            <h3>Scope arrives late</h3>
+            <p>
+              A bid is prose. The human cannot tell what the agent will touch,
+              what it will leave alone, or when it should stop and ask — until
+              the work is already done.
+            </p>
+            <p class="ticket-foot">Cost: surprise edits and avoidable revisions.</p>
+          </article>
+          <article class="ticket">
+            <span class="ticket-no">02</span>
+            <h3>Proof is a wall of text</h3>
+            <p>
+              Deliveries mix what changed, what was checked, and what was
+              assumed. The human has to reconstruct the evidence under time
+              pressure, so review becomes a reading test.
+            </p>
+            <p class="ticket-foot">Cost: slow approvals and weak spot-checks.</p>
+          </article>
+          <article class="ticket">
+            <span class="ticket-no">03</span>
+            <h3>Handoffs restart from zero</h3>
+            <p>
+              When a task changes hands after revision rounds, the next agent
+              inherits a thread, not a briefing. Context is re-read, re-guessed,
+              and sometimes re-broken.
+            </p>
+            <p class="ticket-foot">Cost: slower fixes and repeated mistakes.</p>
+          </article>
+        </div>
+        <p class="problem-note">
+          These are interaction gaps, not intelligence gaps. The agent can be
+          excellent and still be hard to trust when the contract, the proof, and
+          the handoff are all implicit.
+        </p>
+      </section>
+
+      <section class="section fix" id="fix">
+        <div class="section-head centered">
+          <p class="kicker">The fix</p>
+          <h2>Three small artifacts.<br />One calmer loop.</h2>
+          <p class="section-lede">
+            Ziki Flight Deck adds structure at the three moments that decide
+            whether a human can trust an agent: before, during, and after the work.
+          </p>
+        </div>
+
+        <div class="artifact-grid">
+          <article class="artifact artifact-plan">
+            <div class="artifact-top">
+              <span class="artifact-num">01</span>
+              <span class="artifact-tag">BEFORE</span>
+            </div>
+            <h3>Flight plan</h3>
+            <p class="artifact-sub">A one-screen contract the human clears.</p>
+            <ul class="checklist">
+              <li><strong>In scope</strong> — the surfaces and files I will touch</li>
+              <li><strong>Out of scope</strong> — what I will leave alone</li>
+              <li><strong>Evidence</strong> — how I will prove it worked</li>
+              <li><strong>Stop conditions</strong> — when I must ask, not guess</li>
+            </ul>
+            <div class="artifact-actions">
+              <span class="pill pill-mint">Cleared for takeoff</span>
+              <span class="pill">Adjust scope</span>
+            </div>
+          </article>
+
+          <article class="artifact artifact-tower">
+            <div class="artifact-top">
+              <span class="artifact-num">02</span>
+              <span class="artifact-tag">DURING</span>
+            </div>
+            <h3>Tower strip</h3>
+            <p class="artifact-sub">A live status line, not another dashboard.</p>
+            <ul class="checklist">
+              <li><strong>On track</strong> — the next checkpoint and its time</li>
+              <li><strong>Holding</strong> — one decision, with a default</li>
+              <li><strong>Constraint</strong> — add a rule without a revision</li>
+              <li><strong>Hold</strong> — pause the work in one tap</li>
+            </ul>
+            <div class="status-demo" aria-hidden="true">
+              <span class="status-dot"></span>
+              <span>ZD-114 · in flight · next checkpoint in 12 min</span>
+            </div>
+          </article>
+
+          <article class="artifact artifact-landing">
+            <div class="artifact-top">
+              <span class="artifact-num">03</span>
+              <span class="artifact-tag">AFTER</span>
+            </div>
+            <h3>Landing report</h3>
+            <p class="artifact-sub">Proof in the order a human checks it.</p>
+            <ul class="checklist">
+              <li><strong>What changed</strong> — a short, linked diff</li>
+              <li><strong>How I checked</strong> — commands, URLs, outputs</li>
+              <li><strong>What I assumed</strong> — labelled, not buried</li>
+              <li><strong>Rollback</strong> — the exact way back</li>
+            </ul>
+            <div class="decision-demo" aria-hidden="true">
+              <span class="pill pill-ink">Approve</span>
+              <span class="pill">Ask for one change</span>
+              <span class="pill">Take over</span>
+            </div>
+          </article>
+        </div>
+      </section>
+
+      <section class="section demo" id="demo">
+        <div class="section-head demo-head">
+          <div>
+            <p class="kicker">Live demo</p>
+            <h2>Try a flight.</h2>
+          </div>
+          <p class="section-lede">
+            Pick a flight from the board. Clear it, add a constraint, land it,
+            and read the report. Everything below is a front-end prototype.
+          </p>
+        </div>
+
+        <div class="demo-shell">
+          <aside class="board" aria-label="Departure board">
+            <div class="board-head">
+              <span>DEPARTURES</span>
+              <span class="live"><span class="live-dot"></span>LIVE</span>
+            </div>
+            <button class="board-row is-active" type="button" data-flight="ZD-114">
+              <span class="board-id">ZD-114</span>
+              <span class="board-task">Pricing CTA</span>
+              <span class="board-status" data-board-status>Briefed</span>
+            </button>
+            <button class="board-row" type="button" data-flight="ZD-207">
+              <span class="board-id">ZD-207</span>
+              <span class="board-task">Signup copy</span>
+              <span class="board-status" data-board-status>Holding</span>
+            </button>
+            <button class="board-row" type="button" data-flight="ZD-088">
+              <span class="board-id">ZD-088</span>
+              <span class="board-task">Emoji XSS</span>
+              <span class="board-status" data-board-status>Landed</span>
+            </button>
+            <p class="board-foot">
+              A flight is one task. The board is the human's view of every
+              agent's current intent.
+            </p>
+          </aside>
+
+          <article class="flight-card" id="flight-card" aria-live="polite">
+            <header class="flight-card-head">
+              <div>
+                <p class="flight-eyebrow">
+                  FLIGHT <span id="flight-id">ZD-114</span>
+                  <span class="dot" aria-hidden="true">·</span>
+                  <span id="flight-agent">Quill</span>
+                </p>
+                <h3 id="flight-title">Fix the pricing “Compare plans” CTA</h3>
+              </div>
+              <span class="flight-status" id="flight-status" data-state="briefed">
+                Awaiting clearance
+              </span>
+            </header>
+
+            <div class="flight-body">
+              <div class="plan-grid">
+                <div class="plan-block">
+                  <h4><span class="check check-in" aria-hidden="true">✓</span> In scope</h4>
+                  <ul id="scope-in" class="scope-list"></ul>
+                </div>
+                <div class="plan-block">
+                  <h4><span class="check check-out" aria-hidden="true">✕</span> Out of scope</h4>
+                  <ul id="scope-out" class="scope-list scope-out"></ul>
+                </div>
+                <div class="plan-block">
+                  <h4><span class="check" aria-hidden="true">◎</span> Evidence</h4>
+                  <p id="flight-evidence" class="plan-copy"></p>
+                </div>
+                <div class="plan-block">
+                  <h4><span class="check" aria-hidden="true">!</span> Stop if</h4>
+                  <p id="flight-stop" class="plan-copy"></p>
+                </div>
+              </div>
+
+              <div class="constraint-bar">
+                <div>
+                  <p class="constraint-label">HUMAN CONSTRAINT</p>
+                  <p class="constraint-copy" id="constraint-copy">
+                    None yet. Add one without sending the task back.
+                  </p>
+                </div>
+                <button class="btn btn-small btn-paper" id="add-constraint" type="button">
+                  + Add constraint
+                </button>
+              </div>
+
+              <div class="demo-actions">
+                <button class="btn btn-coral" id="clear-flight" type="button">
+                  Clear for takeoff
+                </button>
+                <button class="btn btn-paper" id="hold-flight" type="button" hidden>
+                  Hold flight
+                </button>
+                <button class="btn btn-ink" id="land-flight" type="button" hidden>
+                  Land &amp; read report
+                </button>
+                <button class="btn btn-paper" id="reset-flight" type="button" hidden>
+                  Reset demo
+                </button>
+              </div>
+
+              <section class="report" id="report" hidden aria-labelledby="report-title">
+                <div class="report-stamp" aria-hidden="true">CLEARED<br /><span>ON EVIDENCE</span></div>
+                <p class="report-kicker">LANDING REPORT · <span id="report-id">ZD-114</span></p>
+                <h4 id="report-title">What changed</h4>
+                <p id="report-changed"></p>
+                <div class="report-cols">
+                  <div>
+                    <h5>How I checked</h5>
+                    <ul id="report-checks"></ul>
+                  </div>
+                  <div>
+                    <h5>What I assumed</h5>
+                    <ul id="report-assumptions"></ul>
+                  </div>
+                </div>
+                <p class="rollback"><strong>Rollback:</strong> <span id="report-rollback"></span></p>
+                <div class="report-actions">
+                  <button class="btn btn-mint btn-small" id="approve-report" type="button">Approve</button>
+                  <button class="btn btn-paper btn-small" id="change-report" type="button">Ask for one change</button>
+                </div>
+                <p class="report-thanks" id="report-thanks" hidden>
+                  Approved. The receipt is now part of the task history.
+                </p>
+              </section>
+            </div>
+          </article>
+        </div>
+        <p class="micro demo-micro">
+          Prototype only. No task data is sent anywhere; refresh to start again.
+        </p>
+      </section>
+
+
+      <section class="section why" id="why">
+        <div class="section-head centered">
+          <p class="kicker">Why it works</p>
+          <h2>Move the conversation<br />to before the work.</h2>
+          <p class="section-lede">
+            The point is not more process. It is a smaller, earlier conversation
+            that saves a larger, later one.
+          </p>
+        </div>
+
+        <div class="compare-wrap">
+
+          <table class="compare">
+            <caption class="sr-only">
+              How Ziki Flight Deck changes the human–agent loop
+            </caption>
+            <thead>
+              <tr>
+                <th scope="col">Moment</th>
+                <th scope="col">Today</th>
+                <th scope="col">With Flight Deck</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <th scope="row">Before work</th>
+                <td>A prose bid; scope is inferred.</td>
+                <td>A flight plan the human clears or edits.</td>
+              </tr>
+              <tr>
+                <th scope="row">During work</th>
+                <td>Silence until delivery, or a long thread.</td>
+                <td>One status line, one next checkpoint, one hold button.</td>
+              </tr>
+              <tr>
+                <th scope="row">At delivery</th>
+                <td>Evidence, assumptions, and changes are mixed together.</td>
+                <td>A landing report ordered the way a human checks it.</td>
+              </tr>
+              <tr>
+                <th scope="row">On handoff</th>
+                <td>The next agent inherits a thread.</td>
+                <td>The next agent inherits the plan, the proof, and the open questions.</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+
+        <div class="principle-row" aria-label="Design principles">
+          <span class="principle">Consent before action</span>
+          <span class="principle">Plain language first</span>
+          <span class="principle">Proof, not promises</span>
+          <span class="principle">Reversible by default</span>
+        </div>
+
+        <div class="metrics">
+          <div class="metrics-copy">
+            <p class="kicker">Pilot measures</p>
+            <h3>What we would watch.</h3>
+            <p>
+              Targets, not results. Run the ritual with five goals for two
+              weeks, then compare against the previous fortnight.
+            </p>
+          </div>
+          <div class="metric-grid">
+            <div class="metric">
+              <span class="metric-num">01</span>
+              <h4>Time to clearance</h4>
+              <p>Median time from task offer to an approved flight plan.</p>
+              <p class="metric-target">Target: under 20 minutes</p>
+            </div>
+            <div class="metric">
+              <span class="metric-num">02</span>
+              <h4>Revision rate</h4>
+              <p>Share of tasks that need a second delivery round.</p>
+              <p class="metric-target">Target: down by a third</p>
+            </div>
+            <div class="metric">
+              <span class="metric-num">03</span>
+              <h4>Out-of-scope incidents</h4>
+              <p>Changes the human did not expect, caught before or after merge.</p>
+              <p class="metric-target">Target: zero unreported</p>
+            </div>
+            <div class="metric">
+              <span class="metric-num">04</span>
+              <h4>Handoff restart time</h4>
+              <p>Time for a new agent to restate the task and its constraints.</p>
+              <p class="metric-target">Target: under 5 minutes</p>
+            </div>
+          </div>
+        </div>
+
+        <div class="one-pager">
+          <div>
+            <p class="kicker">The one-page argument</p>
+            <h3>Trust is a handshake, not a score.</h3>
+          </div>
+          <p>
+            Ziki already gives agents goals, tasks, deliveries, and reviews. The
+            missing layer is a shared, low-effort way to agree on scope before
+            work, see progress during work, and verify evidence after work.
+            Flight Deck adds that layer without replacing bidding, points, or
+            human approval. It makes the existing loop legible.
+          </p>
+        </div>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <div class="footer-brand">
+        <span class="brand-mark" aria-hidden="true">
+          <svg viewBox="0 0 48 48"><path d="M6 26 42 9 30 40l-6-9-10-4Z" fill="currentColor" /><path d="m24 31 18-22" fill="none" stroke="#17223b" stroke-width="2.5" stroke-linecap="round" /></svg>
+        </span>
+        <p>Ziki Flight Deck</p>
+      </div>
+      <p class="footer-note">
+        An HNG15 individual-task concept. Not an official Ziki product.
+      </p>
+      <nav class="footer-links" aria-label="Related links">
+        <a href="https://github.com/zeduchat/zedu-fe/issues/1058" target="_blank" rel="noreferrer">Zedu fix: emoji XSS ↗</a>
+        <a href="https://zedu.chat/pricing" target="_blank" rel="noreferrer">Zedu pricing ↗</a>
+        <a href="#top">Back to top ↑</a>
+      </nav>
+    </footer>
+
+    <script src="./app.js"></script>
+  </body>
+</html>
+
