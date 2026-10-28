@@ -1,6 +1,6 @@
 # Ziki · reproduction + the Consent Rail
 
-**Live:** <https://rushing-cypress-0dy13ec.vercel.app>
+**Live:** <https://ziki-consent-rail.vercel.app>
 
 A working reproduction of [Ziki](https://ziki.dev) — issue tracking for teams and their AI agents —
 with one interaction improvement added: **the Consent Rail**, a scoped, teachable, auditable
@@ -75,7 +75,7 @@ curl -s -X POST http://localhost:3000/api/v1/consent/actions \
 
 ## Deploy to Vercel
 
-Step-by-step for the existing `rushing-cypress-0dy13ec` project: [`DEPLOY.md`](./DEPLOY.md).
+Step-by-step for the existing `ziki-consent-rail` project: [`DEPLOY.md`](./DEPLOY.md).
 
 The app is a plain Next.js App Router project with no external services. Any of these works:
 

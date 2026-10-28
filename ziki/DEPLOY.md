@@ -1,6 +1,6 @@
 # Deploying this build to Vercel
 
-**Live:** <https://rushing-cypress-0dy13ec.vercel.app> (team `arondi`, project `rushing-cypress-0dy13ec`).
+**Live:** <https://ziki-consent-rail.vercel.app> (team `arondi`, project `ziki-consent-rail`).
 
 Deployment protection (SSO) is off and the clean `<project>.vercel.app` domain is attached, so the URL
 is public. To ship a new build, either connect the repo (Path A) or run the CLI commands (Path B).
@@ -13,7 +13,7 @@ No environment variables are required, and there is no database or OAuth app to 
 
 Do this once; every later push redeploys automatically.
 
-1. Open <https://vercel.com/arondi/rushing-cypress-0dy13ec/settings/git>
+1. Open <https://vercel.com/arondi/ziki-consent-rail/settings/git>
 2. **Connect Git Repository** → GitHub → pick this repository.
 3. Set:
    - **Production branch:** `cline/dy690pnj` (or `main` after merging)
@@ -23,7 +23,7 @@ Do this once; every later push redeploys automatically.
    - **Node.js version:** 22.x (20 or 24 also fine)
 4. **Deploy** (or Deployments → ⋯ → Redeploy).
 
-Result: `https://rushing-cypress-0dy13ec.vercel.app` goes live and stays live.
+Result: `https://ziki-consent-rail.vercel.app` goes live and stays live.
 
 ## Path B — deploy from the CLI with a token
 
@@ -34,11 +34,11 @@ Only needed if you do not want to connect the repo.
 
 ```bash
 cd ziki
-npx vercel link --project rushing-cypress-0dy13ec --scope arondi --token "$VERCEL_TOKEN"
+npx vercel link --project ziki-consent-rail --scope arondi --token "$VERCEL_TOKEN"
 npx vercel deploy --prod --token "$VERCEL_TOKEN"
 ```
 
-If `link` asks questions, answer: *link to an existing project* → `rushing-cypress-0dy13ec`.
+If `link` asks questions, answer: *link to an existing project* → `ziki-consent-rail`.
 Revoke the token at the same page once the deployment is done.
 
 ## Path C — a throwaway preview with no account at all
