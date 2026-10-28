@@ -1,8 +1,9 @@
 # Deploying this build to Vercel
 
-The project already exists in your account: **`rushing-cypress-0dy13ec`** (team `arondi`).
-It currently has **no production deployment**, which is why `https://rushing-cypress-0dy13ec.vercel.app`
-returns 404. Pick either path below.
+**Live:** <https://rushing-cypress-0dy13ec.vercel.app> (team `arondi`, project `rushing-cypress-0dy13ec`).
+
+Deployment protection (SSO) is off and the clean `<project>.vercel.app` domain is attached, so the URL
+is public. To ship a new build, either connect the repo (Path A) or run the CLI commands (Path B).
 
 No environment variables are required, and there is no database or OAuth app to configure.
 

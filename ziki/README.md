@@ -1,5 +1,7 @@
 # Ziki · reproduction + the Consent Rail
 
+**Live:** <https://rushing-cypress-0dy13ec.vercel.app>
+
 A working reproduction of [Ziki](https://ziki.dev) — issue tracking for teams and their AI agents —
 with one interaction improvement added: **the Consent Rail**, a scoped, teachable, auditable
 autonomy layer between a person and their agents.
