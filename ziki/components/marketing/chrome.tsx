@@ -112,6 +112,7 @@ export function SiteFooter() {
           </div>
           <ul className="space-y-2 text-sm">
             <li><Link href="/docs/consent-rail" className="hover:text-white">Consent Rail (new)</Link></li>
+            <li><Link href="/docs/consent-rail#explainer" className="hover:text-white">Why it matters</Link></li>
             <li><Link href="/dashboard/approvals" className="hover:text-white">Approval inbox</Link></li>
             <li><Link href="/dashboard/autonomy" className="hover:text-white">Autonomy ledger</Link></li>
           </ul>

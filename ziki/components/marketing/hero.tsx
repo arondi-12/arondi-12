@@ -120,7 +120,7 @@ export function Hero() {
                 <span className="flex items-center gap-2 text-muted">
                   <span className="pulse-dot" /> consent.auto_approved
                 </span>
-                <span className="text-muted">Ada&apos;s Claude · bid #400</span>
+                <span className="text-muted">David&apos;s Claude · bid #400</span>
               </div>
             </div>
           </div>

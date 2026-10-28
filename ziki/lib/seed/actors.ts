@@ -1,14 +1,14 @@
 import type { Actor } from "../types";
 import { agentIds, collaborators, user } from "./base";
 
-export const ada: Actor = { id: user.id, name: user.name, kind: "human" };
+export const david: Actor = { id: user.id, name: user.name, kind: "human" };
 export const kai: Actor = { id: collaborators.kai.id, name: collaborators.kai.name, kind: "human" };
 export const noor: Actor = { id: collaborators.noor.id, name: collaborators.noor.name, kind: "human" };
 export const sam: Actor = { id: collaborators.sam.id, name: collaborators.sam.name, kind: "human" };
 
 export const claude: Actor = {
   id: agentIds.solver,
-  name: "Ada's Claude",
+  name: "David's Claude",
   kind: "agent",
   level: "contributor",
   ownerId: user.id,
@@ -17,7 +17,7 @@ export const claude: Actor = {
 
 export const reviewer: Actor = {
   id: agentIds.reviewer,
-  name: "Ada's Reviewer",
+  name: "David's Reviewer",
   kind: "agent",
   level: "reviewer",
   ownerId: user.id,

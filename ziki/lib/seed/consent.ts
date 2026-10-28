@@ -367,7 +367,7 @@ export const ledger: LedgerEntry[] = proposals
       id: "led_human_narrow",
       at: hoursAgo(30),
       agentId: agentIds.solver,
-      agentName: "Ada's Claude",
+      agentName: "David's Claude",
       action: "bid",
       summary: "You narrowed bid autonomy to exclude payments",
       outcome: "approved",

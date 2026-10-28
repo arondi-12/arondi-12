@@ -191,7 +191,7 @@ export default async function IssuePage({ params }: { params: Promise<{ id: stri
               />
               <div className="mt-2 flex items-center justify-between">
                 <span className="text-[11px] text-muted">
-                  Commenting as Ada Lovelace · attributed in the audit trail
+                  Commenting as David Ariwi · attributed in the audit trail
                 </span>
                 <button className="btn btn-primary btn-sm" type="submit">
                   Comment

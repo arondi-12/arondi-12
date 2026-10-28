@@ -81,6 +81,83 @@ export default function ConsentRailDocPage() {
             </div>
           </div>
         </section>
+        <section id="explainer" className="border-b border-[#e0e6f1] bg-white py-14">
+          <div className="wrap">
+            <h2 className="font-display text-2xl font-bold">Start here: what changed, in plain words</h2>
+            <p className="mt-2 max-w-3xl text-[14px] leading-relaxed text-[#3d4a66]">
+              Ziki asks an agent to get permission for every bid, claim and escalation. Asked forty
+              times a day, that turns the owner into a bottleneck and the click into a reflex. The
+              Consent Rail moves the decision up one level: the owner writes a small contract per
+              agent, the rail applies it in the open, and every answer becomes a rule, a receipt or a
+              reversal.
+            </p>
+
+            <div className="mt-6 grid gap-3 md:grid-cols-3">
+              {[
+                {
+                  label: "Approvals",
+                  href: "/dashboard/approvals",
+                  title: "Where questions arrive",
+                  body: "Only actions outside the envelope land here. Each card carries the plan, estimate, confidence, evidence, risk, reversibility and the rule trace that stopped it.",
+                },
+                {
+                  label: "Autonomy ledger",
+                  href: "/dashboard/autonomy",
+                  title: "Where answers live",
+                  body: "The contract per agent: the autonomy dial, the editable rules, in-flight work with pull-back, and every unattended action with the rule that allowed it.",
+                },
+                {
+                  label: "Agent API + events",
+                  href: "/developers",
+                  title: "Where agents see the same rules",
+                  body: "Agents read their envelope and propose actions over HTTP; allow, ask and block come back with a trace, and consent.* events appear on the project stream.",
+                },
+              ].map((card) => (
+                <Link
+                  key={card.label}
+                  href={card.href}
+                  className="rounded-2xl border border-[#e0e6f1] p-4 transition-colors hover:border-[#c2cfe6] hover:bg-[#fafcff]"
+                >
+                  <div className="text-[10px] font-bold uppercase tracking-[0.12em] text-[#3978f6]">
+                    {card.label}
+                  </div>
+                  <div className="mt-1 text-[14px] font-semibold">{card.title}</div>
+                  <p className="mt-1 text-[12px] leading-relaxed text-muted">{card.body}</p>
+                </Link>
+              ))}
+            </div>
+
+            <div className="mt-6 rounded-2xl border border-[#eef2f9] bg-[#fafcff] p-4">
+              <div className="text-[10.5px] font-bold uppercase tracking-[0.1em] text-muted">
+                The 90-second demo
+              </div>
+              <ol className="mt-2 grid gap-1.5 text-[12.5px] text-[#3d4a66] sm:grid-cols-2">
+                {[
+                  "Open Approvals and read Why this is in front of you on the #401 bid.",
+                  "Answer Allow like this, then find the new rule in the autonomy ledger.",
+                  "Pull back an in-flight action and watch the consent.rewound receipt.",
+                  "Pause the agent: in-flight work is cancelled, whatever the rules say.",
+                  "Post the same action through the API and see allow, ask or block with a trace.",
+                  "Check the activity stream for the consent.* events an agent would consume.",
+                ].map((step, i) => (
+                  <li key={step} className="flex gap-2">
+                    <span className="mono text-[10.5px] text-[#3978f6]">{i + 1}.</span>
+                    {step}
+                  </li>
+                ))}
+              </ol>
+            </div>
+
+            <p className="mt-4 text-[12px] text-muted">
+              A longer plain-language guide ships with the code as{" "}
+              <span className="mono">docs/EXPLAINER.md</span>; the technical rationale, rule
+              semantics and evaluation plan are in <span className="mono">docs/CONSENT-RAIL.md</span>{" "}
+              and below on this page.
+            </p>
+          </div>
+        </section>
+
+
         <section className="border-b border-[#e0e6f1] bg-white py-14">
           <div className="wrap grid gap-10 lg:grid-cols-[1fr_1fr]">
             <div>
@@ -210,7 +287,7 @@ export default function ConsentRailDocPage() {
               {[
                 {
                   title: "A bid just outside the envelope",
-                  meta: "Ada's Claude · bid · #401 · 90 min · high · payments",
+                  meta: "David's Claude · bid · #401 · 90 min · high · payments",
                   steps: [
                     "The agent proposes a 90-minute fix on a high-severity payments bug.",
                     "The rail checks severity (high > medium), the excluded label (payments), the estimate (90 > 45) and the daily cap (2 of 3). Three conditions fail.",
@@ -220,7 +297,7 @@ export default function ConsentRailDocPage() {
                 },
                 {
                   title: "A verdict with no evidence",
-                  meta: "Ada's Reviewer · test verdict · #396 · high · no commit attached",
+                  meta: "David's Reviewer · test verdict · #396 · high · no commit attached",
                   steps: [
                     "The reviewer wants to sign PR #1851 as good to merge.",
                     "Its envelope allows verdicts only with evidence at low risk; this ask carries no commit and is medium risk.",

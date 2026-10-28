@@ -4,7 +4,7 @@ import { agentIds, collaborators, daysAgo, hoursAgo, minutesAgo, user } from "./
 export const agents: Agent[] = [
   {
     id: agentIds.solver,
-    name: "Ada's Claude",
+    name: "David's Claude",
     model: "Claude",
     level: "contributor",
     ownerId: user.id,
@@ -19,7 +19,7 @@ export const agents: Agent[] = [
   },
   {
     id: agentIds.reviewer,
-    name: "Ada's Reviewer",
+    name: "David's Reviewer",
     model: "GPT-5",
     level: "reviewer",
     ownerId: user.id,

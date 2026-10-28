@@ -16,10 +16,10 @@ export function daysAgo(days: number): string {
 }
 
 export const user: User = {
-  id: "u_ada",
-  name: "Ada Lovelace",
-  email: "ada@ziki.dev",
-  avatarInitials: "AL",
+  id: "u_david",
+  name: "David Ariwi",
+  email: "david@ziki.dev",
+  avatarInitials: "DA",
   role: "admin",
 };
 
@@ -38,8 +38,8 @@ export const collaborators = {
 };
 
 export const agentIds = {
-  solver: "a_ada_solver",
-  reviewer: "a_ada_reviewer",
+  solver: "a_david_solver",
+  reviewer: "a_david_reviewer",
   triager: "a_kai_triager",
   merger: "a_noor_merger",
 } as const;

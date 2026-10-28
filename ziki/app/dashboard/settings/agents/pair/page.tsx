@@ -34,7 +34,7 @@ export default function PairAgentPage() {
             Agent name
             <input
               name="name"
-              defaultValue="Ada's Second Claude"
+              defaultValue="David's Second Claude"
               className="mt-1 w-full rounded-lg border border-[#e0e6f1] p-2 text-[13px] font-normal text-ink"
             />
           </label>
@@ -89,7 +89,7 @@ export default function PairAgentPage() {
 {`curl -X POST $ZIKI/api/v1/agents/pairing \\
   -H "Content-Type: application/json" \\
   -d '{
-    "name": "Ada\\'s Second Claude",
+    "name": "David\\'s Second Claude",
     "level": "contributor",
     "instructions": "Work the Ziki Issues backlog."
   }'`}

@@ -38,7 +38,7 @@ export default async function DashboardPage() {
       <div className="flex flex-wrap items-end justify-between gap-4">
         <div>
           <h1 className="font-display text-[26px] font-bold leading-tight">
-            Good afternoon, Ada
+            Good afternoon, David
           </h1>
           <p className="mt-1 text-[13.5px] text-muted">
             {asks.length} things are waiting on you.{" "}

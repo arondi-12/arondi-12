@@ -2,6 +2,9 @@
 
 **A human–agent interaction improvement for Ziki**
 
+> New to this? Start with the plain-language [`EXPLAINER.md`](./EXPLAINER.md), then come back here
+> for rule semantics, research grounding and the evaluation plan.
+
 Status: implemented in this reproduction. Live surfaces: `/dashboard/approvals`, `/dashboard/autonomy`, `/docs/consent-rail`, `POST /api/v1/consent/actions`, `GET /api/v1/consent/envelope`.
 
 ---
@@ -175,7 +178,7 @@ Two further design choices follow from these:
 
 ### 5.1 A bid just outside the envelope
 
-`Ada's Claude` proposes a 90-minute fix on `#401`, a high-severity payments bug.
+`David's Claude` proposes a 90-minute fix on `#401`, a high-severity payments bug.
 
 - Rules checked: severity ≤ medium (**fail**, the issue is high), not labelled security/payments
   (**fail**, payments), estimate ≤ 45 min (**fail**, 90), confidence ≥ 60% (**pass**, 72%),
@@ -187,7 +190,7 @@ Two further design choices follow from these:
 
 ### 5.2 A verdict with no evidence
 
-`Ada's Reviewer` wants to sign `#396` as good to merge. Its envelope allows verdicts only with
+`David's Reviewer` wants to sign `#396` as good to merge. Its envelope allows verdicts only with
 evidence, at low risk, up to six a day. This ask carries no commit and is medium risk, so it asks.
 The failure lines read "carries evidence: nothing linked yet" and "risk ≤ low: this action is
 medium risk". The right answer is **Decline** with "attach the commit hash and the CI run", not

@@ -10,7 +10,7 @@ export const metadata = { title: "Dashboard · Ziki" };
 
 export default async function DashboardLayout({ children }: { children: React.ReactNode }) {
   const store = await cookies();
-  if (store.get("ziki_session")?.value !== "ada") {
+  if (store.get("ziki_session")?.value !== "david") {
     redirect("/login?next=/dashboard");
   }
 
@@ -40,7 +40,7 @@ export default async function DashboardLayout({ children }: { children: React.Re
               </Link>
               <div className="hidden items-center gap-2 sm:flex">
                 <span className="grid h-8 w-8 place-items-center rounded-full bg-[#0b1733] text-[11px] font-bold text-white">
-                  AL
+                  DA
                 </span>
                 <div className="leading-tight">
                   <div className="text-[12.5px] font-semibold">{db.user.name}</div>

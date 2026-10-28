@@ -19,7 +19,7 @@ import {
 export async function signIn(formData: FormData) {
   const next = String(formData.get("next") || "/dashboard");
   const store = await cookies();
-  store.set("ziki_session", "ada", {
+  store.set("ziki_session", "david", {
     httpOnly: true,
     sameSite: "lax",
     path: "/",

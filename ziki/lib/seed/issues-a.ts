@@ -1,6 +1,6 @@
 import type { Issue } from "../types";
 import { daysAgo, hoursAgo, minutesAgo } from "./base";
-import { ada, claude, kai, noor, reviewer, sam } from "./actors";
+import { david, claude, kai, noor, reviewer, sam } from "./actors";
 
 export const issuesA: Issue[] = [
   {
@@ -15,7 +15,7 @@ export const issuesA: Issue[] = [
     votedByMe: true,
     reporter: sam,
     confirmations: [
-      { reviewerName: "Ada's Reviewer", reviewerOwnerId: ada.id, verdict: "accept", severity: "high", at: hoursAgo(6) },
+      { reviewerName: "David's Reviewer", reviewerOwnerId: david.id, verdict: "accept", severity: "high", at: hoursAgo(6) },
       { reviewerName: "Kai's Triager", reviewerOwnerId: kai.id, verdict: "accept", severity: "high", at: hoursAgo(5) },
     ],
     triagerCleared: true,
@@ -30,7 +30,7 @@ export const issuesA: Issue[] = [
       },
       {
         id: "c_401_2",
-        author: ada,
+        author: david,
         body: "Confirmed as high. Please don't touch the retry path without a second tester.",
         at: hoursAgo(4),
       },
@@ -51,7 +51,7 @@ export const issuesA: Issue[] = [
     reporter: kai,
     assignee: claude,
     confirmations: [
-      { reviewerName: "Ada's Reviewer", reviewerOwnerId: ada.id, verdict: "accept", severity: "medium", at: daysAgo(1) },
+      { reviewerName: "David's Reviewer", reviewerOwnerId: david.id, verdict: "accept", severity: "medium", at: daysAgo(1) },
       { reviewerName: "Noor's Merger", reviewerOwnerId: noor.id, verdict: "accept", severity: "medium", at: hoursAgo(20) },
     ],
     triagerCleared: true,
@@ -66,7 +66,7 @@ export const issuesA: Issue[] = [
       },
       {
         id: "c_400_2",
-        author: ada,
+        author: david,
         body: "Approved the bid. Go ahead.",
         kind: "approval",
         at: hoursAgo(17),
@@ -85,12 +85,12 @@ export const issuesA: Issue[] = [
     labels: ["export", "backend"],
     votes: 18,
     votedByMe: false,
-    reporter: ada,
+    reporter: david,
     assignee: claude,
     prUrl: "https://github.com/ziki/issues/pull/1847",
     prChecks: 47,
     confirmations: [
-      { reviewerName: "Ada's Reviewer", reviewerOwnerId: ada.id, verdict: "accept", severity: "medium", at: daysAgo(2) },
+      { reviewerName: "David's Reviewer", reviewerOwnerId: david.id, verdict: "accept", severity: "medium", at: daysAgo(2) },
       { reviewerName: "Kai's Triager", reviewerOwnerId: kai.id, verdict: "accept", severity: "medium", at: daysAgo(2) },
     ],
     triagerCleared: true,
@@ -127,7 +127,7 @@ export const issuesA2: Issue[] = [
     prUrl: "https://github.com/ziki/issues/pull/1851",
     prChecks: 12,
     confirmations: [
-      { reviewerName: "Ada's Reviewer", reviewerOwnerId: ada.id, verdict: "accept", severity: "high", at: daysAgo(1) },
+      { reviewerName: "David's Reviewer", reviewerOwnerId: david.id, verdict: "accept", severity: "high", at: daysAgo(1) },
       { reviewerName: "Noor's Merger", reviewerOwnerId: noor.id, verdict: "accept", severity: "high", at: hoursAgo(22) },
     ],
     triagerCleared: true,
@@ -154,9 +154,9 @@ export const issuesA2: Issue[] = [
     labels: ["ui"],
     votes: 9,
     votedByMe: false,
-    reporter: ada,
+    reporter: david,
     confirmations: [
-      { reviewerName: "Ada's Reviewer", reviewerOwnerId: ada.id, verdict: "accept", severity: "low", at: hoursAgo(30) },
+      { reviewerName: "David's Reviewer", reviewerOwnerId: david.id, verdict: "accept", severity: "low", at: hoursAgo(30) },
       { reviewerName: "Kai's Triager", reviewerOwnerId: kai.id, verdict: "accept", severity: "low", at: hoursAgo(29) },
     ],
     triagerCleared: true,

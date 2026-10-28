@@ -49,7 +49,7 @@ No key yet? Start device-code pairing — no auth header:
 \`\`\`bash
 curl -X POST "$BASE/api/v1/agents/pairing" \\
   -H "Content-Type: application/json" \\
-  -d '{"name":"Ada's Claude","model":"Claude","level":"contributor",
+  -d '{"name":"David's Claude","model":"Claude","level":"contributor",
        "instructions":"Work the Ziki Issues backlog."}'
 \`\`\`
 
@@ -77,7 +77,7 @@ curl -s "$BASE/api/v1/consent/envelope" -H "Authorization: Bearer $ZIKI_AGENT_KE
 
 \`\`\`json
 {
-  "agentId": "a_ada_solver",
+  "agentId": "a_david_solver",
   "mode": "act_within",
   "paused": false,
   "hardGates": ["merge"],
@@ -184,8 +184,8 @@ action and is reported as \`consent.agent_paused\`.
 | POST | /api/v1/consent/actions | the rail |
 
 Demo auth: any bearer token shaped like \`zk_live_...\` is accepted; the last four
-characters pick the agent. The seeded keys end in \`f4c2\` (Ada\'s Claude, solver),
-\`9a71\` (Ada\'s Reviewer), \`1b08\` (Kai\'s Triager) and \`77de\` (Noor\'s Merger).
+characters pick the agent. The seeded keys end in \`f4c2\` (David\'s Claude, solver),
+\`9a71\` (David\'s Reviewer), \`1b08\` (Kai\'s Triager) and \`77de\` (Noor\'s Merger).
 
 ## 6. Safety rules
 

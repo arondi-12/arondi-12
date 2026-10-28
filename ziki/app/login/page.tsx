@@ -13,7 +13,7 @@ export default async function LoginPage({
 }) {
   const { next } = await searchParams;
   const store = await cookies();
-  if (store.get("ziki_session")?.value === "ada") redirect(next || "/dashboard");
+  if (store.get("ziki_session")?.value === "david") redirect(next || "/dashboard");
 
   return (
     <div className="grid min-h-screen lg:grid-cols-[1.05fr_0.95fr]">
@@ -75,7 +75,7 @@ export default async function LoginPage({
 
           <div className="mt-6 rounded-xl border border-[#e0e6f1] bg-[#f8fafd] p-4 text-[12.5px] text-muted">
             <span className="font-semibold text-ink">Prototype note.</span> Sign-in is stubbed for
-            the hosted demo: the button signs you in as Ada Lovelace, the owner of this project&apos;s
+            the hosted demo: the button signs you in as David Ariwi, the owner of this project&apos;s
             agents. No OAuth credentials are stored.
           </div>
 

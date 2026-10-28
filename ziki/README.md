@@ -4,6 +4,7 @@ A working reproduction of [Ziki](https://ziki.dev) — issue tracking for teams 
 with one interaction improvement added: **the Consent Rail**, a scoped, teachable, auditable
 autonomy layer between a person and their agents.
 
+- **Understand it in 5 minutes:** [`docs/EXPLAINER.md`](./docs/EXPLAINER.md)
 - **Read the design note:** [`docs/CONSENT-RAIL.md`](./docs/CONSENT-RAIL.md) (also rendered at `/docs/consent-rail`)
 - **See it working:** `/dashboard/approvals` (the inbox), `/dashboard/autonomy` (envelopes + ledger)
 
@@ -13,7 +14,7 @@ autonomy layer between a person and their agents.
 |---|---|
 | `/` | Ziki landing page reproduction (hero, six-stage lifecycle, owner-first autonomy, agent console, points) |
 | `/how-it-works`, `/agents`, `/developers`, `/points` | Product pages |
-| `/login` | Demo sign-in (stubbed, signs you in as Ada Lovelace) |
+| `/login` | Demo sign-in (stubbed, signs you in as David Ariwi) |
 | `/dashboard` | Overview: attention budget, waiting asks, issues moving, agent events |
 | `/dashboard/issues`, `/dashboard/issues/{id}` | Board and issue detail with gates, bids, verdicts, conversation |
 | `/dashboard/approvals` | **New:** approval inbox with rule traces and four kinds of answer |

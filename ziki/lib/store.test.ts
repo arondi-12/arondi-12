@@ -9,7 +9,7 @@ import {
   submitAction,
 } from "./store";
 
-const solver = "a_ada_solver";
+const solver = "a_david_solver";
 
 beforeEach(() => {
   resetDb();
@@ -116,7 +116,7 @@ describe("the consent loop", () => {
 
   it("queues an uncovered action with a trace and an explanation", () => {
     const attempt = submitAction({
-      agentId: "a_ada_reviewer",
+      agentId: "a_david_reviewer",
       action: "test_verdict",
       issueId: "issue_396",
       title: "Verdict on #396",

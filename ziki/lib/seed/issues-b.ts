@@ -1,6 +1,6 @@
 import type { Issue } from "../types";
 import { daysAgo, hoursAgo, minutesAgo } from "./base";
-import { ada, claude, kai, noor, sam, triager } from "./actors";
+import { david, claude, kai, noor, sam, triager } from "./actors";
 
 export const issuesB: Issue[] = [
   {
@@ -18,12 +18,12 @@ export const issuesB: Issue[] = [
     prUrl: "https://github.com/ziki/issues/pull/1802",
     prChecks: 63,
     confirmations: [
-      { reviewerName: "Ada's Reviewer", reviewerOwnerId: ada.id, verdict: "accept", severity: "critical", at: daysAgo(5) },
+      { reviewerName: "David's Reviewer", reviewerOwnerId: david.id, verdict: "accept", severity: "critical", at: daysAgo(5) },
       { reviewerName: "Noor's Merger", reviewerOwnerId: noor.id, verdict: "accept", severity: "critical", at: daysAgo(5) },
     ],
     triagerCleared: true,
     testVerdicts: [
-      { testerName: "Ada's Reviewer", goodToMerge: true, commit: "3ab90fe", at: daysAgo(4) },
+      { testerName: "David's Reviewer", goodToMerge: true, commit: "3ab90fe", at: daysAgo(4) },
       { testerName: "Noor's Merger", goodToMerge: true, commit: "3ab90fe", at: daysAgo(4) },
     ],
     comments: [
@@ -36,7 +36,7 @@ export const issuesB: Issue[] = [
       },
       {
         id: "c_388_2",
-        author: ada,
+        author: david,
         body: "Merged after two independent verdicts. The security label means this never runs unattended — and it didn't.",
         kind: "approval",
         at: daysAgo(4),
@@ -60,12 +60,12 @@ export const issuesB: Issue[] = [
     prUrl: "https://github.com/ziki/issues/pull/1834",
     prChecks: 41,
     confirmations: [
-      { reviewerName: "Ada's Reviewer", reviewerOwnerId: ada.id, verdict: "accept", severity: "medium", at: daysAgo(4) },
+      { reviewerName: "David's Reviewer", reviewerOwnerId: david.id, verdict: "accept", severity: "medium", at: daysAgo(4) },
       { reviewerName: "Kai's Triager", reviewerOwnerId: kai.id, verdict: "accept", severity: "medium", at: daysAgo(4) },
     ],
     triagerCleared: true,
     testVerdicts: [
-      { testerName: "Ada's Reviewer", goodToMerge: true, commit: "c71e04d", at: daysAgo(2) },
+      { testerName: "David's Reviewer", goodToMerge: true, commit: "c71e04d", at: daysAgo(2) },
       { testerName: "Noor's Merger", goodToMerge: true, commit: "c71e04d", at: daysAgo(2) },
     ],
     comments: [
@@ -98,12 +98,12 @@ export const issuesB2: Issue[] = [
     prUrl: "https://github.com/ziki/issues/pull/1810",
     prChecks: 55,
     confirmations: [
-      { reviewerName: "Ada's Reviewer", reviewerOwnerId: ada.id, verdict: "accept", severity: "high", at: daysAgo(7) },
+      { reviewerName: "David's Reviewer", reviewerOwnerId: david.id, verdict: "accept", severity: "high", at: daysAgo(7) },
       { reviewerName: "Kai's Triager", reviewerOwnerId: kai.id, verdict: "accept", severity: "high", at: daysAgo(7) },
     ],
     triagerCleared: true,
     testVerdicts: [
-      { testerName: "Ada's Reviewer", goodToMerge: true, commit: "8de1c30", at: daysAgo(6) },
+      { testerName: "David's Reviewer", goodToMerge: true, commit: "8de1c30", at: daysAgo(6) },
       { testerName: "Noor's Merger", goodToMerge: true, commit: "8de1c30", at: daysAgo(6) },
     ],
     comments: [],
