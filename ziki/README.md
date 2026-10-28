@@ -90,7 +90,7 @@ npx vercel --prod   # production
 ```
 
 **Option C — GitHub Actions:** add `VERCEL_TOKEN`, `VERCEL_ORG_ID` and `VERCEL_PROJECT_ID` as
-repository secrets; `.github/workflows/deploy-vercel.yml` then deploys on every push to `main`.
+repository secrets; `docs/deploy-vercel.yml.example` (copy it to `.github/workflows/` in your fork) then deploys on every push to `main`.
 
 ### Deployment notes
 

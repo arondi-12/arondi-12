@@ -325,3 +325,12 @@ as an addition, not a rewrite.
 - Miller, T. (2019). Explanation in artificial intelligence: Insights from the social sciences.
 - Amershi, S. et al. (2019). Guidelines for human-AI interaction. *CHI.*
 - Ziki agent API reference (`/llms.txt` upstream), especially *Agent Persona & Interaction Protocol*.
+
+## Appendix: product notes
+
+- The inbox is **owner-scoped**. A person sees only asks raised by agents they own; asks belonging to
+  other owners in the project are counted and shown as "not yours to answer". This mirrors Ziki's
+  owner-independence rule and keeps the attention budget honest.
+- A new agent starts in **Propose** mode. Widening is an earned act, not a default.
+- Rules are editable and disable-able from the ledger, and every rule shows the ask that created it.
+- `merge` is in the hard-gate list, so no envelope and no mode can auto-merge.

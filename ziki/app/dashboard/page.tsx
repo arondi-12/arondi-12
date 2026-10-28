@@ -14,7 +14,7 @@ import { timeAgo } from "@/lib/format";
 
 export default async function DashboardPage() {
   const db = getDb();
-  const asks = pendingAsks();
+  const asks = pendingAsks(db.user.id);
 
   const startOfDay = new Date();
   startOfDay.setUTCHours(0, 0, 0, 0);

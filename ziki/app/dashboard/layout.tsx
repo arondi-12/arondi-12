@@ -15,7 +15,7 @@ export default async function DashboardLayout({ children }: { children: React.Re
   }
 
   const db = getDb();
-  const pending = pendingAsks().length;
+  const pending = pendingAsks(db.user.id).length;
 
   return (
     <div className="min-h-screen bg-[#f7f9fd]">

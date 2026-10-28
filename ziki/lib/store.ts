@@ -54,9 +54,15 @@ export function rulesFor(agentId: string): EnvelopeRule[] {
   return getDb().rules.filter((r) => r.agentId === agentId);
 }
 
-export function pendingAsks(): Proposal[] {
-  return getDb()
-    .proposals.filter((p) => p.status === "pending")
+export function pendingAsks(ownerId?: string): Proposal[] {
+  const db = getDb();
+  return db.proposals
+    .filter((p) => p.status === "pending")
+    .filter((p) => {
+      if (!ownerId) return true;
+      const agent = db.agents.find((a) => a.id === p.agentId);
+      return agent?.ownerId === ownerId;
+    })
     .sort((a, b) => +new Date(a.createdAt) - +new Date(b.createdAt));
 }
 

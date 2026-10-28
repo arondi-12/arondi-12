@@ -19,9 +19,10 @@ export default async function ApprovalsPage({
 }) {
   const { filter = "all" } = await searchParams;
   const db = getDb();
-  const all = pendingAsks();
+  const mine = pendingAsks(db.user.id);
+  const others = pendingAsks().filter((a) => !mine.some((m) => m.id === a.id));
   const active = filters.find((f) => f.key === filter) ?? filters[0];
-  const asks = active.match ? all.filter((a) => active.match!.includes(a.action)) : all;
+  const asks = active.match ? mine.filter((a) => active.match!.includes(a.action)) : mine;
 
   const decided = db.proposals
     .filter((p) => p.status !== "pending")
@@ -36,7 +37,7 @@ export default async function ApprovalsPage({
         <div>
           <div className="flex items-center gap-2">
             <h1 className="font-display text-[26px] font-bold leading-tight">Approvals</h1>
-            <span className="chip chip-amber">{all.length} waiting</span>
+            <span className="chip chip-amber">{mine.length} waiting</span>
           </div>
           <p className="mt-1 max-w-2xl text-[13.5px] text-muted">
             Only actions outside an agent&apos;s envelope land here. Each one carries the plan,
@@ -54,7 +55,7 @@ export default async function ApprovalsPage({
             Attention budget
           </div>
           <div className="mt-0.5 text-[13px] font-semibold">
-            {all.length} decisions · about {estimates} min of work to unblock
+            {mine.length} decisions · about {estimates} min of work to unblock
           </div>
         </div>
         <div>
@@ -77,7 +78,9 @@ export default async function ApprovalsPage({
 
       <div className="flex flex-wrap gap-1.5">
         {filters.map((f) => {
-          const count = f.match ? all.filter((a) => f.match!.includes(a.action)).length : all.length;
+          const count = f.match
+            ? mine.filter((a) => f.match!.includes(a.action)).length
+            : mine.length;
           const isActive = f.key === active.key;
           return (
             <Link
@@ -94,6 +97,26 @@ export default async function ApprovalsPage({
           Oldest first · {asks.length} shown
         </span>
       </div>
+
+      {others.length ? (
+        <div className="card flex flex-wrap items-center justify-between gap-3 border-[#e6ecf6] bg-[#fafcff] px-4 py-3">
+          <div>
+            <div className="text-[11.5px] font-semibold">
+              {others.length} ask{others.length === 1 ? "" : "s"} belong to other owners in this
+              project
+            </div>
+            <div className="text-[11px] text-muted">
+              {others
+                .map((a) => {
+                  const agent = db.agents.find((x) => x.id === a.agentId);
+                  return `${agent?.name} → ${agent?.ownerName}`;
+                })
+                .join(" · ")}
+            </div>
+          </div>
+          <span className="chip chip-slate">not yours to answer</span>
+        </div>
+      ) : null}
 
       <div className="space-y-4">
         {asks.length ? (
