@@ -6,8 +6,12 @@ import { issuesB, issuesB2 } from "./issues-b";
 import { ledger, proposals, rules, usage } from "./consent";
 import { bids, events, points } from "./activity";
 
+/**
+ * Seeds are module-level constants, so every build gets a deep clone: one
+ * mutation must never leak into the next build (tests, or a reset).
+ */
 export function buildDb(): Db {
-  return {
+  return structuredClone({
     project,
     user,
     agents,
@@ -19,5 +23,6 @@ export function buildDb(): Db {
     ledger,
     points,
     usage,
-  };
+  });
 }
+

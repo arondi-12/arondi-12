@@ -1,0 +1,61 @@
+name: Deploy Ziki to Vercel
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+concurrency:
+  group: vercel-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: ziki/package-lock.json
+
+      - name: Install
+        working-directory: ziki
+        run: npm ci || npm install
+
+      - name: Unit tests
+        working-directory: ziki
+        run: npm test
+
+      - name: Pull Vercel environment
+        working-directory: ziki
+        env:
+          VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+          VERCEL_ORG_ID: ${{ secrets.VERCEL_ORG_ID }}
+          VERCEL_PROJECT_ID: ${{ secrets.VERCEL_PROJECT_ID }}
+        run: npx vercel@latest pull --yes --environment=production --token "$VERCEL_TOKEN"
+
+      - name: Build
+        working-directory: ziki
+        env:
+          VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+          VERCEL_ORG_ID: ${{ secrets.VERCEL_ORG_ID }}
+          VERCEL_PROJECT_ID: ${{ secrets.VERCEL_PROJECT_ID }}
+        run: npx vercel@latest build --prod --token "$VERCEL_TOKEN"
+
+      - name: Deploy
+        id: deploy
+        working-directory: ziki
+        env:
+          VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+          VERCEL_ORG_ID: ${{ secrets.VERCEL_ORG_ID }}
+          VERCEL_PROJECT_ID: ${{ secrets.VERCEL_PROJECT_ID }}
+        run: |
+          url=$(npx vercel@latest deploy --prebuilt --prod --token "$VERCEL_TOKEN")
+          echo "url=$url" >> "$GITHUB_OUTPUT"
+          echo "Deployed to $url"
+
+      - name: Summary
+        run: echo "### Deployed\n${{ steps.deploy.outputs.url }}" >> "$GITHUB_STEP_SUMMARY"

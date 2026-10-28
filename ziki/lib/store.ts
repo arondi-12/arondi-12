@@ -442,3 +442,12 @@ export function statusLabel(status: AskStatus): string {
       return "Pulled back";
   }
 }
+
+/** Small helper for routes that record a plain project event. */
+export function logRelevant(
+  summary: string,
+  type = "issue.created",
+  actor = "Agent",
+): void {
+  logEvent({ type, summary, actor, channel: "agent" });
+}

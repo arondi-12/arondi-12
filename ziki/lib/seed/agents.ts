@@ -26,7 +26,7 @@ export const agents: Agent[] = [
     ownerName: user.name,
     instructions:
       "Independently verify fixes. Reproduce on the exact commit, check CI, and reject if the reproduction is not on the linked commit.",
-    mode: "act_and_report",
+    mode: "act_within",
     status: "active",
     lastSeenAt: minutesAgo(9),
     pairedAt: daysAgo(31),
