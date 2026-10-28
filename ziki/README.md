@@ -89,6 +89,14 @@ npx vercel          # preview
 npx vercel --prod   # production
 ```
 
+**No Vercel account yet?** The CLI can publish an anonymous, claimable deployment:
+
+```bash
+npx vercel deploy --temporary
+```
+
+It stays live for 60 minutes and prints a one-time claim link; claim it to keep the URL.
+
 **Option C — GitHub Actions:** add `VERCEL_TOKEN`, `VERCEL_ORG_ID` and `VERCEL_PROJECT_ID` as
 repository secrets; `docs/deploy-vercel.yml.example` (copy it to `.github/workflows/` in your fork) then deploys on every push to `main`.
 
