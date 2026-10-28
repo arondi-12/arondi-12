@@ -73,6 +73,8 @@ curl -s -X POST http://localhost:3000/api/v1/consent/actions \
 
 ## Deploy to Vercel
 
+Step-by-step for the existing `rushing-cypress-0dy13ec` project: [`DEPLOY.md`](./DEPLOY.md).
+
 The app is a plain Next.js App Router project with no external services. Any of these works:
 
 **Option A — dashboard (no CLI):**
