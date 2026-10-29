@@ -7,7 +7,7 @@ import { Hero } from './components/Hero';
 import { Nav } from './components/Nav';
 import { Roster } from './components/Roster';
 import { Ticker } from './components/Ticker';
-import { Tournament } from './components/Tournament';
+import { Weekend } from './components/Weekend';
 import { Reveal } from './components/Reveal';
 import { useReducedMotion } from './hooks/useReducedMotion';
 
@@ -22,14 +22,14 @@ export default function App() {
       <main>
         <Hero reduced={reduced} />
         <Ticker />
-        <Tournament />
+        <Weekend />
         <Games />
         <Roster />
         <Build />
         <About />
 
         <section className="container cta-band">
-          <Reveal>
+          <Reveal variant="blur">
             <p className="eyebrow">Pick one. Any one.</p>
             <h2>Good vibes. Good games. One tap away.</h2>
             <div className="actions">
@@ -48,3 +48,4 @@ export default function App() {
     </div>
   );
 }
+

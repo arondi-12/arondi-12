@@ -4,7 +4,7 @@ import { Reveal } from './Reveal';
 export function Games() {
   return (
     <section className="container section" id="games">
-      <Reveal className="section-head">
+      <Reveal className="section-head" variant="blur">
         <div>
           <p className="eyebrow">Games from the community</p>
           <h2>Five picks for the weekend</h2>

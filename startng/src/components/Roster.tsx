@@ -4,7 +4,7 @@ import { Reveal } from './Reveal';
 export function Roster() {
   return (
     <section className="container section section--roster" id="roster">
-      <Reveal className="section-head">
+      <Reveal className="section-head" variant="blur">
         <div>
           <p className="eyebrow">The whole shelf</p>
           <h2>Every game on start.ng, A to Z</h2>

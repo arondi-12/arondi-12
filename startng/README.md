@@ -8,26 +8,26 @@ Built with React + TypeScript + Vite. No runtime dependencies beyond React.
 
 ## The idea
 
-The old version leaned on a lamp that followed the cursor. That gimmick is gone. In its place:
+The old version leaned on a lamp that followed the cursor, and a headline that only made sense
+while scrolling. Both are gone. Now:
 
-- **The headline is the interaction.** The hero pins to the viewport and the word
-  `vibes.` rolls out of the line while `games.` rolls in, so `Good vibes.` becomes
-  `Good games.` as you scroll. The lime highlighter then sweeps under the word, the
-  supporting line re-writes itself from "games made by builders" to "188 free games",
-  and the second call to action eases in. Scroll position drives four CSS variables
-  (`--p`, `--reel`, `--mark`, `--more`) — one `requestAnimationFrame` listener, no
-  per-frame React renders.
-- **The cards animate on the same logic.** `24 hours` flips to `1 winner` (on hover, and
-  once automatically when the card appears), the clock digits re-enter as they change and the
-  day-progress rail fills; `Reach 59` counts up, lights 59 of 60 rooftop ticks and drops the
-  score into a lime highlighter.
-- **Five community games** get hand-built CSS covers with their own motion: a moving skyline,
-  a danfo lane, jollof steam, a drifting ludo board, and Hangout's ping.
-- **Halloween, quietly.** A thin banner, a pumpkin badge on the daily drop, a warm orange
-  glow, and an orange tick on the leaderboard. Nothing scary, nothing loud.
+- **The headline focuses in.** Each word of `Good vibes. Good games.` arrives from a soft blur
+  (15px down to 0) with a 95ms stagger, a barely-there scale pull, then the lime highlighter is
+  drawn under the second line. One orchestrated moment on load — nothing tied to scroll position.
+- **A deck of live cards sits beside it.** Three cards, loose on a pile at slight angles, each one
+  straightening, lifting and throwing a hard lime shadow on hover or keyboard focus. They are not
+  decoration: the tournament clock really ticks (with each digit re-entering as it changes), the
+  day-progress rail really fills, `24 hours` flips to `1 winner`, and the leaderboard is the
+  weekend board.
+- **The same focus-in language carries down the page.** Section headings and the closing call to
+  action reveal with a small blur, game cards lift with their own animated CSS covers (moving
+  skyline, danfo lane, jollof steam, drifting ludo board, Hangout ping), and the roster, steps and
+  FAQ behave like normal, fast UI.
+- **Halloween, quietly.** A thin banner, a pumpkin badge on the daily drop, a warm orange glow, an
+  orange tick on the leaderboard. Nothing scary, nothing loud.
 
-All of it is scroll-, hover- and `IntersectionObserver`-driven, and every animation is switched
-off under `prefers-reduced-motion` (the hero falls back to the static two-line headline).
+Everything is CSS-first: one `IntersectionObserver` per block, hover/focus states instead of
+scroll listeners, and every animation is switched off under `prefers-reduced-motion`.
 
 ## Content
 
@@ -73,9 +73,8 @@ npx vercel deploy --temporary # no login; link expires in 60 minutes
 
 ```
 src/
-  components/    Nav, Hero, Ticker, Tournament, Games, Roster, Build, About, Footer
-  hooks/         useHeroStage (scroll → CSS vars), useCountdown, useCountUp, useInView,
-                 useReducedMotion
+  components/    Nav, Hero, HeroDeck, Clock, Ticker, Weekend, Games, Roster, Build, About, Footer
+  hooks/         useCountdown, useInView, useReducedMotion
   data/          games.ts (featured five + ticker + board), roster.ts (all 188)
-  styles/        base.css, hero.css, cards.css, sections.css
+  styles/        base.css, hero.css, deck.css, cards.css, sections.css
 ```

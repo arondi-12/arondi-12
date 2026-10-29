@@ -22,7 +22,7 @@ const steps = [
 export function Build() {
   return (
     <section className="container section build" id="build">
-      <Reveal className="section-head">
+      <Reveal className="section-head" variant="blur">
         <div>
           <p className="eyebrow">Got a game?</p>
           <h2>Put it on start.ng</h2>

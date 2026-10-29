@@ -30,7 +30,7 @@ const faqs = [
 export function About() {
   return (
     <section className="container section about" id="about">
-      <Reveal>
+      <Reveal variant="blur">
         <p className="eyebrow">About</p>
         <h2>Nigeria&apos;s home for browser games</h2>
         <p className="about-copy">

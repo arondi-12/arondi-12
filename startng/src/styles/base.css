@@ -277,16 +277,26 @@ svg {
 /* --------------------------------- reveals -------------------------------- */
 .reveal {
   opacity: 0;
-  transform: translateY(24px);
   transition:
-    opacity 0.75s var(--ease),
-    transform 0.75s var(--ease);
+    opacity 0.7s var(--ease),
+    transform 0.7s var(--ease),
+    filter 0.7s var(--ease);
   transition-delay: var(--delay, 0ms);
+}
+
+.reveal--lift {
+  transform: translateY(24px);
+}
+
+.reveal--blur {
+  filter: blur(9px);
+  transform: translateY(10px);
 }
 
 .reveal.is-in {
   opacity: 1;
   transform: none;
+  filter: blur(0);
 }
 
 /* ---------------------------------- footer -------------------------------- */
@@ -555,6 +565,7 @@ svg {
   .reveal {
     opacity: 1;
     transform: none;
+    filter: none;
     transition: none;
   }
 }

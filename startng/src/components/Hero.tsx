@@ -1,83 +1,81 @@
-import { useEffect, useState } from 'react';
-import { useHeroStage } from '../hooks/useHeroStage';
+import { Fragment, type CSSProperties } from 'react';
+import { HeroDeck } from './HeroDeck';
 
 type Props = {
   reduced: boolean;
 };
 
+const lineOne = [
+  { text: 'Good', index: 0 },
+  { text: 'vibes.', index: 1 },
+];
+
+const lineTwo = [
+  { text: 'Good', index: 2 },
+  { text: 'games.', index: 3 },
+];
+
+const Word = ({ text, index }: { text: string; index: number }) => (
+  <span className="hero-w" style={{ '--i': index } as CSSProperties}>
+    {text}
+  </span>
+);
+
 export function Hero({ reduced }: Props) {
-  const { trackRef, stageRef } = useHeroStage(!reduced);
-  const [entered, setEntered] = useState(false);
-
-  useEffect(() => {
-    const id = window.setTimeout(() => setEntered(true), 60);
-    return () => window.clearTimeout(id);
-  }, []);
-
   return (
-    <section
-      className={`hero${reduced ? ' hero--reduced' : ''}${entered ? ' is-entered' : ''}`}
-      ref={trackRef}
-      aria-label="start.ng"
-    >
-      <div className="hero-stage" ref={stageRef}>
-        <div className="hero-inner">
-          <p className="hero-eyebrow">Big imagination. Played everywhere.</p>
+    <section className={`hero${reduced ? ' hero--reduced' : ''}`} aria-label="start.ng">
+      <div className="hero-glow" aria-hidden="true" />
 
-          {reduced ? (
-            <h1 className="hero-title hero-title--static">
-              Good vibes.
-              <br />
-              <mark>Good games.</mark>
-            </h1>
-          ) : (
-            <h1 className="hero-title">
-              <span className="sr-only">Good vibes. Good games.</span>
-              <span className="hero-row" aria-hidden="true">
-                <span className="hero-good">Good</span>
-                <span className="hero-swap">
-                  <span className="hero-reel">
-                    <span className="hero-word hero-word--out">vibes.</span>
-                    <span className="hero-word hero-word--in">games.</span>
-                  </span>
-                  <span className="hero-mark" />
-                </span>
+      <div className="container hero-inner">
+        <div className="hero-copy">
+          <p className="hero-eyebrow" style={{ '--i': 0 } as CSSProperties}>
+            Big imagination. Played everywhere.
+          </p>
+
+          <h1 className="hero-title">
+            <span className="hero-line">
+              {lineOne.map((word, index) => (
+                <Fragment key={word.text}>
+                  {index > 0 && ' '}
+                  <Word {...word} />
+                </Fragment>
+              ))}
+            </span>
+            <span className="hero-line">
+              <span className="hero-mark-wrap">
+                <span className="hero-underline" aria-hidden="true" />
+                {lineTwo.map((word, index) => (
+                  <Fragment key={word.text}>
+                    {index > 0 && ' '}
+                    <Word {...word} />
+                  </Fragment>
+                ))}
               </span>
-            </h1>
-          )}
+            </span>
+          </h1>
 
-          <div className="hero-leads">
-            <p className="hero-lead hero-lead--one">
-              Games made by builders in the community. Each one lives at its own start.ng address.
-              Pick one and play right in your browser.
-            </p>
-            <p className="hero-lead hero-lead--two">
-              188 free games, made in Nigeria and across Africa. New picks every 24 hours, a
-              leaderboard with your name on it, and nothing to download.
-            </p>
-          </div>
+          <p className="hero-lead" style={{ '--i': 4 } as CSSProperties}>
+            188 free browser games, made by the community. New picks every 24 hours, and a
+            leaderboard with your name on it.
+          </p>
 
-          <div className="hero-actions">
+          <div className="hero-actions" style={{ '--i': 5 } as CSSProperties}>
             <a className="btn" href="#games">
               Play now
             </a>
-            <a className="btn btn--ghost hero-more" href="#roster">
+            <a className="btn btn--ghost" href="#roster">
               See all 188 games →
             </a>
           </div>
+
+          <p className="hero-proof" style={{ '--i': 6 } as CSSProperties}>
+            <span>188 games</span>
+            <span>free, no download</span>
+            <span>made in Naija</span>
+          </p>
         </div>
 
-        {!reduced && (
-          <>
-            <div className="hero-rail" aria-hidden="true">
-              <span />
-            </div>
-            <p className="hero-hint" aria-hidden="true">
-              <span>scroll</span>
-              <i />
-            </p>
-          </>
-        )}
+        <HeroDeck />
       </div>
     </section>
   );
