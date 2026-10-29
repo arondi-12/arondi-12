@@ -46,13 +46,28 @@ npm run preview    # serve the production build
 
 ## Deploying
 
-The repo ships with a `vercel.json` for Vite, so Vercel needs no configuration:
+The repo ships with a `vercel.json` for Vite (framework preset, `dist` output, SPA rewrite),
+plus `"engines": { "node": "22.x" }`, so Vercel needs no configuration.
+
+### Permanent deploy via the Vercel dashboard (recommended)
+
+1. <https://vercel.com/new> → **Import Git Repository** → `arondi-12/arondi-12`
+2. Set **Root Directory** to `startng` (framework auto-detects as Vite)
+3. Deploy. The first build may fail if Vercel picks the repo's default branch, which does not
+   contain the app yet — that is expected.
+4. **Project → Settings → Git → Production Branch** → `cline/1zvq1czq` → **Save**
+5. **Deployments → ⋯ → Redeploy** (uncheck "use existing build cache")
+
+From then on every push to `cline/1zvq1czq` deploys to production automatically, and every other
+branch gets a preview URL.
+
+### CLI
 
 ```bash
 npx vercel deploy --prod      # once you are logged in
-# or, with no login:
-npx vercel deploy --temporary
+npx vercel deploy --temporary # no login; link expires in 60 minutes
 ```
+
 
 ## Structure
 
