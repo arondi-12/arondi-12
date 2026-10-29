@@ -28,7 +28,7 @@ function DailyDrop() {
 
       <p className="kicker">Daily tournament</p>
 
-      <h3 className="feature-reel" tabIndex={0}>
+      <h3 className="feature-reel">
         <span className="sr-only">24 hours. One winner.</span>
         <span className="feature-reel-window" aria-hidden="true">
           <span className="feature-reel-line">24 hours</span>
