@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="start.ng">
+  <rect width="64" height="64" rx="16" fill="#f6f5ee" />
+  <rect x="6" y="14" width="52" height="36" rx="9" fill="#ffd93d" stroke="#292a23" stroke-width="4" />
+  <rect x="12" y="20" width="18" height="12" rx="3" fill="#a9d6ff" stroke="#292a23" stroke-width="2.5" />
+  <rect x="34" y="20" width="18" height="12" rx="3" fill="#a9d6ff" stroke="#292a23" stroke-width="2.5" />
+  <circle cx="23" cy="41" r="3.4" fill="#292a23" />
+  <circle cx="41" cy="41" r="3.4" fill="#292a23" />
+  <circle cx="17" cy="52" r="5" fill="#292a23" />
+  <circle cx="47" cy="52" r="5" fill="#292a23" />
+</svg>

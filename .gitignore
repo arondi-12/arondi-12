@@ -12,3 +12,6 @@ amp/openapi.json
 amp/t3.json
 amp/all.json
 amp/prop.json
+
+# local scratch space (screenshots, CDP scripts)
+.scratch/
