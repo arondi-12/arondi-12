@@ -91,6 +91,9 @@ npm run typecheck  # types only
 `vercel.json` already sets the framework, the build command, the output directory and the
 single-page rewrite, so there is nothing to configure in the dashboard.
 
+**Already deployed once:** the build is live at <https://express-oxygen-x1bvbi8.tmp.now> as a
+claimable temporary deployment. See `DEPLOY.md` for the claim link and the post-deploy checklist.
+
 **Fastest (CLI):**
 
 ```bash
